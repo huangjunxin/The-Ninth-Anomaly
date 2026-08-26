@@ -1,0 +1,9 @@
+# World Rules — The Ninth Anomaly
+
+1. **Concept–emotion severance**: implants do not delete memories; they cut the link between concept and emotion. Words/images tied to "natural life" trigger cognitive slip — the mind slides off, no new memory forms. **Words are existence: lose the word, lose the thing.**
+2. **Retainers**: ~1/10,000 cannot be severed. Marked, locked, used as archive labor. Arthur is on the "irreparable" list — which is why the city never repaired his implant.
+3. **Cat's abilities & cost**: perception/memory layer only; each use drains life force (dull fur → sluggish → translucent edges); no effect on military firewalls; EMP burns its reality-coupling layer.
+4. **The Seed Vault**: underground facility = extinct-life gene bank + city-wide neural-net cognitive control hub in one place ("the place that controls memory is the place that sequesters life"). Three doors: outer (old engineer clearance — Arthur's archive knowledge can solve) → middle (living citizen biometric signature — needs Arthur) → inner (requires an **unmarked, clean** signature — Arthur is marked, so in theory impassable).
+5. **The purr frequency**: the old civilization encoded "the memory of life" into the 20–140Hz band of a cat's purr as the vault's carrier key. Broadcasting it = releasing the whole archive. But the frequency needs a living mind that *remembers* as its resonance source — memories are burned one by one, irreversibly.
+6. **Daily texture of the city**: synthetic food has no scent layers; no birds in the sky; children don't know the word "furry"; the concept of pets does not exist; people stroke virtual haptic feedback for comfort.
+7. **Timeline**: the Culling happened 20 years ago. Erasure = severing concept–emotion links, not deleting memory. The city's severance tech was reverse-engineered from captured old-civilization intelligences (01–08); the cat's cognitive erasure is the same family of technology.

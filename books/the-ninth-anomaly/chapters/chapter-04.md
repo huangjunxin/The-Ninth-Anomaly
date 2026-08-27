@@ -5,19 +5,19 @@ The report was forty-one lines long. He read it twice. Twice was the habit, olde
 Renn: drew at 01:49. Does not know why.
 Dalby: drew at 01:49. Does not know why.
 
-Two lines of testimony, nearly identical, from two men who had never done anything in the same way. He knew them. Renn was forty, and the job had stopped surprising him years ago; Dalby was young and had stood, until last night, on his toes, like a man stands when he expects the floor to move. Different men. Same gap. The hole in each of them had the same dimensions, as if the same coin had been lifted from both pockets in the same minute.
+Two lines of testimony, nearly identical, from two men who had never done anything in the same way. He knew them. Renn was forty, and the job had stopped surprising him years ago; Dalby was young and had stood, until last night, on his toes. Different men. Same gap.
 
 One. Two witnesses.
 Two. One hole.
 Three. The hole had edges.
 
-That was the whole of it, and it was everything. A forgotten thing left no edges. He had spent a career in rooms where the cut had been made: the wire between concept and feeling slipped out, the mind slid off the shape, and the room came out smooth, finished, dustless, as if nothing had ever been there. This was not that. This was a thing taken out of time: a cause, a why, lifted out of two trained men, and the place it had stood was still raw.
+That was the whole of it, and it was everything. A forgotten thing left no edges. He had spent a career in rooms where the cut had been made: the wire between concept and feeling slipped out, the mind slid off the shape, and the room came out smooth, finished, dustless. This was not that. This was a thing taken out of time: a cause, a why, lifted out of two trained men, and the place it had stood was still raw.
 
 Four. The record closed itself.
 
-*No anomaly present. Unit stood down. No record.* In a city that never stopped recording. The grid wrote states. The close-out read like a clerk's hand, and no clerk had been in that flat. Beneath the last line ran the boilerplate the grid set under every close-out, and inside it was a typo: *personel*, where the manual kept two n's. He read the typo twice before he read the anomaly twice. A wrong letter he could fix. The hole he could not.
+*No anomaly present. Unit stood down. No record.* The grid wrote states. The close-out read like a clerk's hand, and no clerk had been in that flat. Beneath the last line ran the boilerplate the grid set under every close-out, and inside it was a typo: *personel*, where the manual kept two n's. He read the typo twice before he read the anomaly twice. A wrong letter he could fix. The hole he could not.
 
-He called them in. They stood on the worn strip of floor before his desk, and he asked the same question twice, because that was the habit too.
+He called them in. They stood on the worn strip of floor before his desk, and he asked the same question twice.
 
 'Why did you draw?'
 
@@ -35,38 +35,38 @@ The two men said nothing. They had been inside that flat for ten minutes and los
 
 'Yes,' Vance said. 'It does.'
 
-He dismissed them and watched them go: the borrowed coat, the flat-footed tread, two men walking out of his office with the same hole in each of them. The grid had a word for what it did to citizens. It had no word for what had been done to officers.
+He dismissed them and watched them go: the borrowed coat, the flat-footed tread. The grid had a word for what it did to citizens. It had no word for what had been done to officers.
 
 His coffee had come out wrong again: one sugar where he took none. He drank it. He always drank it. The machine had been wrong for six years, and it would outlast the career.
 
-The log lived in the bottom drawer of his desk, under a lock that had never been wired to anything. It was a bound book, paper, the third of his tenure, and it was the only unamendable thing in the building.
+The log lived in the bottom drawer of his desk. It was a bound book, paper, the only unamendable thing in the building.
 
-That was the whole argument, made at twenty, never revised. The grid could amend anything in its own medium: a file, a close-out, a history, this building's history, amended in the night, without residue. And a mind, any mind, his own, took the cut as any head took it; he had stood in rooms where it was made and watched men walk out smooth and finished; he had written the reports the grid then rewrote in its own quiet hand.
+The grid could amend anything in its own medium: a file, a close-out, this building's history, amended in the night, without residue. And a mind, any mind, his own, took the cut as any head took it. He had written the reports the grid then rewrote in its own quiet hand.
 
 Paper could not be amended. Ink dried. Pages tore. A hand that went back to a page left the pressure of its returning in the fiber, and pressure was a witness. Firewalls could not edit paper.
 
-The book had weight, and he trusted weight. The smell of its paper came up when he opened it, the smell of a thing that had to be opened to be changed. He took up the pen and wrote:
+The book had weight, and he trusted weight. The smell of its paper came up when he opened it. He took up the pen and wrote:
 
 > 3-0711. Time 07:20. Two men. One gap. Same dimensions.
 > The record closed itself: *no record*, in a city that never stops recording.
 > The close-out is not in the grid's hand. Question: whose?
 > Watch the flat.
 
-The resident file came up as files came up: a life reduced to a chute. Arthur M., 28. Retainer, marked, locked. *IRREPARABLE.* Clerk, Forbidden Archive. An address — the address from the report. The surplus. The sill.
+The resident file came up as files came up: a life reduced to a chute. Arthur M., 28. Retainer, marked, locked. *IRREPARABLE.* An address — the address from the report. The surplus. The sill.
 
 He read the name twice.
 
 Arthur.
 
-The name arrived as a temperature: heat through a window that should not have been open, thirty-one degrees in the afternoon, a summer the city no longer admitted it had had. A household, flagged. A case number carrying the old year, 2087, before the grid changed its numbering. A child's picture book, confiscated, graded high. The grade his. He had led the detail himself. That was the assignment he remembered best, and the one he remembered least, and both were true.
+The name arrived as a temperature: heat through a window that should not have been open, thirty-one degrees in the afternoon, a summer the city no longer admitted it had had. A household, flagged. A case number carrying the old year, 2087, before the grid changed its numbering. A child's picture book, confiscated, graded high. The grade his. He had led the detail himself — the assignment he remembered best, and the one he remembered least, and both were true.
 
-He remembered the heat. He remembered the book in his gloved hand, the weight of it, light, heavier than it had been in its owner's keeping, as confiscated things always are. And he remembered the child: the edge of the raid, small, behind a door that had stayed closed, because there was a voice.
+He remembered the heat. He remembered the book in his gloved hand, the weight of it, light, heavier than it had been in its owner's keeping. And he remembered the child: small, behind a door that had stayed closed, because there was a voice.
 
 The boy's voice going on through the panels, reciting something, and his men standing with their backs to it, no orders covering it.
 
-The old volume was on the shelf behind his desk, the first volume, the one whose spine had gone soft. The night was in it, written in the hand he had had at twenty, in the summer of 2087. He put his hand on the spine, held it, and took it back. The page stayed where it was, and the night stayed in it, the old pressure still in the fiber.
+The old volume was on the shelf behind his desk, the first volume, its spine gone soft. The night was in it, written in the hand he had had at twenty, in the summer of 2087. He put his hand on the spine, held it, and took it back. The page stayed where it was, and the night stayed in it, the old pressure still in the fiber.
 
-He issued the envelope himself: the flat, watched. The retainer, held in place. No contact. He kept the thought off the terminal, because what he thought had no grid category: the city had sent two men into that flat and taken nothing out of it, and the men had come back out lighter by a cause they could not name, and the flat's file carried a stamp he had seen on exactly one other file in his life, and that one had been a child's, twenty years, unrevised.
+He issued the envelope himself: the flat, watched. The retainer, held in place. No contact. He kept the thought off the terminal, because what he thought had no grid category: the city had sent two men into that flat and taken nothing out, and they had come back lighter by a cause they could not name, and the flat's file carried a stamp he had seen on exactly one other file in his life, and that one had been a child's, twenty years, unrevised.
 
 He stayed. The report would not close, and neither would he. Near midnight he wrote:
 

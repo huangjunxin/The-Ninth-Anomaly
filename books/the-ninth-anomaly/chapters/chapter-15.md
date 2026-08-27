@@ -121,4 +121,4 @@ Three. There is no one above me to receive it.
 
 He held the salute. The angle was the old one, drilled into him at nineteen, the crisp flat thing he had rendered ten thousand times to a system that had just amended itself out of existence, and he was not rendering it to that system. There was no system. Only a bearing, and the bearing was down, and what lived at the bottom of it had never once given him an order. It had never needed to.
 
-The hand stayed up. The crowd went on remembering around it; the child's word stood in the space the uniform had made. Vance held the salute.
+The hand stayed up. The crowd went on remembering around it; the child's word stood in the space the uniform had made. Vance held the salute. Not for order.

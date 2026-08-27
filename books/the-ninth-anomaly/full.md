@@ -18,23 +18,21 @@ Not furnace-warm, not flesh-warm. A slow, settled warmth, as if something the si
 
 He filed it: *Unsourced. No action.* And closed the file.
 
-The hiss in his skull was the implant: thirty centimeters of locked code and a dead uplink, twenty years old, officially described as *disconnected*. Not broken. The city never admitted broken. Just no longer connected to anything that mattered, a radio left between stations. He dressed and made his morning inventory: the day, the year, who he was. The box at the back of it stayed shut. He ate.
+The hiss in his skull was the implant: thirty centimeters of locked code and a dead uplink, twenty years old, officially described as *disconnected*. Not broken. The city never admitted broken. Just no longer connected to anything that mattered, a radio left between stations. He made his morning inventory: the day, the year, who he was. The box at the back of it stayed shut. He ate.
 
-The pack was a beige rectangle of calibrated texture and uniform temperature. It had no smell. Smell was a layer the city had removed from food, as it had removed birds from the sky.
+The pack was a beige rectangle of calibrated texture and uniform temperature. It had no smell.
 
 The empty pack he folded twice, into a neat square, and left on the desk, where it stayed all day, the only thing in the flat he ever left out. He did not know when the folding had become obligatory.
 
-He counted out his gratitude, because gratitude was work and he did it daily: at the pack, at the vent, at the doors that opened for his badge, at the ramps that remembered his wheels. The city was good to him. It had to be. It had taken so much of him that anything it gave back looked like a gift.
+He counted out his gratitude, because gratitude was work and he did it daily: at the pack, at the vent, at the doors that opened for his badge, at the ramps that remembered his wheels. The city was good to him. It had to be; it had taken so much of him that anything it gave back looked like a gift. He had a room, a job, a body that worked from the waist up, and arms strong enough to carry the rest of him. The only legs he was ever going to be introduced to.
 
-He had a room, a job, a body that worked from the waist up, and arms strong enough to carry the rest of him. The only legs he was ever going to be introduced to.
+At 07:40 the door opened for his badge, and he rolled through the block, across the plaza, and down into the Archive.
 
-At 07:40 the door opened for his badge, and he rolled out through the block, across the plaza, and down into the Archive. The lights came up at his approach and dimmed behind him.
+The Forbidden Archive was a sub-basement: the city built downward to store what it could not burn.
 
-The Forbidden Archive was a sub-basement, and the whole of its architecture was in that: the city built downward to store what it could not burn. Failures of the screening did not die. They were shelved. A second death, cleaner than the first.
+The floor was a long room of carrels, each carrel a screen and a man or woman in it, marked, locked, and aware of it in a way that never needed to be spoken.
 
-The floor was a long room of carrels, six rows running east to west, each carrel a screen and a man or a woman in it, every one of them marked, locked, and aware of it in a way that never needed to be spoken. In the third row, a retainer worked one item at a time, his lips moving with the words as he read, and when the chute swallowed the item he tapped the corner of the screen with a finger that had worn a pale spot in the glass, a smear no cleaner ever reached.
-
-Arthur hung his coat on the hook behind his seat, pulled the gloves from the drawer, and settled the chair into the exact angle the floor had worn for him. Then he logged in. The day's work rose onto his screen from the chute below: confiscated text, one item at a time, sorted, entered, sentenced. Most of it was harmless. The screening was a blunt instrument, and the archive was where its mistakes accumulated: a tract on the migratory patterns of a bird that no longer existed, an illustrated farming manual, a child's primer that had tripped the scanner on a word the city had decided weighed too much.
+Arthur hung his coat on the hook and logged in. The day's work rose onto his screen: confiscated text, one item at a time, sorted, entered, sentenced. The screening was a blunt instrument, and the archive was where its mistakes accumulated: a tract on the migratory patterns of a bird that no longer existed, a child's primer that had tripped the scanner on a word the city had decided weighed too much.
 
 Two carrels down, the woman he did not speak to went blank.
 
@@ -58,13 +56,11 @@ The engineer's file came up at 14:47. An old infrastructure archive, condemned o
 
 Current files used sector, block, floor: four digits and a hyphen, the grammar of a city built in a hurry and regulated since. This one used three fields, axis, ring, depth: *AX-7 / R-3 / D-24*, a layout he had not seen on anything dated after the Culling, signed with the crest of a department the city no longer ran, descending into a structure below the grid the current maps did not keep.
 
-To anyone else it was a dead file. To the system it was nothing. Formats carried nothing, so the city never banned them, and they survived; he collected them like a museum collects the last of a thing.
+To anyone else it was a dead file. Formats carried nothing, so the city never banned them.
 
 He memorized the engineer's format deliberately, which was different from how he memorized everything else, and did not ask himself why. Asking would have meant opening a file he had agreed never to open. *Axis, ring, depth.* The format settled in him as the warmth had sat on the sill that morning.
 
-He was still carrying it when he came home.
-
-The route was fixed: out of the sub-basement, across the plaza where the sky was a color the city had decided on. The plaza held no birds; he had stopped looking up years ago, but the absence had a weight of its own, and tonight it sat in him like a missing tooth. The sky did nothing. So did Arthur. On a bench, a man was stroking the air before him slowly, a remembered animal under his hand. The hand closed on nothing and came away full, and for one second Arthur hated the man, for the easiness of it. Arthur looked away. Looking was a habit he had trained himself out of.
+Out of the sub-basement, across the plaza where the sky was a color the city had decided on. It held no birds; the absence had a weight of its own, and tonight it sat in him like a missing tooth. On a bench, a man was stroking the air before him slowly, a remembered animal under his hand. The hand closed on nothing and came away full, and for one second Arthur hated the man, for the easiness of it. Arthur looked away. Looking was a habit he had trained himself out of.
 
 The evening was blue and even. The flat door opened for his badge. The sill was a sill.
 
@@ -373,19 +369,19 @@ The report was forty-one lines long. He read it twice. Twice was the habit, olde
 Renn: drew at 01:49. Does not know why.
 Dalby: drew at 01:49. Does not know why.
 
-Two lines of testimony, nearly identical, from two men who had never done anything in the same way. He knew them. Renn was forty, and the job had stopped surprising him years ago; Dalby was young and had stood, until last night, on his toes, like a man stands when he expects the floor to move. Different men. Same gap. The hole in each of them had the same dimensions, as if the same coin had been lifted from both pockets in the same minute.
+Two lines of testimony, nearly identical, from two men who had never done anything in the same way. He knew them. Renn was forty, and the job had stopped surprising him years ago; Dalby was young and had stood, until last night, on his toes. Different men. Same gap.
 
 One. Two witnesses.
 Two. One hole.
 Three. The hole had edges.
 
-That was the whole of it, and it was everything. A forgotten thing left no edges. He had spent a career in rooms where the cut had been made: the wire between concept and feeling slipped out, the mind slid off the shape, and the room came out smooth, finished, dustless, as if nothing had ever been there. This was not that. This was a thing taken out of time: a cause, a why, lifted out of two trained men, and the place it had stood was still raw.
+That was the whole of it, and it was everything. A forgotten thing left no edges. He had spent a career in rooms where the cut had been made: the wire between concept and feeling slipped out, the mind slid off the shape, and the room came out smooth, finished, dustless. This was not that. This was a thing taken out of time: a cause, a why, lifted out of two trained men, and the place it had stood was still raw.
 
 Four. The record closed itself.
 
-*No anomaly present. Unit stood down. No record.* In a city that never stopped recording. The grid wrote states. The close-out read like a clerk's hand, and no clerk had been in that flat. Beneath the last line ran the boilerplate the grid set under every close-out, and inside it was a typo: *personel*, where the manual kept two n's. He read the typo twice before he read the anomaly twice. A wrong letter he could fix. The hole he could not.
+*No anomaly present. Unit stood down. No record.* The grid wrote states. The close-out read like a clerk's hand, and no clerk had been in that flat. Beneath the last line ran the boilerplate the grid set under every close-out, and inside it was a typo: *personel*, where the manual kept two n's. He read the typo twice before he read the anomaly twice. A wrong letter he could fix. The hole he could not.
 
-He called them in. They stood on the worn strip of floor before his desk, and he asked the same question twice, because that was the habit too.
+He called them in. They stood on the worn strip of floor before his desk, and he asked the same question twice.
 
 'Why did you draw?'
 
@@ -403,38 +399,38 @@ The two men said nothing. They had been inside that flat for ten minutes and los
 
 'Yes,' Vance said. 'It does.'
 
-He dismissed them and watched them go: the borrowed coat, the flat-footed tread, two men walking out of his office with the same hole in each of them. The grid had a word for what it did to citizens. It had no word for what had been done to officers.
+He dismissed them and watched them go: the borrowed coat, the flat-footed tread. The grid had a word for what it did to citizens. It had no word for what had been done to officers.
 
 His coffee had come out wrong again: one sugar where he took none. He drank it. He always drank it. The machine had been wrong for six years, and it would outlast the career.
 
-The log lived in the bottom drawer of his desk, under a lock that had never been wired to anything. It was a bound book, paper, the third of his tenure, and it was the only unamendable thing in the building.
+The log lived in the bottom drawer of his desk. It was a bound book, paper, the only unamendable thing in the building.
 
-That was the whole argument, made at twenty, never revised. The grid could amend anything in its own medium: a file, a close-out, a history, this building's history, amended in the night, without residue. And a mind, any mind, his own, took the cut as any head took it; he had stood in rooms where it was made and watched men walk out smooth and finished; he had written the reports the grid then rewrote in its own quiet hand.
+The grid could amend anything in its own medium: a file, a close-out, this building's history, amended in the night, without residue. And a mind, any mind, his own, took the cut as any head took it. He had written the reports the grid then rewrote in its own quiet hand.
 
 Paper could not be amended. Ink dried. Pages tore. A hand that went back to a page left the pressure of its returning in the fiber, and pressure was a witness. Firewalls could not edit paper.
 
-The book had weight, and he trusted weight. The smell of its paper came up when he opened it, the smell of a thing that had to be opened to be changed. He took up the pen and wrote:
+The book had weight, and he trusted weight. The smell of its paper came up when he opened it. He took up the pen and wrote:
 
 > 3-0711. Time 07:20. Two men. One gap. Same dimensions.
 > The record closed itself: *no record*, in a city that never stops recording.
 > The close-out is not in the grid's hand. Question: whose?
 > Watch the flat.
 
-The resident file came up as files came up: a life reduced to a chute. Arthur M., 28. Retainer, marked, locked. *IRREPARABLE.* Clerk, Forbidden Archive. An address — the address from the report. The surplus. The sill.
+The resident file came up as files came up: a life reduced to a chute. Arthur M., 28. Retainer, marked, locked. *IRREPARABLE.* An address — the address from the report. The surplus. The sill.
 
 He read the name twice.
 
 Arthur.
 
-The name arrived as a temperature: heat through a window that should not have been open, thirty-one degrees in the afternoon, a summer the city no longer admitted it had had. A household, flagged. A case number carrying the old year, 2087, before the grid changed its numbering. A child's picture book, confiscated, graded high. The grade his. He had led the detail himself. That was the assignment he remembered best, and the one he remembered least, and both were true.
+The name arrived as a temperature: heat through a window that should not have been open, thirty-one degrees in the afternoon, a summer the city no longer admitted it had had. A household, flagged. A case number carrying the old year, 2087, before the grid changed its numbering. A child's picture book, confiscated, graded high. The grade his. He had led the detail himself — the assignment he remembered best, and the one he remembered least, and both were true.
 
-He remembered the heat. He remembered the book in his gloved hand, the weight of it, light, heavier than it had been in its owner's keeping, as confiscated things always are. And he remembered the child: the edge of the raid, small, behind a door that had stayed closed, because there was a voice.
+He remembered the heat. He remembered the book in his gloved hand, the weight of it, light, heavier than it had been in its owner's keeping. And he remembered the child: small, behind a door that had stayed closed, because there was a voice.
 
 The boy's voice going on through the panels, reciting something, and his men standing with their backs to it, no orders covering it.
 
-The old volume was on the shelf behind his desk, the first volume, the one whose spine had gone soft. The night was in it, written in the hand he had had at twenty, in the summer of 2087. He put his hand on the spine, held it, and took it back. The page stayed where it was, and the night stayed in it, the old pressure still in the fiber.
+The old volume was on the shelf behind his desk, the first volume, its spine gone soft. The night was in it, written in the hand he had had at twenty, in the summer of 2087. He put his hand on the spine, held it, and took it back. The page stayed where it was, and the night stayed in it, the old pressure still in the fiber.
 
-He issued the envelope himself: the flat, watched. The retainer, held in place. No contact. He kept the thought off the terminal, because what he thought had no grid category: the city had sent two men into that flat and taken nothing out of it, and the men had come back out lighter by a cause they could not name, and the flat's file carried a stamp he had seen on exactly one other file in his life, and that one had been a child's, twenty years, unrevised.
+He issued the envelope himself: the flat, watched. The retainer, held in place. No contact. He kept the thought off the terminal, because what he thought had no grid category: the city had sent two men into that flat and taken nothing out, and they had come back lighter by a cause they could not name, and the flat's file carried a stamp he had seen on exactly one other file in his life, and that one had been a child's, twenty years, unrevised.
 
 He stayed. The report would not close, and neither would he. Near midnight he wrote:
 
@@ -1167,7 +1163,7 @@ Somewhere above the green, in the city that was amending the night, the hand was
 
 # Chapter 10: Silence, Then Static
 
-The third watch came down the corridor and found them at the foot of the bulkhead; nothing came with it but the green and the hum. He had been sitting with the price of the broadcast: the door still sealed, the collar still seized, the one turn that would open it waiting in the arm — and the price had not changed.
+The third watch came down the corridor and found them at the foot of the bulkhead; nothing came with it but the green and the hum. He had been sitting with the arithmetic of the broadcast: the door still sealed, the collar still seized, the one turn that would open it waiting in the arm — and the arithmetic had not changed.
 
 In the dark the translucency had crept again: the light came through both ears now as through water.
 
@@ -1181,7 +1177,7 @@ The voice read the cause almost gently, mid-text, the way the city always said t
 
 And the last clause came: *the anomaly, and any citizen found in contact with it, to be neutralized at the point of encounter*, and his hand stopped on the chair's arm, and he read it twice, because he had learned to read terrible things twice.
 
-He read it twice, and the order stood.
+The second reading changed nothing. The order stood.
 
 He thought of the warren: Nadia Soren, who kept only the shape of the word *furry*, and Eli, who would hear every word of the purge and keep none; the words would slide off the child the way they slid off the whole city, in a level about to be swept. He had brought the purge down on the warren. He recorded that, and it stayed. Some things would not record.
 
@@ -1544,7 +1540,9 @@ He had come through the outer door on Arthur's knowledge, left standing open beh
 
 He did not look at Arthur. He did look at the plate. Arthur saw the eyes pause on the four red lines, rest on the last line, the word that had turned him away, like a name in a document he had been carrying toward for years; then he put his hand inside his coat and brought out the wafer.
 
-Thumb-sized. Fired ceramic, sleeved in black alloy, no printing, no number. The officer's signature key — Arthur knew its class from the archive, an identity the grid had never had to amend, the only identity the city had never touched, because it predated the touching. It was warm from the captain's coat, warmer than the chamber, warmer than anything in the deep had a right to be: the warmth of a thing kept over the heart. Arthur understood in the same instant, with the certainty that had carried him this far, what the third door had been built to admit: one kind of hand. Clean. Military. Unmarked. The hand that had signed his lock order.
+The drawer had opened before dawn: one, the wafer, two, the coat, three, the stairs.
+
+Thumb-sized. Fired ceramic, sleeved in black alloy, no printing, no number. The officer's signature key — Arthur knew its class from the archive, an identity the grid had never had to amend, the only identity the city had never touched, because it predated the touching. It was warm from the captain's coat, warmer than the chamber, warmer than anything in the deep had a right to be: the warmth of a thing kept over the heart. Clean. Military. Unmarked. He had known since the dead streets that it would come down to a hand like this; he had only never had to see it arrive. The knowing did not soften the dread; it made it exact. The door was going to open, and the sentence standing behind him since the dust was down to its last step.
 
 It was the thing the cat had priced on the night of the plaque and could not touch — the third door sealed with the one thing the city could never reach, the hinge of the whole plan, the hand that had to come down the corridor or the plan ended here. The hand had come. The cat had priced the hand; it had never priced the coming. That part of the corridor had been the man's own work, decided above, before he ever reached the plate.
 
@@ -1899,7 +1897,7 @@ Three. There is no one above me to receive it.
 
 He held the salute. The angle was the old one, drilled into him at nineteen, the crisp flat thing he had rendered ten thousand times to a system that had just amended itself out of existence, and he was not rendering it to that system. There was no system. Only a bearing, and the bearing was down, and what lived at the bottom of it had never once given him an order. It had never needed to.
 
-The hand stayed up. The crowd went on remembering around it; the child's word stood in the space the uniform had made. Vance held the salute.
+The hand stayed up. The crowd went on remembering around it; the child's word stood in the space the uniform had made. Vance held the salute. Not for order.
 
 # Chapter 16: Morning
 

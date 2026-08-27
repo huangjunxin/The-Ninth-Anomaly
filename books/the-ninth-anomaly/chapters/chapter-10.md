@@ -1,6 +1,6 @@
 # Chapter 10: Silence, Then Static
 
-The third watch came down the corridor and found them at the foot of the bulkhead; nothing came with it but the green and the hum. He had been sitting with the price of the broadcast: the door still sealed, the collar still seized, the one turn that would open it waiting in the arm — and the price had not changed.
+The third watch came down the corridor and found them at the foot of the bulkhead; nothing came with it but the green and the hum. He had been sitting with the arithmetic of the broadcast: the door still sealed, the collar still seized, the one turn that would open it waiting in the arm — and the arithmetic had not changed.
 
 In the dark the translucency had crept again: the light came through both ears now as through water.
 
@@ -14,7 +14,7 @@ The voice read the cause almost gently, mid-text, the way the city always said t
 
 And the last clause came: *the anomaly, and any citizen found in contact with it, to be neutralized at the point of encounter*, and his hand stopped on the chair's arm, and he read it twice, because he had learned to read terrible things twice.
 
-He read it twice, and the order stood.
+The second reading changed nothing. The order stood.
 
 He thought of the warren: Nadia Soren, who kept only the shape of the word *furry*, and Eli, who would hear every word of the purge and keep none; the words would slide off the child the way they slid off the whole city, in a level about to be swept. He had brought the purge down on the warren. He recorded that, and it stayed. Some things would not record.
 

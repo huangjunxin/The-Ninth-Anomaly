@@ -16,23 +16,21 @@ Not furnace-warm, not flesh-warm. A slow, settled warmth, as if something the si
 
 He filed it: *Unsourced. No action.* And closed the file.
 
-The hiss in his skull was the implant: thirty centimeters of locked code and a dead uplink, twenty years old, officially described as *disconnected*. Not broken. The city never admitted broken. Just no longer connected to anything that mattered, a radio left between stations. He dressed and made his morning inventory: the day, the year, who he was. The box at the back of it stayed shut. He ate.
+The hiss in his skull was the implant: thirty centimeters of locked code and a dead uplink, twenty years old, officially described as *disconnected*. Not broken. The city never admitted broken. Just no longer connected to anything that mattered, a radio left between stations. He made his morning inventory: the day, the year, who he was. The box at the back of it stayed shut. He ate.
 
-The pack was a beige rectangle of calibrated texture and uniform temperature. It had no smell. Smell was a layer the city had removed from food, as it had removed birds from the sky.
+The pack was a beige rectangle of calibrated texture and uniform temperature. It had no smell.
 
 The empty pack he folded twice, into a neat square, and left on the desk, where it stayed all day, the only thing in the flat he ever left out. He did not know when the folding had become obligatory.
 
-He counted out his gratitude, because gratitude was work and he did it daily: at the pack, at the vent, at the doors that opened for his badge, at the ramps that remembered his wheels. The city was good to him. It had to be. It had taken so much of him that anything it gave back looked like a gift.
+He counted out his gratitude, because gratitude was work and he did it daily: at the pack, at the vent, at the doors that opened for his badge, at the ramps that remembered his wheels. The city was good to him. It had to be; it had taken so much of him that anything it gave back looked like a gift. He had a room, a job, a body that worked from the waist up, and arms strong enough to carry the rest of him. The only legs he was ever going to be introduced to.
 
-He had a room, a job, a body that worked from the waist up, and arms strong enough to carry the rest of him. The only legs he was ever going to be introduced to.
+At 07:40 the door opened for his badge, and he rolled through the block, across the plaza, and down into the Archive.
 
-At 07:40 the door opened for his badge, and he rolled out through the block, across the plaza, and down into the Archive. The lights came up at his approach and dimmed behind him.
+The Forbidden Archive was a sub-basement: the city built downward to store what it could not burn.
 
-The Forbidden Archive was a sub-basement, and the whole of its architecture was in that: the city built downward to store what it could not burn. Failures of the screening did not die. They were shelved. A second death, cleaner than the first.
+The floor was a long room of carrels, each carrel a screen and a man or woman in it, marked, locked, and aware of it in a way that never needed to be spoken.
 
-The floor was a long room of carrels, six rows running east to west, each carrel a screen and a man or a woman in it, every one of them marked, locked, and aware of it in a way that never needed to be spoken. In the third row, a retainer worked one item at a time, his lips moving with the words as he read, and when the chute swallowed the item he tapped the corner of the screen with a finger that had worn a pale spot in the glass, a smear no cleaner ever reached.
-
-Arthur hung his coat on the hook behind his seat, pulled the gloves from the drawer, and settled the chair into the exact angle the floor had worn for him. Then he logged in. The day's work rose onto his screen from the chute below: confiscated text, one item at a time, sorted, entered, sentenced. Most of it was harmless. The screening was a blunt instrument, and the archive was where its mistakes accumulated: a tract on the migratory patterns of a bird that no longer existed, an illustrated farming manual, a child's primer that had tripped the scanner on a word the city had decided weighed too much.
+Arthur hung his coat on the hook and logged in. The day's work rose onto his screen: confiscated text, one item at a time, sorted, entered, sentenced. The screening was a blunt instrument, and the archive was where its mistakes accumulated: a tract on the migratory patterns of a bird that no longer existed, a child's primer that had tripped the scanner on a word the city had decided weighed too much.
 
 Two carrels down, the woman he did not speak to went blank.
 
@@ -56,13 +54,11 @@ The engineer's file came up at 14:47. An old infrastructure archive, condemned o
 
 Current files used sector, block, floor: four digits and a hyphen, the grammar of a city built in a hurry and regulated since. This one used three fields, axis, ring, depth: *AX-7 / R-3 / D-24*, a layout he had not seen on anything dated after the Culling, signed with the crest of a department the city no longer ran, descending into a structure below the grid the current maps did not keep.
 
-To anyone else it was a dead file. To the system it was nothing. Formats carried nothing, so the city never banned them, and they survived; he collected them like a museum collects the last of a thing.
+To anyone else it was a dead file. Formats carried nothing, so the city never banned them.
 
 He memorized the engineer's format deliberately, which was different from how he memorized everything else, and did not ask himself why. Asking would have meant opening a file he had agreed never to open. *Axis, ring, depth.* The format settled in him as the warmth had sat on the sill that morning.
 
-He was still carrying it when he came home.
-
-The route was fixed: out of the sub-basement, across the plaza where the sky was a color the city had decided on. The plaza held no birds; he had stopped looking up years ago, but the absence had a weight of its own, and tonight it sat in him like a missing tooth. The sky did nothing. So did Arthur. On a bench, a man was stroking the air before him slowly, a remembered animal under his hand. The hand closed on nothing and came away full, and for one second Arthur hated the man, for the easiness of it. Arthur looked away. Looking was a habit he had trained himself out of.
+Out of the sub-basement, across the plaza where the sky was a color the city had decided on. It held no birds; the absence had a weight of its own, and tonight it sat in him like a missing tooth. On a bench, a man was stroking the air before him slowly, a remembered animal under his hand. The hand closed on nothing and came away full, and for one second Arthur hated the man, for the easiness of it. Arthur looked away. Looking was a habit he had trained himself out of.
 
 The evening was blue and even. The flat door opened for his badge. The sill was a sill.
 

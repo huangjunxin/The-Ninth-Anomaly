@@ -1,6 +1,6 @@
 # Chapter 13: Three Doors
 
-The words followed him all the way to the collar — *the inner door wants a clean signature. Yours is dirty.* The sentence had been standing behind him since the captain spoke it, and Arthur put it in the drawer with the things he could not use yet, and took hold of the collar. The metal was warm from his own hands, warm as iron in a grip held half the night. Half-advanced, the exact shape his grip had left in it on the night the searchlights found them, when the chair went down. The first half of the turn had cost him a wheelchair and a night and everything a wheelchair had ever meant; the second half stood ready, waiting to be finished.
+The words followed him all the way to the collar — *the inner door wants a clean signature. Yours is dirty.* The sentence had been standing behind him since the captain spoke it, and Arthur put it in the drawer with the things he could not use yet, and took hold of the collar. The metal was warm from his own hands, warm as iron in a grip held half the night. The collar sat half-advanced, exactly where his grip had left it on the night the searchlights found them, when the chair went down under him. The first half of the turn had cost him a wheelchair and a night and everything a wheelchair had ever meant; the second half stood ready, waiting to be finished.
 
 His arms had been shaking since the ramp; the crawl had taken the night's worst out of them, and the collar asked for more than the night had left. He gave it what he had, his whole technique for a month: give what you have, pull, do not stop pulling. The green ring of light lay low around the collar, and the cat lay against his sternum, and the city lay somewhere above them both, amended, quiet.
 
@@ -43,7 +43,7 @@ The plate read him slowly. Cooler than the middle gate. This one was checking wh
 > CLEAN SIGNATURE REQUIRED
 > ACCESS DENIED
 
-The word was his. It had been his since he was eight, chosen for him on an afternoon at thirty-one degrees, while a door stood shut between a child and the room where they were taking his page. He had read it on paper a hundred times, on the one file of him that counted. He had never seen it printed on the world itself, on the last door of the deep, in red, turning him away. The city let him see, and let him carry, and let him arrive, and the arrival was the refusal. The sighted are used to bury what they see. They are not used to being let past the burial.
+The word was his. It had been his since he was eight, chosen for him on an afternoon at thirty-one degrees, while a door stood shut between a child and the room where they were taking his page. He had read it on paper a hundred times, on the one file of him that counted. He had never seen it printed on the world itself, on the last door of the deep, in red, turning him away. The city let him see, and let him carry, and let him arrive, and the arrival was the refusal. The burying had always been his hands' work. The refusal was the city's, in red.
 
 He pressed the plate again, and the door read him again, and there it was again: the same four lines, the same word, patient as a verdict. The red stayed. It meant it. He offered it his other hand, as if the mark might live in the right one and not the left, and the door read the left as it had read the right, whole, and said the same four lines. The cat was a weight in his arm, wrong-light, wrong-soft. The empty socket where its voice had been gave back nothing. 'Marked. Irreparable,' he said aloud, so that at least one of them heard it whole; the corridor said nothing, and the door said its four lines, and there was nothing in the reach of his voice or his hands that would open it.
 
@@ -55,7 +55,7 @@ He gathered the cat closer, the way you gather a thing before setting it down fo
 
 Boots.
 
-He heard them through the corridor, through the door, through his own silence. One tread, heel first, unhurried — the tread that had come down the ramp on the night of the offer, the tread of a man who has priced what comes next. The middle gate admitted him without a pause: one clean read, the click of a signature that had never once been marked, and then the boots came on through the second door and into the corridor. The man walked into the chamber a little out of breath, dust pale on one cuff, like a man who had already decided to be in it.
+He heard them through the corridor, through the door, through his own silence. One tread, heel first, unhurried — the tread that had come down the ramp on the night of the offer, the tread of a man who has priced what comes next. The middle gate admitted him without a pause: one clean read, the click of a signature that had never once been marked, and then the boots came on through the second door and into the corridor. The man walked into the chamber a little out of breath, one cuff pale with dust, like a man who had already decided to be in it.
 
 He had come through the outer door on Arthur's knowledge, left standing open, the first thing the archived clearance had ever let through besides Arthur, and through the middle gate on a read that had not cost him a breath. He had taken the stairs. They had made up the difference. And the coat at his chest stood out a hand's width: a squared weight, the exact shape of a bound volume, carried against the ribs like a man carrying his orders. Arthur read the shape. Paper. The captain had come down to the deepest door in the city carrying paper, and the city ran on data, and paper was the one thing the city could not amend.
 
@@ -71,7 +71,7 @@ The red went out first. Then the four lines went down, one by one, as if the doo
 
 'Twenty years ago I signed a form. This one today — same handwriting.'
 
-There was no fencing in it, no amendment, no offer. A fact, laid down. Then the standing man stepped back from the door he had opened, and stood aside, and offered the threshold to the crawling man with no word at all. Arthur had no answer that would not have been smaller than the fact, so he gave none.
+There was no hedging in it, no amendment, no offer. A fact, laid down. Then the standing man stepped back from the door he had opened, and stood aside, and offered the threshold to the crawling man with no word at all. Arthur had no answer that would not have been smaller than the fact, so he gave none.
 
 He went through, and the door stood open behind him on the same handwriting that had closed a different door twenty years ago, and he carried that with him past the offered threshold, past the man who had signed for him, the cat riding in the cradle of his arm, into the deepest room of the vault.
 

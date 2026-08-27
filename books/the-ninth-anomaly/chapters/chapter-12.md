@@ -41,7 +41,7 @@ Two. Minds take the cut.
 Three. Paper holds.
 Four. Paper holds even what a man writes down so that he will never have to read it.
 
-He read the rhyme a second time.
+He went back to the rhyme.
 
 *Tabby on the windowsill, the sun across her fur.* The boy was behind the door, the book in transit in the room, the men standing with their backs to the voice. The child recited the page whole, four times, and he could not have been reading it: he could not see it, and he had been too young to have been told it more than once. He had it, whole, in a city where nothing stayed. He had it *before* the raid. The raid could not take it out of him. In two seasons the book would burn with the rest of the grade-high stock, the page with it; the page survived in two places only: the child's memory, which the city would spend the next twenty years trying to make stop meaning anything, and this book.
 
@@ -49,7 +49,7 @@ The file had said the voice was not in any record: *the boy's voice behind the d
 
 There was a difference between keeping a page and reading a page. He had done the one for twenty years. He had just done the other, and it had entered him the way nothing had entered him since he was twenty.
 
-The city called it a defect. He turned past the raid entry to the next, the shorter one, and read it whole, and it was all there, in the young hand's even lines: the retention test, run after the confiscation, which had proved what the raid had already shown — the child had kept the page after it had left his keeping. The memory did not slide or amend. It stayed, whole, in a city that ran on things not staying. That was the defect. That was the grounds. *IRREPARABLE*. The stamp for the work the city did not intend to finish, and had never amended in twenty years. And on the order, in the delegation line, in the V open like a door, his name.
+The city called it a defect. He turned past the raid entry to the next, the shorter one, and read it whole, and it was all there, in the young hand's even lines: the retention test, run after the confiscation, which had proved what the raid had already shown — the child had kept the page after it had left his keeping. The memory did not slide or amend. It stayed, whole, in a city that ran on things not staying. That was the defect. That was the grounds. *IRREPARABLE*. The stamp for the work the city did not intend to finish, and had never amended in twenty years. And on the order, in the delegation line, his name, the V of it a doorway.
 
 > 1-0410. Time 21:05. August, 1998. Item: the lock order, signed by my hand today. Subject: the child of 1-0409. Scope: permanent, irreversible.
 > The test confirmed the grade. He held the page after the confiscation; the instruments measured it; the retention is genuine. The city will use him in the archive, the way the sighted are used, to bury what they see.
@@ -73,7 +73,7 @@ He opened the drawer and took out book three, the current volume, and wrote, bec
 > I carried the page for twenty years without reading it. Tonight I read it three times.
 > Decide what it means that the boy could not stop saying it, and that I could not stop writing it down.
 
-He closed book three and returned it to the drawer. Then he turned back to the first volume, to the last page, to the blank space beneath the young hand's certainty, and he wrote there, not an entry, no number, nothing the grid would call a record, no date, nothing but the words, in the same hand, the V open the same way, the ink the same color by the light of the same building:
+He closed book three and returned it to the drawer. Then he turned back to the first volume, to the last page, to the blank space beneath the young hand's certainty, and he wrote there, not an entry, no number, nothing the grid would call a record, no date, nothing but the words, in the same hand, the V opening the same, the ink the same color by the light of the same building:
 
 > Today I read it three times. I did not find the certainty.
 

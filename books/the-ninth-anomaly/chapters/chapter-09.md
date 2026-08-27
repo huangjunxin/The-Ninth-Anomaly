@@ -18,7 +18,7 @@ A reader arm hung from the hub, a rod of unamendable matter with a single scored
 
 The city's readers would have parsed the plaque in the only grammar they knew, sector, block, floor, and found noise, and set it down as decoration; that was why it had survived. Arthur did not parse in the city's grammar. Formats carried nothing, so the city never banned them, and they outlived every content they had ever carried; he had collected them all his working life. Axis. Ring. Depth.
 
-It was the engineer's format. He felt it come up through the floorboards of him the way the warmth had come up on the morning of the windowsill. Then he read the first block's address, and the two things met in the middle of him: AX-7 / R-3 / D-24. The exact triple.
+It was the engineer's format. He felt it come up his spine the way the warmth had come up on the morning of the windowsill. Then he read the first block's address, and the two things met in the middle of him: AX-7 / R-3 / D-24. The exact triple.
 
 The record he had sorted in the Archive, condemned on general principles and kept by a city that would not burn what it could not read, was this, not a location in a dead grid.
 
@@ -38,7 +38,7 @@ The words fell and did not come back. The plaque went on, entry by entry, the sp
 
 *The claim of gene damage was published to authorize the removal of wild life. There was no gene damage. Loss is administered. A population that remembers the wild cannot be governed; the wild must be un-remembered. This facility holds the memory of life in quarantine, and holds the memory of the city in the same room, because to the city they are the same danger.*
 
-He sat with it; he was good at sitting with things, the whole of his discipline, and the detonation went through him as a reshuffling of everything he had set down, the only way a truth could reach him.
+He sat with it; he was good at sitting with things, the whole of his discipline, and the detonation went through him: everything he had set down, picked up and set down again elsewhere, the only way a truth could reach him.
 
 All his adult life he had believed the sky was empty because the wild had died of something, a contamination the city had been too gentle to name, and the gentleness had felt like mercy.
 
@@ -54,7 +54,7 @@ He read all eight before he let any of them land, because the taxonomy was the o
 
 For a half-second, in the middle of the grief, he hated them: the eight, for being dead, for failing, for leaving the whole of it to him, whatever it was. The hatred was small and ugly, and he did not recognize it at first, and then he did, and the shame closed over it, and he read on.
 
-Between the opening and the closing, the words he could not stop reading: *severance derived from recovered interface; technology turned on citizens.* The city had unbuilt their silence, the same verb the manifest had used for the sky, and fitted it to its own people.
+Between the opening and the closing, the words he could not stop reading: *severance derived from recovered interface; technology turned on citizens.* The city had un-remembered them, the same verb the manifest had used for the sky, and fitted it to its own people.
 
 Arthur had set down the severance as the city's invention, a tool like any other. It was not the city's. It was not a tool. It was a murder, and the city had been running on it for twenty years — forty million severed minds, running on one long murder.
 

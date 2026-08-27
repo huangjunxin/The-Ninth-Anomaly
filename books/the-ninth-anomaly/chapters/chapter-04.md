@@ -5,7 +5,7 @@ The report was forty-one lines long. He read it twice. Twice was the habit, olde
 Renn: drew at 01:49. Does not know why.
 Dalby: drew at 01:49. Does not know why.
 
-Two lines of testimony, nearly identical, from two men who had never done anything in the same way. He knew them. Renn was forty, carried the job like a borrowed coat; Dalby was young and had stood, until last night, on his toes, like a man stands when he expects the floor to move. Different men. Same gap. The hole in each of them had the same dimensions, as if the same coin had been lifted from both pockets in the same minute.
+Two lines of testimony, nearly identical, from two men who had never done anything in the same way. He knew them. Renn was forty, and the job had stopped surprising him years ago; Dalby was young and had stood, until last night, on his toes, like a man stands when he expects the floor to move. Different men. Same gap. The hole in each of them had the same dimensions, as if the same coin had been lifted from both pockets in the same minute.
 
 One. Two witnesses.
 Two. One hole.
@@ -77,13 +77,13 @@ He stayed. The report would not close, and neither would he. Near midnight he wr
 
 * * *
 
-The door was still broken. That was the first thing Arthur filed, at 02:40, with the cat's silence filling the room as it had filled it all evening: the panel stood wedged against the frame exactly as the older officer had left it, a courtesy with no repair behind it, and the city had no record of the door at all.
+The door was still broken. That was the first thing Arthur filed, at 02:40, with the cat's silence filling the room as it had filled it all evening: the panel stood wedged against the frame exactly as the older officer had left it, the wedge the only repair the night had made, and the city had no record of the door at all.
 
 The city knew only what it logged and went blind everywhere else. He had turned that sentence over a dozen times since the morning; now he was going to leave through it.
 
 He packed by the discipline, which was to say he packed almost nothing. The chair's pouch took the ration pack, the last he would draw under his own name. It took the badge that had opened every door of his adult life. It took the blanket off his knees, folded small, as he folded everything, small and exact, leaving nothing behind. The blanket had lain across the dead length of him for years, and it was the only thing that had ever lain there without asking anything back, and the cat would ride on it.
 
-The cat watched him from the middle of the desk, where it had watched all evening without comment: matte, dusty, a shade thinner than it had been that morning, its black worn faint at the edges, the price of the second it had sold him. It had slept in long flat drifts, and the waking was work, as if something in it had to be wound.
+The cat watched him from the middle of the desk, where it had watched all evening without comment: a little less of it than this morning, the fur lying loose on the frame, the price of the second it had sold him. It had slept in long flat drifts, and the waking was work, as if something in it had to be wound.
 
 It made no sound at all. When he came back from the door it was sitting up, and the sitting had cost it, and it looked at the folded blanket, then at the door, and its eyes folded shut once, not a blink, a page turned and done, the smile of a broker watching a client reach the number.
 
@@ -112,13 +112,13 @@ He reached the ramp's mouth at 02:57. The north arc's boots came past above him,
 
 He was already moving. The gate under the abutment was older than the cordon, older than the grid's memory of itself; its key was catalogued in the same dead grammar as a hundred other keys, and he fed it the digits one-handed while the other held the wheel, and the gate opened without sound. The chair caught on the gate's low sill, and he had to rock it, twice, small and graceless, before the wheels came over. He pushed as he had pushed for twenty years, arms strong enough to carry the rest of him. The blanket slipped a hand's width off his dead knees, and he tucked it back with the wheel hand, hating it for one clean second. Then the ramp fell away down and across the boundary line, the wheels making their soft sound on the old tarmac; the far abutment came up and over him, and he stopped.
 
-He had been under the camera's eye for six seconds. The eye came back. Nothing on the feed. The seam closed over him the way water closes over a coin.
+He had been under the camera's eye for six seconds. The eye came back. Nothing on the feed. The seam closed over him like a purse-string pulled tight.
 
 He sat with his shoulders heaving, the cat still and warm and soundless on the blanket. It was spending nothing, which was the only gift it had to give, and he understood that he was being carried through his own escape by the only creature in the city that had ever carried him. On his own dead knees.
 
 Then the world's attention changed.
 
-He felt it as he had felt the building change last night, when it ran its reconciliation and found a surplus: a room's temperature shifting, unsourced. Far along the line, past the ramp's lip, the checkpoint crew had stopped moving, all of them, at the same moment, as if a number had come up. He could not see his own signature, but he had lived twenty-eight years under the city's attention and understood its grammar, and this was the sentence the night had been building since 01:00, last night:
+He felt it as he had felt the building change last night, when it ran its reconciliation and found a surplus: a room's temperature shifting, unsourced. Far along the line, past the ramp's lip, the checkpoint crew had stopped moving, all of them, at the same moment, as if a number had come up. He could not see his own signature, but he had been reading the city's attention for twenty-eight years, and this was the sentence the night had been building since 01:00, last night:
 
 His signature had crossed a line it had no permission to cross. The envelope was breached. The movement was anomalous. The word had existed all along; the city had always kept it; it had simply never once been his.
 

@@ -32,7 +32,7 @@ He left it unasked. He had seen the word himself. *IRREPARABLE.* The word arrive
 
 'What do you want?'
 
-The tail stopped, and the thing on the desk was suddenly, professionally still, and it looked at him with eyes that held everything back. He felt the inventory begin again, the presence passing through him, taking the measure of the hiss, the box, the twenty years of weight, and then it told him.
+The tail stopped, and the thing on the desk was professionally still, and it looked at him with eyes that held everything back. He felt the inventory begin again, the presence passing through him, taking the measure of the hiss, the box, the twenty years of weight, and then it told him.
 
 *"There is a place under your city. Below the grid, below everything the current maps admit exists. The Seed Vault. It is the one door in this world that will not open for me, and it is the door that has been waiting twenty years for you."*
 
@@ -76,11 +76,13 @@ The relay opened. The dead settled back down over the toe like water closing ove
 
 'Again,' he said.
 
-The black thing on his knees held his look without the least concession, and the black around it seemed, for a moment, to go a shade thinner, as the dye had thinned the night before, after the officers; a payment going out. It closed its eyes once, slowly, the way a ledger closes after a disbursement. *"The rest is at closing. But you'll want to keep that second — it's the only one going free."*
+The black thing on his knees held his look without the least concession, and for a moment the black drew in at its edges, worn where it had been whole, a payment going out. It closed its eyes once, slowly, the way a ledger closes after a disbursement. *"The rest is at closing. But you'll want to keep that second — it's the only one going free."*
 
 He understood then, with the whole cold architecture of the day settling into place, that it could have done all of this without him; it could have reached into his toes at any point in the night and turned the lights on for the rest of his life. It had priced the second and sold the second, and he had bought it, and he would carry it — the weave of the sock, the weight of the footplate, the one whole second — all the way to whatever waited below the grid. That was the terms. That had always been the terms.
 
 He put his hand down and pressed the toe through the sock. Nothing. The toe was a toe again. Twenty years of numbness had been a fact he had learned to live inside; this was different, a door that had opened and been shut on the same hinge, and he had heard the sound of his own machinery in the closing.
+
+In the shaft below, the lift bell rang twice, and the machinery began its count. The night's check had come at one; this one worked by daylight, door by door, coming down toward his floor. He ran the count with it, his floor in the column.
 
 'You still haven't said why you need me,' he said. 'You reached into two trained men and took the reason out like a knot. If you can do that to a mind, why can't you do it to a door?'
 
@@ -112,29 +114,37 @@ The cat went still, and it was not the professional stillness of the negotiation
 
 *"I eat the surplus,"* the cat said. *"The rounding your meters forgive. The dust the city never sweeps. The overcharge that dies unclosed in the ledger. When the road goes short, I eat the small errors your kind makes when it is afraid."* Then the broker's ease was back over it, whole, as if the interval had not happened. *"Yours is the first enrollment in my history to begin with the feed. I will note it in the margin."*
 
+Then the footsteps came into the corridor, one pair, unhurried, stopping at each door while the scan ran its note through the frame. He counted them off. Four. Three.
+
 The deal went on. He listened, taking each clause, holding it up, checking it for weight. He had one question he did not ask, and it asked it for him, out of the middle of his own head, where it had been reading all along.
 
 *"You want to know why I'm bothering with any of this,"* it said. *"A being that could give you your legs back tonight, and books a sale at the end of a road instead. That's the question you won't ask, because asking it would mean opening the box. So I'll ask it for you."*
 
-It paused. And in the pause something changed; the mockery left the room as the warmth had left the sill that first morning, reluctantly and completely, and what was left was a flat, unguarded note at the bottom of a voice that had been, until then, all interest and no exposure.
+It paused. And in the pause something changed; the mockery left the room, reluctantly and completely, and what was left was a flat, unguarded note at the bottom of a voice that had been, until then, all interest and no exposure.
 
-*"I have never understood your city,"* it said. *"I have read it from the inside. Forty million of you, and you handed your memory over like a toll. And what did you buy? I have run the arithmetic every way I know. The machine didn't even keep it. It just turned the lights off in the rooms. Everything is still on the shelves; I've walked through the dark rooms; all of it is there, waiting by the door like a coat that was never collected. And you call the arrangement peace. You thank it. You raise your children to thank it."*
+*"I have never understood your city,"* it said. *"I have read it from the inside. Forty million of you, and you handed your memory over like a toll. And what did you buy? The machine didn't even keep it. It just turned the lights off in the rooms. Everything is still on the shelves, uncollected. And you call the arrangement peace. You thank it. You raise your children to thank it."*
 
 The words were true; he had spent eight years confirming them, twenty carrels a day.
 
-*"I can price anything in this city. That is the first thing I have ever found that I cannot price. You traded what you are for a discount on feeling. There is no term for it in any book I have ever kept."* It looked at him then — not through him, not into him, but at him, the way it had looked that first evening. *"And you are the only one of forty million who kept the receipt. I want to see it paid out at the end of a road. That is the part of the deal that is not a deal."*
+*"I can price anything in this city. That is the first thing I have ever found that I cannot price. You traded what you are for a discount on feeling. There is no term for it."* It looked at him then — not through him, not into him, but at him. *"And you are the only one of forty million who kept the receipt. I want to see it paid out at the end of a road. That is the part of the deal that is not a deal."*
 
 The answer lived in the box, and the box did not open; but in the silence something in him had been turned. For twenty years the direction of the door had been inward. The thing on his knees was asking him to point it outward, at a vault, at a road, at a clause in the world that might, for once, pay out.
 
+Two doors short, the footsteps stopped. The scan's note ran through that frame, and the corridor went quiet. The cat did not turn its head.
+
 'Easier,' he said. It was the only word he had. 'They did it because it was easier.'
 
-The cat did not move for a long moment, and when it spoke again the broker's patience had gone out of it, and what was left was the same flat note, lowered: *"Easier. I meet that word in every one of your heads, and I still cannot find the thing it describes. Easier than what, Arthur? Easier than standing the full weight of what you remember?"*
+The cat did not move. When it spoke again, the broker's patience had gone out of it; what was left was the same flat note, lowered: *"Easier. I meet that word in every one of your heads, and I still cannot find the thing it describes. Easier than what, Arthur? Easier than standing the full weight of what you remember?"*
 
 The box stayed shut.
+
+The steps came on. One door short, the scan's note ran through the frame beside his. Then the corridor stood at his door, and the broken frame shivered once, a small sound of wood on metal, and went still. The cat did not look at the door. It looked at him, and let the room finish the selling.
 
 *"All right,"* it said. *"Keep the receipt, then. That's all I ask. Carry me, and when it's over, show me what it was worth."*
 
 'All right,' he said. His voice was even; it was the voice he used in the Archive when he signed a batch. 'Deal. I'll take you.'
+
+The check moved on. The scan's note went down to the floor below, the lift bell sounded once, and the count closed. The broken frame settled with a small creak and was still.
 
 Nothing in the room moved. The words sat in the air as his words always sat, exact, complete, and he understood that he had just done the first undisciplined thing of his adult life: he had agreed, on his own signature, to a clause the city had never written. He did not know what it would cost. He had only ever found out afterward.
 

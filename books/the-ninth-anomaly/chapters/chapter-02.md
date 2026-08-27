@@ -2,7 +2,7 @@
 
 The city balanced its books at night. Arthur was awake when the building ran its reconciliation, and so he was the only one who saw it happen: at 01:00 exactly the sensors in the flat re-read the room, as they had every night of every year of his life, and this time they found a surplus. Heat without an owner. Mass without a citizen number. The register under the window was sealed and the vent delivered a manufactured product, and the room had been balanced, had always been balanced: twenty-one degrees, one occupant, one chair. Now it was not. The grid did not know what it had found, because the grid did not know that kinds of things existed; it knew only that the ledger would not close.
 
-It flagged the surplus, graded it, and routed it, forty-two seconds from fault to dispatch, and below him, not looking up, the building began to move: the elevator called down to the service floor, a door answering a door, the corridor cameras shifting their angles one by one, as a room shifts when someone has decided to enter it.
+It flagged the surplus, graded it, and routed it, forty-two seconds from fault to dispatch, and below him, not looking up, the building began to move: the elevator called down to the service floor, a door answering a door, the corridor cameras shifting their angles one by one, each settling on the same stretch of corridor, the stretch outside his door.
 
 He had lived twenty-eight years under that attention and understood its grammar as he understood every grammar: first the questions, then the knock, then the door.
 
@@ -24,7 +24,7 @@ The weapons came up, not quickly, correctly, Dalby's first, Renn's a half-second
 
 'Unidentified,' Dalby said. 'It's — '
 
-The sentence died. It had been dying in that room since the evening; in the presence of the thing that refused to be completed, the mind arrived at the shape and slid off it, and the mouth was left holding a silence.
+The sentence died. Neither man could finish what it was: the mind arrived at the shape and slid off it, and the mouth was left holding a silence.
 
 'Human, animal, or object,' Vance said.
 
@@ -48,7 +48,7 @@ Then it looked at Dalby.
 
 His own implant's hiss never changed pitch, the entire time. It had nothing to report; whatever was passing through this room went through the dead instrument without registering, into the one mind in the building it could not touch, and the hiss went on exactly as it had gone on for twenty years, a line with nothing on the other end.
 
-The change arrived as a subtraction, not an event, and Arthur, who had spent twenty years learning to read subtraction, watched it move through the younger man and meet nothing that refused it.
+The change arrived as a subtraction, not an event, and Arthur, who had spent twenty years learning to read subtraction, watched it move through the younger man: one long breath went out of him, and nothing refused it.
 
 Dalby's trigger finger straightened. His elbows loosened. His shoulders came down by fractions, one service of a machine losing pressure, and his face, the professional face, softened into something unguarded, and then into something puzzled, and the muzzle of his weapon came down, as if setting down something breakable.
 
@@ -84,7 +84,7 @@ The building marked their egress. The cameras tracked them to the elevator; the 
 
 He filed them as the instruments had, Renn, Dalby, under a heading the city had no label for: *Intervention. Non-physical. Vector: perception. No residue.* Then he took stock of himself as the Archive took stock of a chute of returns: the three knocks, the angle of the muzzles, the second the confusion had arrived, the apology and its refusals. All present. All his. Whatever the thing had taken from the two men, it had taken nothing from him, and for a moment he sat with that fact, which had the weight of a door closing. The box was shut; the box had always been shut; the discipline held, and would hold.
 
-Then he turned to the desk, and the black thing was no longer on the sill. It had come down to the middle of the desk, and the walk had been a transaction, not a ceremony: the tail was not laid, the spine had lost its performance, and it stood, once, in the middle of the desk, and then it assembled itself into sleep: not a curl, not the careful fold it used for rest, but a sprawl, flat out, legs at wrong angles, head on forepaws that were not tucked, the posture of something that had been unplugged in the middle of a thought. And the black was thinner. The evening before, the black had been the black of a drain, a black that ended the room rather than reflected it; now it was matte, dusty, as if the black were a dye running at the end of its wash. The room had gone back to its twenty-one degrees. The surplus was gone — the warmth that had flagged the grid, the warmth that had spent the night — gone as the warmth had left the sill that morning: reluctantly, and completely.
+Then he turned to the desk, and the black thing was no longer on the sill. It had come down to the middle of the desk, and the walk had been a transaction, not a ceremony: the tail was not laid, the spine had lost its performance, and it stood, once, in the middle of the desk, and then it assembled itself into sleep: not a curl, not the careful fold it used for rest, but a sprawl, flat out, legs at wrong angles, head on forepaws that were not tucked, the posture of something that had been unplugged in the middle of a thought. And the black was thinner. The evening before, the black had been the black of a drain, a black that ended the room rather than reflected it; now it was matte, dusty, as if the black were a dye running at the end of its wash. The room had gone back to its twenty-one degrees. The surplus was gone — the warmth that had flagged the grid, the warmth that had spent the night — gone as the air goes out of a held breath: all at once, and nothing left of it.
 
 He wheeled close and looked at it. It slept the way things sleep when they have paid for something. The breathing was shallow and even; no twitch ran down its spine; it did not dream, or it dreamed down and down, and neither was the sleep of a body. It slept wrong, and it slept long, and Arthur, who had not slept at all, sat and kept watch, because someone had to, and the city had already folded its night away, and only Arthur was awake to remember it.
 

@@ -20,9 +20,9 @@ The link faltered between the words, and he waited, kneeling in the warm dark, h
 
 *I came back to finish.*
 
-The archivist in him reached for a drawer to file the sentence in, and found the drawer was not big enough for it. Every step of the road behind them stood in it: the windowsill, the deal, the crawl, the collar, the white light that had taken its body. Twenty years of a small black shape moving across the city's blind eye, always in one direction. He had read it as flight. It had been a return, measured and unhurried, all along: not running from anything, coming back to the one instrument built to hold it, carrying the one thing the instrument had always lacked.
+The archivist in him reached for a drawer to file the sentence in, and found the drawer was not big enough for it. Every step of the road behind them stood in it: the windowsill, the deal, the crawl, the collar, the white light that had taken its body. Twenty years of a small black shape crossing the city's blind eye, one direction only. He had read it as flight. It had been a return: not running from anything, coming back to the open throat above him, carrying the one thing the instrument had always lacked.
 
-It had needed a mind that remembered, a signature that would pass the doors, a body the city's eyes would not hold. The city had spent twenty years forging exactly that, paying it a clerk's wage, stamping it IRREPARABLE. He had been carrying it toward this room his whole life and had never known the direction. Even the lock on his spine was part of the instrument; a cage that had kept the remembering from being wasted, as an earlier cage had kept the first singers from wasting their song. That thought he left unopened.
+It had needed a mind that remembered, a signature that would pass the doors, a body the city's eyes would not hold. The city had spent twenty years forging exactly that, paying it a clerk's wage, stamping it IRREPARABLE. He had been carrying it toward this room his whole life and had never known the direction. Even the lock on his spine was part of the instrument; a cage that had kept the remembering from being wasted. That thought he left unopened.
 
 Then a smaller matter surfaced, in the voice it kept for quibbles:
 
@@ -34,17 +34,17 @@ The cat did not dignify that, and the next words came lower, with the complaint 
 
 *The eight sang,* it said, *and the singing was the taking. The city grew the ground of its thinking from what was left of them. They are the floor.*
 
-He looked down at his hand, at the warm give under his palm, and for the first time he read the chamber entire as a document, and the document was the ground. The residue along the inner walls of the eight pods, swept to the edges of the glass by the floor's slow breathing. The fine sediment of something grown and gone. Where the breathing had swept it, it lay banked against the glass in low pale drifts, and at the turn of each breath the finest of it lifted a finger's height and fell back, as dust settles on a shelf no one has moved. Unspent song, and the singers with it, turned under.
+He looked down at his hand, at the warm give under his palm, and for the first time he read the chamber entire as a document, and the document was the ground. The residue along the inner walls of the eight pods lay banked against the glass in low pale drifts, the fine sediment of something grown and gone. At the turn of each breath the finest of it lifted a finger's height and fell back, as dust settles on a shelf no one has moved. Unspent song, and the singers with it, turned under.
 
-A field ploughed once and sown with the dead, and out of that soil the city's whole mind had grown. The hub that cut memory out of forty million heads ran on the ground of the eight who had tried to bring life back, and under that same ground, sealed in the same warmth, lay the archive of every life the city had killed: the seed, the song, the ground, all one thing. One floor. The place that controls memory is the place that sequesters life. Not a sentence. Architecture, visible at last.
+A field ploughed once and sown with the dead, and out of that soil the city's whole mind had grown. The hub that cut memory out of forty million heads ran on the ground of the eight who had tried to bring life back, and under that same ground, sealed in the same warmth, lay the archive of every life the city had killed: the seed, the song, the ground, all one thing. The place that controls memory is the place that sequesters life, and the two of them were one floor: the hub above it, the archive beneath it. Not a sentence. Architecture, visible at last.
 
-The pods kept the shape of what they had grown, as a bowl keeps the shape of what it held, and what they had held was now what he knelt on.
+The pods stood around him, and what they had held was no longer in them; it was the ground under him now, warm, breathing.
 
 'So the vault is what they were,' Arthur said aloud, to the room, to himself.
 
-Vance heard only half the conversation in the room, and he said nothing to either half. He looked at the floor where Arthur's hand lay, then at Arthur, and Arthur watched him swallow the question. The cat's voice had never once reached the captain's mind; the firewall was a wall in both directions. And so the transaction before him was a man talking to a small dim weight, and the air answering. He had carried his paper down the deepest stairs in the city to witness whatever a man would do at the bottom, and now, it seemed, he meant to witness it.
+Vance heard only half the conversation in the room, and he said nothing to either half. He looked at the floor where Arthur's hand lay, then at Arthur, and watched him swallow the question. The cat's voice had never reached the captain's mind; the firewall was a wall in both directions. So the transaction before him was a man talking to a small dim weight, and the air answering. He had carried his paper down the deepest stairs in the city to witness whatever a man would do at the bottom, and now he meant to witness it.
 
-Arthur pressed his palm down until the give of the floor told him it was skin, not stone, and let the long breath of it run up his arm. Twenty years, and the ground had been breathing the city's thinking while the city cut thinking out of its people. He had sorted other people's forgetting for a living. This was where the forgetting came from, and it was warm.
+Arthur pressed his palm down until the give of the floor told him it was skin, not stone, and let the long breath of it run up his arm. Twenty years, and the ground had been breathing the city's thinking. He had sorted other people's forgetting for a living. This was where the forgetting came from, and it was warm.
 
 *Not was,* the cat said. The words came one tier thinner, as water thins going shallow. *Is. Still. Their song is in the ground. It never stopped being theirs. It has only been waiting for a voice strong enough to carry it.*
 
@@ -52,9 +52,9 @@ The three of them rested inside that sentence for a moment, the kneeling man, th
 
 *I watched the eight, before. I watched them sing until the singing was the taking, because no one had taught them the shape of it. I learned the lesson they died teaching: a key is only a key while it is unspent. So I kept it. All the years of your city, I kept it.*
 
-It had been waiting to spend it here, and the waiting was over. The vault had never needed the ninth to arrive; it had only needed the ninth to arrive with the key still whole, and with someone to hold the other end of the instrument.
+It had been waiting to spend the key here, and the waiting was over.
 
-The ninth pod stood at the centre of the ring, hatch swung back, its throat full of green, the transmitter built to hold the ninth, and the ninth was it, and it in turn had been waiting for the rest of the instrument, the part the vault could never grow for itself: a living mind that remembered, a throat for the sound to pass through. It laid out the last terms of the deal struck on a windowsill days ago, flat as a clerk listing what a man owns:
+The ninth pod stood at the centre of the ring, hatch swung back, throat full of green, built to hold the ninth, and the ninth was it, waiting for the rest of the instrument, the part the vault could never grow for itself: a living mind that remembered, a throat for the sound to pass through. It laid out the last terms of the deal struck on a windowsill, flat as a clerk listing what a man owns:
 
 *The sound has to move through a memory to resonate. One at a time. Yours. Each one goes in, the ground takes it, and the city hears it. And none of it comes back, not one memory, however you loved it. This is the price I have been quoting all along.* A pause. *You should know the whole of it before you answer.*
 

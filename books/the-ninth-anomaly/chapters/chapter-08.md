@@ -1,12 +1,14 @@
 # Chapter 8: What It Cannot Understand
 
-The cat woke first, spine, then shoulders, then head, each carried into position like a thing being wound, and the winding had a lag that had not been there above, and the waking woke him. His hands were already aching on the wheel rims, and light came through the leading edge of the cat's ear the way it comes through paper held up to a window.
+The cat woke first, spine, then shoulders, then head, each carried into position like a thing being wound, and the winding had a lag that had not been there above, and the waking woke him. His hands were already aching on the wheel rims, and light came through the leading edge of the cat's ear like light through old glass.
 
 He had stopped the chair at the margin of an amber pool, one failing emergency strip, without deciding to, in a corridor the city had stopped lighting, a floor it had never reached before. His hands fell from the wheels. They ached.
 
 The quiet had come down with them level by level, paying down the city's sound until only the hum in the walls remained, and below that, nothing at all. It sat on his hands. It had weight, a silence with the shape of a held breath.
 
-He had not slept since the gate, seventeen hours, and he counted the cat's breaths, the rhythm owing nothing to anyone, deeper than the flat, longer than the descent, slowed with the hum, and the fur on the blanket was thinner than the morning.
+Overhead, the pipes ran empty. The hum in the walls kept its old pitch, and the pipes added nothing to it.
+
+He had not slept since the gate, seventeen hours, and he counted the cat's breaths, the rhythm owing nothing to anyone, deeper than the flat, longer than the descent, slowed with the hum, and the fur on the blanket lay sparse, the skin showing through it in dark patches.
 
 The cat stepped onto his hands and sat, where the ache was worst, and looked at the amber pool.
 
@@ -34,43 +36,35 @@ He had no answer for that: no price, no joke in a key he had not learned. The ca
 
 He hesitated; the cat had never offered anything un-priced. But his hands ached, the cat was thinner, and he closed his eyes.
 
-They arrived like words, but they were not words, and the first thing they did was take the filing out of him.
+They arrived like words, but they were not words, and the first thing they did was take away his habit of filing.
 
-The green came first, and he knew, in the same instant he saw it, that he had never seen green, not really. The archive's plates held green flat, pressed between pages, and he had known green as a pigment all his life. This was not pigment. This was green with a body: green in depth and motion, standing in trunks, hanging in leaves, coming apart as light moved through it, so that the very air between leaves was a color. Above, a blue showed through, a second ceiling he could not measure.
+The green came first, and he knew he had never seen green. The archive's plates held green flat, pressed between pages. This was not pigment. Green with a body: standing in trunks, hanging in leaves, coming apart in the light, so that the very air between leaves was a color.
 
-He knew it was day by the temperature, which was not 21.0; the city had one temperature, and this place had ten thousand: shade cool on one side of his face, sun warm on the other. Weather was a thing the city had never been.
+And the ground beneath was not floor; it gave, it held, it was never flat — grass against feet the lock had deadened.
 
-And the ground beneath was not floor; it gave, it held, it was never flat, and he felt it — grass against feet the lock had deadened — and the incongruity almost broke the fragment. The lock was a wall, and this came through it.
+The river came second, smell before shape: wet stone, mineral, cold arriving a full second ahead of the water. He had never heard water move before. The city's water ran in pipes and made the sound of pipes; this ran over itself and made the sound of water.
 
-The river came second, smell before shape: wet stone, mineral, cold carried on the air a full second before the water appeared. Then it appeared. He had never heard water move before.
+The weight on his hands shifted once, and the river thinned into pipes for a beat and came back whole. Nothing here was kept anywhere; it was held by the creature on his hands.
 
-The city's water ran in pipes and made the sound of pipes; this water ran over itself and made the sound of water, a voice that did not repeat, keeping time with nothing but its own falling. Light broke on its whole skin like the cat's ear, only everywhere.
+The animals came third, as attention: they looked at him and were not reading him. One raised its head, a large one, a brown with no name in his inventory, and fixed him with the wrong kind of eyes: eyes that priced nothing and asked nothing and were only looking. He counted legs, a reflex, and lost count. Alive, terribly, indifferently, alive. It was in no class anywhere.
 
-The weight on his hands shifted, once, and the river thinned into pipes for a beat, and came back whole. He understood that nothing here was kept anywhere. It was being held, moment by moment, by the creature on his hands, and the holding could not be interrupted.
+The birdsong came fourth. It did not arrive as a sound; it arrived as the possibility of a category he had spent his whole trained life marking empty, and he knew birds as he knew the dead, from plates, from the tract that had slid off a colleague's mind. He had never heard a bird in his life.
 
-He reached to hold the thing, and there was nothing that would hold it. The world did not care, and he stopped reaching.
-
-The animals came third, and they came as attention. The city's attention was reading: pods counted, gates asked if you were real, the net kept sums. The animals looked at him and were not reading him.
-
-One raised its head, a large one, its coat a brown he had to invent a name for on the spot, and it fixed him with the wrong kind of eyes, eyes that priced nothing and asked nothing and were only looking. The looking was its whole product, given freely.
-
-He counted legs, a reflex, the taxonomy reaching for control, and lost count, and the animal went on looking. Alive, terribly, indifferently, alive. It was in no class anywhere. That swept him more than the green, more than the water.
-
-The birdsong came fourth, and it did not arrive as a sound. It arrived as the possibility of a category he had spent his whole trained life marking empty. *No birds in the sky*: he had kept that line in the morning inventory as long as he had kept one, and he knew birds as he knew everything dead, from plates, from the tract that had slid off a colleague's mind. He had never heard a bird in his life.
-
-The fragment gave him the sound: one thread, then a second answering, then a loom of them, close and far. It had no antecedent; it was the thing itself, the original that every definition and every plate pointed at. He had lived his life among arrows and had never once touched the thing the arrows pointed at.
+The fragment gave him the sound: one thread, then a second answering, then a loom of them, close and far. It was the thing itself, and his throat moved once, as if to make an answer, and the notes went on without him.
 
 It did not come fifth. It came out of the count altogether: a parking lot at noon, flat, black, empty but for one machine at its edge and one man in a light coat standing at it, shouting. He shouted for a while. The machine did not answer. Afterward he hit it once with the flat of his hand, not hard, and walked away, and the lot stayed hot and empty behind him. Arthur had no shelf for the picture. It was not beautiful, and it moved him more than the green had, because the man had been alone and had still expected something back.
 
 And then a cat, small, mortal, ordinary. A real cat, unlike the thing on his knees: it would die, and it was carrying nothing.
 
-It yawned because the day was warm, turned its face into a patch of sun, and made a sound beneath the afternoon, a low, wide, steady sound, purposeless, kept up for no price and no reason. He named it before he could stop himself: the sound that did not exist in the city; the sound the being on his knees, in all the days he had known it, had never once made. He knew, without knowing how, that the beast guarded that sound.
+It yawned because the day was warm, turned its face into a patch of sun, and made a sound beneath the afternoon, a low, wide, steady sound, purposeless, kept up for no price and no reason. He named it without deciding to: the sound that did not exist in the city; the sound the being on his knees, in all the days he had known it, had never once made. He knew, without knowing how, that the beast guarded that sound.
 
 And somewhere deep under it all, rising like the river's cold, came a smell he knew: rain. His rain. One afternoon, pre-Culling, a doorway, he had been five. The box — the one he never opened in the morning inventory — shifted its lid; he closed it by long habit before it had fully opened, and the closing cost him too, and the fragment washed on over the shut lid, and he let it.
 
 And then the fragment failed in the holding: the river's voice thinned, the green at the edges of his seeing went translucent, one thread of birdsong cut off mid-note and did not come back, and the world fell silent in the middle of itself; it had all been present tense, and he knew the silence was the carrier's, and he opened his eyes.
 
 The amber pool held the wall. The dusty corridor was a dusty corridor. The cat had come back to the blanket. It lay on his dead knees, looking at nothing, its head sunk low, its whole shape gone slack, its breathing the wrong kind, too fast, too shallow, the body-shape working like a load it could not set down.
+
+Far above, a tone sounded down the pipes, short, and then again, longer, and then nothing, and the hum in the walls did not change.
 
 The edges were the price. He had been treating the light through one ear as an anomaly; now he saw it was a line of work: both ears let the amber through, the tip of the tail did, and when the cat shifted, the rim of one forepaw came and went, filmed, thin, like a thing seen through ice. The entry had a number, and the number had been climbing since the flat, each use draining.
 
@@ -136,6 +130,10 @@ He meant it. It was still not a number.
 
 It moved at last, an attempt at its old dismissiveness, a slow blink — and the blink was unfinished: the film of the eyelid went translucent mid-way, the amber showing through it, and the cat stopped, and looked down at the rim of the paw that had written the word. Then it turned once, twice, settled, and lay down on the blanket, spread wrong, and slept, longer than any sleep since the windowsill; he counted the breaths, thirty, forty, and the amber strip died somewhere in the night, its own small death, and the dark came all the way in, and the hiss was the only light, and he kept the count, felt the blanket's weight on his dead knees and the thin weight of the cat upon it, and rehearsed the letters as he had taught them, so that he could teach them again if he had to, and read in the dark the bearing he had carried all the way down: the line that pointed at the Seed Vault.
 
-When the cat woke it was much later, and the wound-up motion had a new lag, a beat between the spine and the shoulders where there had been none, and it was thinner. It looked once at the plate — the four letters still there, still legible, the only paper the city could not rewrite — and then looked down the dark of the bearing, and did not look back. He packed the blanket, and they pushed on, and then the words arrived, from the dark ahead of him, already his:
+When the cat woke it was much later, and the wound-up motion had a new lag, a beat between the spine and the shoulders where there had been none, and it was thinner. It looked once at the plate — the four letters still there, still legible, the only paper the city could not rewrite — and then looked down the dark of the bearing, and did not look back.
+
+High above, something fell shut in the shaft, a dull sound that came down the pipes, and the hum changed pitch by a step and held.
+
+He packed the blanket, and they pushed on, and then the words arrived, from the dark ahead of him, already his:
 
 *"When we reach the Seed Vault, you will hate me."*

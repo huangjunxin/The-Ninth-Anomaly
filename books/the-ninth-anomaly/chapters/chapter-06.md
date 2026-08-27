@@ -50,7 +50,7 @@ The ramp was older than the boundary. The gate was keyed to a dead grammar he ha
 
 He said it as other men state the weather, and Vance, who would write it down, nodded. The instruments would see as far as they were allowed to see.
 
-The level gates were concrete, wet with the cold, each carrying its number pressed into the face at the pour: two, four, six, eight. Vance read them as he passed and kept the count for the page he would write. The grid's copy of the same numbers had gone smooth. The last gate took his retainer, cycled, and closed behind them with the sound of a hatch agreeing to be a wall. Its inner face carried condensation in small even beads, shed onto concrete no hand had touched since the formwork came off. Nothing else had come this way. The water said so, and water could not be amended.
+The level gates were concrete, wet with the cold, each carrying its number pressed into the face at the pour: two, four, six, eight. Vance read them as he passed and kept the count for the page he would write. The grid's copy of the same numbers had gone smooth. The last gate took his retainer, cycled, and closed behind them with a dull clank of steel on steel, deadened by the wet. Its inner face carried condensation in small even beads, shed onto concrete no hand had touched since the formwork came off. Nothing else had come this way. The water said so, and water could not be amended.
 
 The dark was the levels' own medium. He had come down to stand in it. He counted every step, a habit older than the book, older than the drawer. The instruments read clean. Then cleaner.
 
@@ -117,7 +117,7 @@ He had read the order before. He had filed it, at twenty, which was to say he ha
 
 It had been his before he turned the leaf. He had known it as a man knows the number that is going to come up; the knowing was only the shape the memory had left behind it. For twenty years he had remembered the raid and not remembered the signature. Both had been true. The page was the place the two truths met.
 
-He looked at his own name on the order. The hand was the hand he had had at twenty; the V open like a door; the letters carried over the line like a man carrying a weight he has agreed to carry. The same hand had opened this file. The same hand wrote the book in the lower drawer. The same hand had gone down into the sealed levels this morning and come back with the anomaly's press recorded in it, line by line.
+He looked at his own name on the order. The hand was the hand he had had at twenty; the V open like a door; the letters overran the line like a man bowed under a weight he had agreed to bear. The same hand had opened this file. The same hand wrote the book in the lower drawer. The same hand had gone down into the sealed levels this morning and come back with the anomaly's press recorded in it, line by line.
 
 One. I led the raid.
 Two. I signed the lock.
@@ -125,7 +125,7 @@ Three. The boy has carried it for twenty years.
 Four. The anomaly is with him now.
 Five. It cannot enter me.
 
-The city had armored the hand it trusted with a pen. The wall that held against the anomaly in his skull was the same engineering — no. He stopped the thought before it finished. He was the boy's opposite, and it would be too easy to write himself the answer. He was not going to write that sentence in any book. A book that kept it would be a book that lied.
+The city had armored the hand it trusted with a pen. The wall that held against the anomaly in his skull was the same engineering — no. He stopped the thought before it finished. He was the boy's opposite, and it would be too easy to write himself the answer: that the boy had always been the thing the lock was for. He was not going to write that sentence in any book. A book that kept it would be a book that lied.
 
 He closed the file and sat. The flat's watchers had reported, once a day, nothing; the boy was below, in the sealed levels, with the anomaly. The anomaly could not enter Vance, and it had not needed to enter the boy, and the two facts stood in the same column. The grid believed in the wall Torelli had met. It was smoothing the boy out of its own memory, the way it had smoothed the weapons and the apologies out of Renn's strings and Dalby's. If Vance waited on the grid, in three days there would be no boy — only a wall, a stamp that said IRREPARABLE, and a first volume on a shelf.
 

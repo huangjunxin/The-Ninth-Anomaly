@@ -10,9 +10,9 @@ It had stood at the back of his skull for twenty years, thirty centimeters of lo
 
 He had not known the hiss and the lock were the same thing, but the silence had the shape of the thing that had made it, and the shape was the radio's, and the radio was off. Not between stations. Off. And with the hiss, the green had gone out of the room; the chamber stood in the first light, and nothing in it was enforcing anything.
 
-His hands went flat to the floor in the old transfer, the motion of twenty years, and there was no chair, and the procedure's object was gone. He stopped, and the stopping itself was a thing he had never had to do. He lay in the light with his palms on the warm ground, and the transfer waited for him like a sentence whose verb had been removed.
+His hands went flat to the floor in the old transfer, the motion of twenty years, and there was no chair, and the procedure's object was gone. He stopped, and the stopping itself was a thing he had never had to do. He lay in the light with his palms on the warm ground, and the transfer waited for him, the old sentence of the procedure standing open, its verb removed.
 
-He had been kneeling when the night took him. At some point the kneeling had become leaning, and the leaning had become how he woke: propped against the base of the ninth pod, head bowed, the small dark weight on his chest. He could feel it breathing, slow and unhurried, the warmth of it arriving in his sternum, and for a while he lay still, because the morning was new and the weight was not. It was, he understood without finding a name for the understanding, the first morning of his life that held nothing to be afraid of.
+He had been kneeling when the night took him. At some point the kneeling had become leaning, and the leaning had become how he woke: propped against the base of the ninth pod, head bowed, the small dark weight on his chest. He could feel it breathing, slow and unhurried, the warmth of it arriving in his sternum, and for a while he lay still, because the morning was new and nothing in it was scheduled, and the weight on his chest asked for nothing. It was, he understood without finding a name for the understanding, the first morning of his life that held nothing to be afraid of.
 
 The light lay level across the warm ground. The black thing stirred in it as it had always stirred, spine first, then shoulders, then the head coming up last, and it got down off him, one careful forepaw at a time, and settled on the warm floor beside him, low, looking at him.
 
@@ -26,7 +26,7 @@ It ran without him, the habit of twenty years: the day, the date, the year, who 
 
 The box at the back, the room he had spent twenty years not opening, stood open. It had been carried out during the night, or the night before, and he had not heard it happen; there was nothing in it to reach for; he closed it anyway, carefully, the way you close a lid nothing presses against any longer, and the closing was the last act of the habit, and he performed it, and nothing was left in the habit to serve.
 
-There was a note in the morning he did not open, and it had no date, only temperature, and it stayed where it had been put, the one thing in the morning he did not reach for.
+There was a note in the morning, a bird's, that he did not open, and it had no date, only temperature, and it stayed where it had been put, the one thing in the morning he did not reach for.
 
 Then he counted.
 
@@ -52,7 +52,7 @@ The room leaned. Not the room — the balance of him, a new instrument with no i
 
 He had been holding his breath for the whole rise. He let it go, and the stance stayed. His hands had carried him for twenty years, and they had never been asked to hold him still. They came off the console one finger at a time, and the legs held; he swayed once, a half-inch give at the knees that caught itself, and then the knees folded, all twenty years of sitting arriving at once, and he grabbed the pod with both hands, and the pod held him, and he nearly swore.
 
-His mouth made the shape of the swear, and the shape was empty. Twenty years of clean shelves had never stocked a swear, and nothing came out. That was the swear.
+His mouth made the shape of the swear, and the shape was empty. Twenty years of clean shelves had never stocked a swear, and nothing came out. That was the swear. It was the first swear in twenty years, and it was made of nothing.
 
 Then he stood, and the only support in the world under him was the two feet under him, and they were his.
 

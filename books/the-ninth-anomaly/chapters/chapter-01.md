@@ -22,7 +22,7 @@ The pack was a beige rectangle of calibrated texture and uniform temperature. It
 
 The empty pack he folded twice, into a neat square, and left on the desk, where it stayed all day, the only thing in the flat he ever left out. He did not know when the folding had become obligatory.
 
-He flexed his gratitude, because gratitude was work and he did it daily: at the pack, at the vent, at the doors that opened for his badge, at the ramps that remembered his wheels. The city was good to him. It had to be. It had taken so much of him that anything it gave back looked like a gift.
+He counted out his gratitude, because gratitude was work and he did it daily: at the pack, at the vent, at the doors that opened for his badge, at the ramps that remembered his wheels. The city was good to him. It had to be. It had taken so much of him that anything it gave back looked like a gift.
 
 He had a room, a job, a body that worked from the waist up, and arms strong enough to carry the rest of him. The only legs he was ever going to be introduced to.
 
@@ -30,7 +30,7 @@ At 07:40 the door opened for his badge, and he rolled out into the corridors of 
 
 The Forbidden Archive was a sub-basement, and the whole of its architecture was in that: the city built downward to store what it could not burn. Failures of the screening did not die. They were shelved. A second death, cleaner than the first.
 
-The floor was a long room of carrels, six rows running east to west, each carrel a screen and a man or a woman in it, every one of them marked, locked, and aware of it in a way that never needed to be spoken. The severance had not taken on them. The city, unable to make them forget, had made them useful instead: those who can see are used to bury what they see. In the third row, a retainer worked one item at a time, his lips moving with the words as he read, and when the chute swallowed the item he tapped the corner of the screen with a finger that had worn a pale spot in the glass, a smear no cleaner ever reached.
+The floor was a long room of carrels, six rows running east to west, each carrel a screen and a man or a woman in it, every one of them marked, locked, and aware of it in a way that never needed to be spoken. In the third row, a retainer worked one item at a time, his lips moving with the words as he read, and when the chute swallowed the item he tapped the corner of the screen with a finger that had worn a pale spot in the glass, a smear no cleaner ever reached.
 
 Arthur hung his coat on the hook behind his seat, pulled the gloves from the drawer, and settled the chair into the exact angle the floor had worn for him. Then he logged in. The day's work rose onto his screen from the chute below: confiscated text, one item at a time, sorted, entered, sentenced. Most of it was harmless. The screening was a blunt instrument, and the archive was where its mistakes accumulated: a tract on the migratory patterns of a bird that no longer existed, an illustrated farming manual, a child's primer that had tripped the scanner on a word the city had decided weighed too much.
 
@@ -38,13 +38,13 @@ Two carrels down, the woman he did not speak to went blank.
 
 He noticed, because he always noticed. Her eyes went soft. Her hands paused one beat. And the beat was gone, absorbed into a blankness that left nothing behind. The tract went back into the chute. She moved on, her face smooth as a sealed register, and said, to her screen, "Must be... the weather." Arthur said nothing. Nobody looked up. Nobody on the floor ever asked anybody what they had read today.
 
-He knew what the system had done, though he did not know how he knew: it had not deleted the content. Deletion was too honest. It had cut the wire between the thing and the feeling, leaving the concept pinned like a dead specimen, with no memory of the pinning. For him the cut had never quite closed. That was why he was down here, on the payroll of his own least useful organ: a memory that would not stop.
+He had seen it happen before, on other faces, at other carrels. For him it had never taken. That was why he was down here, on the payroll of his own least useful organ: a memory that would not stop.
 
 The primer reached his screen at 11:03. A children's book, confiscated, the family gone. Somewhere in its pages the scanner had found a picture and a word it had flagged *excessive*. The flag sat in the margin like a small red burn.
 
 He turned the pages with a gloved finger. The pages were thin and soft with age; the word surfaced, the old word, the one the city had chased for twenty years and never quite killed, and he did not let it land.
 
-It was the first word he had learned to hide. This was the discipline, built slowly at eight, built so well that he was now very good at his job: to touch forbidden things and feel nothing. Nobody had ever been better equipped for it than a child taught to hide the thing he felt most.
+It was the first word he had learned to hide. This was the discipline, built slowly at eight, built so well that he was now very good at his job: to touch forbidden things and feel nothing.
 
 He had hidden it from the doctors, from the technicians, from the polite men in the corridor who asked what he remembered, and at last from himself, as much as he could. What he could not hide was the rest: hiding required remembering, and remembering was the one thing the lock had never reached. It had reached something else instead.
 
@@ -56,7 +56,7 @@ The engineer's file came up at 14:47. An old infrastructure archive, condemned o
 
 Current files used sector, block, floor: four digits and a hyphen, the grammar of a city built in a hurry and regulated since. This one used three fields, axis, ring, depth: *AX-7 / R-3 / D-24*, a layout he had not seen on anything dated after the Culling, signed with the crest of a department the city no longer ran, descending into a structure below the grid the current maps did not keep.
 
-To anyone else it was a dead file. To the system it was nothing, which was why it had surfaced here, where the city put things it had decided were not worth remembering. Formats were the first things he memorized: they carried nothing, so the city never banned them, and they survived. He collected them like a museum collects the last of a thing.
+To anyone else it was a dead file. To the system it was nothing. Formats carried nothing, so the city never banned them, and they survived; he collected them like a museum collects the last of a thing.
 
 He memorized the engineer's format deliberately, which was different from how he memorized everything else, and did not ask himself why. Asking would have meant opening a file he had agreed never to open. *Axis, ring, depth.* The format settled in him as the warmth had sat on the sill that morning.
 
@@ -68,7 +68,7 @@ The evening was blue and even. The flat door opened for his badge. The sill was 
 
 The thing on the windowsill was not.
 
-For a long moment he held still. It was black, a black that ended the room, and it sat with its tail laid around its feet, looking at him. He stopped the chair in the middle of the floor. The door shut behind him. The room, steady at its usual twenty-one degrees, seemed to have gone one degree quieter.
+For a long moment he held still. It was black, a black that ended the room, and it sat with its tail laid around its feet, looking at him. He stopped the chair in the middle of the floor. The door shut behind him. The room, steady at its usual twenty-one degrees, seemed to have gone a notch quieter.
 
 He looked at it, and kept looking. Looking was what his species did wrong: it looked, and the thing lost its weight and became a specimen. Nothing slid off this one.
 

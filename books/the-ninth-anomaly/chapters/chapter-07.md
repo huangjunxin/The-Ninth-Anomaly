@@ -1,6 +1,6 @@
 # Chapter 7: The Gate of Signatures
 
-The light returned first. He took the checkpoint as he had taken the descent, by its light before its shape: the grid's even white coming back up the tunnel ahead of him, a surface closing over the old dark where the old light had gone out in stages, and with it the temperature climbing, 18, 19, 20, the air of the dead levels giving up its 17.4 degree by degree until it was 21.0 again, the city's own, the only temperature he had ever been sure of in his life.
+The light returned first. He took the checkpoint as he had taken the descent, by its light before its shape. The grid's even white came back up the tunnel ahead of him, a surface closing over the old dark where the old light had gone out in stages. With it the temperature climbed: the air of the dead levels gave up its 17.4 degree by degree until it was 21.0 again, the city's own, the only temperature he had ever been sure of in his life.
 
 And the street under his wheels ran out like a confession and became floor.
 
@@ -76,22 +76,18 @@ He did not file it. There was no column for it, and for the second time in his l
 
 Then he put his hands back on the wheels, and the spot on the back of his right hand kept its warmth, and he pushed on, and the arithmetic of the flight came due.
 
-He knew the number he had just owed. He had known it before the gate, as you know a debt before the statement arrives; the gate had only wrung it out of him in writing. Checkpoint logs were synchronous; he knew that as he knew the dead grammar, because it had been in the engineer's files: the old gates, the kind he had slipped through in the boot seam during the six-second camera re-sync at 03:09, kept a small local hold between camera and ledger. Six seconds you could stand inside. The seam had been real, and he had used it.
+He knew the number he now owed. He had known it before the gate, as you know a debt before the statement arrives; the gate had only wrung it out of him in writing. Checkpoint logs were synchronous; he knew that as he knew the dead grammar, because it had been in the engineer's files: the old gates, the kind he had slipped through in the boot seam during the six-second camera re-sync at 03:09, kept a small local hold between camera and ledger. Six seconds you could stand inside. The seam had been real, and he had used it.
 
 This gate held nothing. It streamed, and it had been streaming all along; the log went out as the tick went in, one-way, to every ledger that mattered. He had spent the whole flight being careful, a name kept off the map, a signature gone quiet at a legacy gate, and the gate had just written the name next to the line, and the line had a bearing.
 
-He did the arithmetic because arithmetic was what he had, and it came out as it had been coming out since the enamel: the flat, the legacy gate, the ramps, the seam of the dead levels, and now this arch, the line of him drawn across the city's map, in the city's own hand, running on the bearing the whole journey had kept, the bearing the old arrow had named.
+He did the arithmetic because arithmetic was what he had, and it came out as it had been coming out since the enamel: the flat, the legacy gate, the ramps, the seam of the dead levels, and now this arch, one more figure on a page he would never see. The bearing was the one the old arrow had named, and it had never once changed. Behind him the laborer's cable was still dragging its gray line across the seam paint.
 
-There was exactly one deep place on that line, one facility the city kept under the old heart, the place the cat had priced in the morning when it laid out the terms. The name that had been the terms all along.
+And the log had already gone out. There was no seam in it, no six seconds, no 03:09. The city had learned the shape of his only trick and built a gate without a gap, and he had pushed through it anyway. The gate read him real, read him marked, and sent both readings on.
 
-The line pointed at the Seed Vault.
+He had no need to picture the room it went to; he had never seen it, and the log did not need him to. Behind him the old man who had been turned away was walking back down the ramp with his hands empty at his sides, and ahead of him the woman's haptic band was still pressing its old soothing pattern into her arm, and neither of them had looked back at the enamel sign, and neither had he.
 
-And the log had already gone out. There was no seam in it, no six seconds, no 03:09. The city had learned the shape of his only trick and built a gate without a gap, and he had fed it his name to get past it, and it had taken the name, drawn the line, pointed it, the whole product of his carefulness one completed sentence in the city's own hand, with his name beside it, ending in the only place he had been carrying the cat to since the windowsill.
+He said nothing to the cat. The cat already knew; it had priced the terms in the morning. It lay on the blanket with its chin on its forelegs, the arch's white light resting along its spine, and its eyes were open, and it watched the corridor ahead, where the old columns ran down toward the dark of the descent, and it said nothing.
 
-He had no need to picture the room it went to; he had never seen it, and the log did not need him to. The man who read everything twice, the voice he had heard once through another man's earpiece, would read it before the cat had woken again, and would know exactly where the line ended. He had spent his whole life being the one thing the city could not read. The gate had read him in a single pass: a name, a direction, handed over the moment he passed under the arch.
+He pushed on into the dark, and behind him the gate's white light held the seam. The man who read everything twice would read it before dawn, and know the exact place where the line ended: not a street, not a door, not a number. The name had been the terms all along.
 
-He said nothing to the cat. The cat already knew; it had priced the terms in the morning. It lay on the blanket with its chin on its forelegs, thinner than the morning, and its eyes were open, and it watched the corridor ahead, where the old columns ran down toward the dark of the descent, and it said nothing.
-
-He pushed on into the dark, and behind him the gate's white light held the seam. The man who read everything twice would read it before dawn, and know the exact place where the line ended: not a street, not a door, not a number. The name that had been the terms all along.
-
-He had given the city the one direction it had never had, and the city would hold the line the way it held everything — the way it was holding the seam behind him now, watching the dark close over a man who had stopped being a fugitive and become a heading.
+He was a row with attention on it now, and the city would hold it the way it held everything — the way it was holding the seam behind him now, watching the dark close over a man who had stopped being a fugitive and become a heading.

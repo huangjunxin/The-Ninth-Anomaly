@@ -16,7 +16,7 @@ And the last clause came: *the anomaly, and any citizen found in contact with it
 
 He read it twice, and the order stood.
 
-He thought of the warren: Nadia Soren, who kept only the shape of the word *furry*, and Eli, who would hear every word of the purge and keep none; the words would slide off the child the way they slid off the whole city, in a level about to be swept. He had brought the purge down on the warren. He filed that, and it stayed. Some things would not file.
+He thought of the warren: Nadia Soren, who kept only the shape of the word *furry*, and Eli, who would hear every word of the purge and keep none; the words would slide off the child the way they slid off the whole city, in a level about to be swept. He had brought the purge down on the warren. He recorded that, and it stayed. Some things would not record.
 
 The cat woke at the change of sound, came up off his knees in a single wound-up motion, one beat slow, ears cocked at the corridor mouth, pupils slits, whiskers pinned flat: the posture of a thing pricing a threat. It groomed anyway, one pass over an ear, the maintenance by which it closed occasions running even now; then it looked at the corridor, then at him, and its voice arrived in his head:
 
@@ -44,9 +44,9 @@ Then the light changed at the seam, far up the corridor: a whiteness gathering i
 
 *"The door is one turn from opening and one lifetime from it, and you know it. You know the grammar. You know how long the collar wants. The array is already singing."*
 
-The tone climbed, and he felt it in his teeth, in the approved fillings, in the plate of his skull, a wrongness with no name yet. The cat stood up in the gutter of his knees, forepaws braced on the chair's arm, looking down the corridor into the gathering white, and for one second it was the thing from the windowsill, intact, unspent, mocking the whole city with its stillness.
+The tone climbed, and he felt it in his teeth, in the approved fillings, in the plate of his skull, a wrongness with no name yet. The cat stood up in his lap, forepaws braced on the chair's arm, looking down the corridor into the gathering white, and for one second it was the thing from the windowsill, intact, unspent, mocking the whole city with its stillness.
 
-He would remember that second, and he filed it now, so it would survive him: the second it chose.
+He would remember that second, and he banked it now, so it would survive him: the second it chose.
 
 And then it went silent. And the world changed.
 
@@ -84,7 +84,7 @@ Someone shouted, the sergeant's voice, Torelli's, the man who once lost seven se
 
 A pause full of static. A trooper's voice, thin against the roar: 'Field is down, sir. Subject: male. In a chair. Holding the target.'
 
-The loudspeaker said nothing for two full seconds, the kind of nothing that reads a report twice, then Vance's voice, level, administrative, giving him back his life without knowing it:
+The loudspeaker said nothing for two full seconds, the kind of nothing an audit makes before it signs, then Vance's voice, level, administrative, giving him back his life without knowing it:
 
 'Hold.'
 

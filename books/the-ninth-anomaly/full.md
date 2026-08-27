@@ -24,7 +24,7 @@ The pack was a beige rectangle of calibrated texture and uniform temperature. It
 
 The empty pack he folded twice, into a neat square, and left on the desk, where it stayed all day, the only thing in the flat he ever left out. He did not know when the folding had become obligatory.
 
-He flexed his gratitude, because gratitude was work and he did it daily: at the pack, at the vent, at the doors that opened for his badge, at the ramps that remembered his wheels. The city was good to him. It had to be. It had taken so much of him that anything it gave back looked like a gift.
+He counted out his gratitude, because gratitude was work and he did it daily: at the pack, at the vent, at the doors that opened for his badge, at the ramps that remembered his wheels. The city was good to him. It had to be. It had taken so much of him that anything it gave back looked like a gift.
 
 He had a room, a job, a body that worked from the waist up, and arms strong enough to carry the rest of him. The only legs he was ever going to be introduced to.
 
@@ -32,7 +32,7 @@ At 07:40 the door opened for his badge, and he rolled out into the corridors of 
 
 The Forbidden Archive was a sub-basement, and the whole of its architecture was in that: the city built downward to store what it could not burn. Failures of the screening did not die. They were shelved. A second death, cleaner than the first.
 
-The floor was a long room of carrels, six rows running east to west, each carrel a screen and a man or a woman in it, every one of them marked, locked, and aware of it in a way that never needed to be spoken. The severance had not taken on them. The city, unable to make them forget, had made them useful instead: those who can see are used to bury what they see. In the third row, a retainer worked one item at a time, his lips moving with the words as he read, and when the chute swallowed the item he tapped the corner of the screen with a finger that had worn a pale spot in the glass, a smear no cleaner ever reached.
+The floor was a long room of carrels, six rows running east to west, each carrel a screen and a man or a woman in it, every one of them marked, locked, and aware of it in a way that never needed to be spoken. In the third row, a retainer worked one item at a time, his lips moving with the words as he read, and when the chute swallowed the item he tapped the corner of the screen with a finger that had worn a pale spot in the glass, a smear no cleaner ever reached.
 
 Arthur hung his coat on the hook behind his seat, pulled the gloves from the drawer, and settled the chair into the exact angle the floor had worn for him. Then he logged in. The day's work rose onto his screen from the chute below: confiscated text, one item at a time, sorted, entered, sentenced. Most of it was harmless. The screening was a blunt instrument, and the archive was where its mistakes accumulated: a tract on the migratory patterns of a bird that no longer existed, an illustrated farming manual, a child's primer that had tripped the scanner on a word the city had decided weighed too much.
 
@@ -40,13 +40,13 @@ Two carrels down, the woman he did not speak to went blank.
 
 He noticed, because he always noticed. Her eyes went soft. Her hands paused one beat. And the beat was gone, absorbed into a blankness that left nothing behind. The tract went back into the chute. She moved on, her face smooth as a sealed register, and said, to her screen, "Must be... the weather." Arthur said nothing. Nobody looked up. Nobody on the floor ever asked anybody what they had read today.
 
-He knew what the system had done, though he did not know how he knew: it had not deleted the content. Deletion was too honest. It had cut the wire between the thing and the feeling, leaving the concept pinned like a dead specimen, with no memory of the pinning. For him the cut had never quite closed. That was why he was down here, on the payroll of his own least useful organ: a memory that would not stop.
+He had seen it happen before, on other faces, at other carrels. For him it had never taken. That was why he was down here, on the payroll of his own least useful organ: a memory that would not stop.
 
 The primer reached his screen at 11:03. A children's book, confiscated, the family gone. Somewhere in its pages the scanner had found a picture and a word it had flagged *excessive*. The flag sat in the margin like a small red burn.
 
 He turned the pages with a gloved finger. The pages were thin and soft with age; the word surfaced, the old word, the one the city had chased for twenty years and never quite killed, and he did not let it land.
 
-It was the first word he had learned to hide. This was the discipline, built slowly at eight, built so well that he was now very good at his job: to touch forbidden things and feel nothing. Nobody had ever been better equipped for it than a child taught to hide the thing he felt most.
+It was the first word he had learned to hide. This was the discipline, built slowly at eight, built so well that he was now very good at his job: to touch forbidden things and feel nothing.
 
 He had hidden it from the doctors, from the technicians, from the polite men in the corridor who asked what he remembered, and at last from himself, as much as he could. What he could not hide was the rest: hiding required remembering, and remembering was the one thing the lock had never reached. It had reached something else instead.
 
@@ -58,7 +58,7 @@ The engineer's file came up at 14:47. An old infrastructure archive, condemned o
 
 Current files used sector, block, floor: four digits and a hyphen, the grammar of a city built in a hurry and regulated since. This one used three fields, axis, ring, depth: *AX-7 / R-3 / D-24*, a layout he had not seen on anything dated after the Culling, signed with the crest of a department the city no longer ran, descending into a structure below the grid the current maps did not keep.
 
-To anyone else it was a dead file. To the system it was nothing, which was why it had surfaced here, where the city put things it had decided were not worth remembering. Formats were the first things he memorized: they carried nothing, so the city never banned them, and they survived. He collected them like a museum collects the last of a thing.
+To anyone else it was a dead file. To the system it was nothing. Formats carried nothing, so the city never banned them, and they survived; he collected them like a museum collects the last of a thing.
 
 He memorized the engineer's format deliberately, which was different from how he memorized everything else, and did not ask himself why. Asking would have meant opening a file he had agreed never to open. *Axis, ring, depth.* The format settled in him as the warmth had sat on the sill that morning.
 
@@ -70,7 +70,7 @@ The evening was blue and even. The flat door opened for his badge. The sill was 
 
 The thing on the windowsill was not.
 
-For a long moment he held still. It was black, a black that ended the room, and it sat with its tail laid around its feet, looking at him. He stopped the chair in the middle of the floor. The door shut behind him. The room, steady at its usual twenty-one degrees, seemed to have gone one degree quieter.
+For a long moment he held still. It was black, a black that ended the room, and it sat with its tail laid around its feet, looking at him. He stopped the chair in the middle of the floor. The door shut behind him. The room, steady at its usual twenty-one degrees, seemed to have gone a notch quieter.
 
 He looked at it, and kept looking. Looking was what his species did wrong: it looked, and the thing lost its weight and became a specimen. Nothing slid off this one.
 
@@ -111,7 +111,7 @@ The tears arrived before he understood them. They arrived like the warmth, unsou
 
 The city balanced its books at night. Arthur was awake when the building ran its reconciliation, and so he was the only one who saw it happen: at 01:00 exactly the sensors in the flat re-read the room, as they had every night of every year of his life, and this time they found a surplus. Heat without an owner. Mass without a citizen number. The register under the window was sealed and the vent delivered a manufactured product, and the room had been balanced, had always been balanced: twenty-one degrees, one occupant, one chair. Now it was not. The grid did not know what it had found, because the grid did not know that kinds of things existed; it knew only that the ledger would not close.
 
-It flagged the surplus, graded it, and routed it, forty-two seconds from fault to dispatch, and below him, not looking up, the building began to move: the elevator called down to the service floor, a door answering a door, the corridor cameras shifting their angles one by one, as a room shifts when someone has decided to enter it.
+It flagged the surplus, graded it, and routed it, forty-two seconds from fault to dispatch, and below him, not looking up, the building began to move: the elevator called down to the service floor, a door answering a door, the corridor cameras shifting their angles one by one, each settling on the same stretch of corridor, the stretch outside his door.
 
 He had lived twenty-eight years under that attention and understood its grammar as he understood every grammar: first the questions, then the knock, then the door.
 
@@ -133,7 +133,7 @@ The weapons came up, not quickly, correctly, Dalby's first, Renn's a half-second
 
 'Unidentified,' Dalby said. 'It's — '
 
-The sentence died. It had been dying in that room since the evening; in the presence of the thing that refused to be completed, the mind arrived at the shape and slid off it, and the mouth was left holding a silence.
+The sentence died. Neither man could finish what it was: the mind arrived at the shape and slid off it, and the mouth was left holding a silence.
 
 'Human, animal, or object,' Vance said.
 
@@ -157,7 +157,7 @@ Then it looked at Dalby.
 
 His own implant's hiss never changed pitch, the entire time. It had nothing to report; whatever was passing through this room went through the dead instrument without registering, into the one mind in the building it could not touch, and the hiss went on exactly as it had gone on for twenty years, a line with nothing on the other end.
 
-The change arrived as a subtraction, not an event, and Arthur, who had spent twenty years learning to read subtraction, watched it move through the younger man and meet nothing that refused it.
+The change arrived as a subtraction, not an event, and Arthur, who had spent twenty years learning to read subtraction, watched it move through the younger man: one long breath went out of him, and nothing refused it.
 
 Dalby's trigger finger straightened. His elbows loosened. His shoulders came down by fractions, one service of a machine losing pressure, and his face, the professional face, softened into something unguarded, and then into something puzzled, and the muzzle of his weapon came down, as if setting down something breakable.
 
@@ -193,7 +193,7 @@ The building marked their egress. The cameras tracked them to the elevator; the 
 
 He filed them as the instruments had, Renn, Dalby, under a heading the city had no label for: *Intervention. Non-physical. Vector: perception. No residue.* Then he took stock of himself as the Archive took stock of a chute of returns: the three knocks, the angle of the muzzles, the second the confusion had arrived, the apology and its refusals. All present. All his. Whatever the thing had taken from the two men, it had taken nothing from him, and for a moment he sat with that fact, which had the weight of a door closing. The box was shut; the box had always been shut; the discipline held, and would hold.
 
-Then he turned to the desk, and the black thing was no longer on the sill. It had come down to the middle of the desk, and the walk had been a transaction, not a ceremony: the tail was not laid, the spine had lost its performance, and it stood, once, in the middle of the desk, and then it assembled itself into sleep: not a curl, not the careful fold it used for rest, but a sprawl, flat out, legs at wrong angles, head on forepaws that were not tucked, the posture of something that had been unplugged in the middle of a thought. And the black was thinner. The evening before, the black had been the black of a drain, a black that ended the room rather than reflected it; now it was matte, dusty, as if the black were a dye running at the end of its wash. The room had gone back to its twenty-one degrees. The surplus was gone — the warmth that had flagged the grid, the warmth that had spent the night — gone as the warmth had left the sill that morning: reluctantly, and completely.
+Then he turned to the desk, and the black thing was no longer on the sill. It had come down to the middle of the desk, and the walk had been a transaction, not a ceremony: the tail was not laid, the spine had lost its performance, and it stood, once, in the middle of the desk, and then it assembled itself into sleep: not a curl, not the careful fold it used for rest, but a sprawl, flat out, legs at wrong angles, head on forepaws that were not tucked, the posture of something that had been unplugged in the middle of a thought. And the black was thinner. The evening before, the black had been the black of a drain, a black that ended the room rather than reflected it; now it was matte, dusty, as if the black were a dye running at the end of its wash. The room had gone back to its twenty-one degrees. The surplus was gone — the warmth that had flagged the grid, the warmth that had spent the night — gone as the air goes out of a held breath: all at once, and nothing left of it.
 
 He wheeled close and looked at it. It slept the way things sleep when they have paid for something. The breathing was shallow and even; no twitch ran down its spine; it did not dream, or it dreamed down and down, and neither was the sleep of a body. It slept wrong, and it slept long, and Arthur, who had not slept at all, sat and kept watch, because someone had to, and the city had already folded its night away, and only Arthur was awake to remember it.
 
@@ -246,7 +246,7 @@ He left it unasked. He had seen the word himself. *IRREPARABLE.* The word arrive
 
 'What do you want?'
 
-The tail stopped, and the thing on the desk was suddenly, professionally still, and it looked at him with eyes that held everything back. He felt the inventory begin again, the presence passing through him, taking the measure of the hiss, the box, the twenty years of weight, and then it told him.
+The tail stopped, and the thing on the desk was professionally still, and it looked at him with eyes that held everything back. He felt the inventory begin again, the presence passing through him, taking the measure of the hiss, the box, the twenty years of weight, and then it told him.
 
 *"There is a place under your city. Below the grid, below everything the current maps admit exists. The Seed Vault. It is the one door in this world that will not open for me, and it is the door that has been waiting twenty years for you."*
 
@@ -290,11 +290,13 @@ The relay opened. The dead settled back down over the toe like water closing ove
 
 'Again,' he said.
 
-The black thing on his knees held his look without the least concession, and the black around it seemed, for a moment, to go a shade thinner, as the dye had thinned the night before, after the officers; a payment going out. It closed its eyes once, slowly, the way a ledger closes after a disbursement. *"The rest is at closing. But you'll want to keep that second — it's the only one going free."*
+The black thing on his knees held his look without the least concession, and for a moment the black drew in at its edges, worn where it had been whole, a payment going out. It closed its eyes once, slowly, the way a ledger closes after a disbursement. *"The rest is at closing. But you'll want to keep that second — it's the only one going free."*
 
 He understood then, with the whole cold architecture of the day settling into place, that it could have done all of this without him; it could have reached into his toes at any point in the night and turned the lights on for the rest of his life. It had priced the second and sold the second, and he had bought it, and he would carry it — the weave of the sock, the weight of the footplate, the one whole second — all the way to whatever waited below the grid. That was the terms. That had always been the terms.
 
 He put his hand down and pressed the toe through the sock. Nothing. The toe was a toe again. Twenty years of numbness had been a fact he had learned to live inside; this was different, a door that had opened and been shut on the same hinge, and he had heard the sound of his own machinery in the closing.
+
+In the shaft below, the lift bell rang twice, and the machinery began its count. The night's check had come at one; this one worked by daylight, door by door, coming down toward his floor. He ran the count with it, his floor in the column.
 
 'You still haven't said why you need me,' he said. 'You reached into two trained men and took the reason out like a knot. If you can do that to a mind, why can't you do it to a door?'
 
@@ -326,29 +328,37 @@ The cat went still, and it was not the professional stillness of the negotiation
 
 *"I eat the surplus,"* the cat said. *"The rounding your meters forgive. The dust the city never sweeps. The overcharge that dies unclosed in the ledger. When the road goes short, I eat the small errors your kind makes when it is afraid."* Then the broker's ease was back over it, whole, as if the interval had not happened. *"Yours is the first enrollment in my history to begin with the feed. I will note it in the margin."*
 
+Then the footsteps came into the corridor, one pair, unhurried, stopping at each door while the scan ran its note through the frame. He counted them off. Four. Three.
+
 The deal went on. He listened, taking each clause, holding it up, checking it for weight. He had one question he did not ask, and it asked it for him, out of the middle of his own head, where it had been reading all along.
 
 *"You want to know why I'm bothering with any of this,"* it said. *"A being that could give you your legs back tonight, and books a sale at the end of a road instead. That's the question you won't ask, because asking it would mean opening the box. So I'll ask it for you."*
 
-It paused. And in the pause something changed; the mockery left the room as the warmth had left the sill that first morning, reluctantly and completely, and what was left was a flat, unguarded note at the bottom of a voice that had been, until then, all interest and no exposure.
+It paused. And in the pause something changed; the mockery left the room, reluctantly and completely, and what was left was a flat, unguarded note at the bottom of a voice that had been, until then, all interest and no exposure.
 
-*"I have never understood your city,"* it said. *"I have read it from the inside. Forty million of you, and you handed your memory over like a toll. And what did you buy? I have run the arithmetic every way I know. The machine didn't even keep it. It just turned the lights off in the rooms. Everything is still on the shelves; I've walked through the dark rooms; all of it is there, waiting by the door like a coat that was never collected. And you call the arrangement peace. You thank it. You raise your children to thank it."*
+*"I have never understood your city,"* it said. *"I have read it from the inside. Forty million of you, and you handed your memory over like a toll. And what did you buy? The machine didn't even keep it. It just turned the lights off in the rooms. Everything is still on the shelves, uncollected. And you call the arrangement peace. You thank it. You raise your children to thank it."*
 
 The words were true; he had spent eight years confirming them, twenty carrels a day.
 
-*"I can price anything in this city. That is the first thing I have ever found that I cannot price. You traded what you are for a discount on feeling. There is no term for it in any book I have ever kept."* It looked at him then — not through him, not into him, but at him, the way it had looked that first evening. *"And you are the only one of forty million who kept the receipt. I want to see it paid out at the end of a road. That is the part of the deal that is not a deal."*
+*"I can price anything in this city. That is the first thing I have ever found that I cannot price. You traded what you are for a discount on feeling. There is no term for it."* It looked at him then — not through him, not into him, but at him. *"And you are the only one of forty million who kept the receipt. I want to see it paid out at the end of a road. That is the part of the deal that is not a deal."*
 
 The answer lived in the box, and the box did not open; but in the silence something in him had been turned. For twenty years the direction of the door had been inward. The thing on his knees was asking him to point it outward, at a vault, at a road, at a clause in the world that might, for once, pay out.
 
+Two doors short, the footsteps stopped. The scan's note ran through that frame, and the corridor went quiet. The cat did not turn its head.
+
 'Easier,' he said. It was the only word he had. 'They did it because it was easier.'
 
-The cat did not move for a long moment, and when it spoke again the broker's patience had gone out of it, and what was left was the same flat note, lowered: *"Easier. I meet that word in every one of your heads, and I still cannot find the thing it describes. Easier than what, Arthur? Easier than standing the full weight of what you remember?"*
+The cat did not move. When it spoke again, the broker's patience had gone out of it; what was left was the same flat note, lowered: *"Easier. I meet that word in every one of your heads, and I still cannot find the thing it describes. Easier than what, Arthur? Easier than standing the full weight of what you remember?"*
 
 The box stayed shut.
+
+The steps came on. One door short, the scan's note ran through the frame beside his. Then the corridor stood at his door, and the broken frame shivered once, a small sound of wood on metal, and went still. The cat did not look at the door. It looked at him, and let the room finish the selling.
 
 *"All right,"* it said. *"Keep the receipt, then. That's all I ask. Carry me, and when it's over, show me what it was worth."*
 
 'All right,' he said. His voice was even; it was the voice he used in the Archive when he signed a batch. 'Deal. I'll take you.'
+
+The check moved on. The scan's note went down to the floor below, the lift bell sounded once, and the count closed. The broken frame settled with a small creak and was still.
 
 Nothing in the room moved. The words sat in the air as his words always sat, exact, complete, and he understood that he had just done the first undisciplined thing of his adult life: he had agreed, on his own signature, to a clause the city had never written. He did not know what it would cost. He had only ever found out afterward.
 
@@ -370,7 +380,7 @@ The report was forty-one lines long. He read it twice. Twice was the habit, olde
 Renn: drew at 01:49. Does not know why.
 Dalby: drew at 01:49. Does not know why.
 
-Two lines of testimony, nearly identical, from two men who had never done anything in the same way. He knew them. Renn was forty, carried the job like a borrowed coat; Dalby was young and had stood, until last night, on his toes, like a man stands when he expects the floor to move. Different men. Same gap. The hole in each of them had the same dimensions, as if the same coin had been lifted from both pockets in the same minute.
+Two lines of testimony, nearly identical, from two men who had never done anything in the same way. He knew them. Renn was forty, and the job had stopped surprising him years ago; Dalby was young and had stood, until last night, on his toes, like a man stands when he expects the floor to move. Different men. Same gap. The hole in each of them had the same dimensions, as if the same coin had been lifted from both pockets in the same minute.
 
 One. Two witnesses.
 Two. One hole.
@@ -442,13 +452,13 @@ He stayed. The report would not close, and neither would he. Near midnight he wr
 
 * * *
 
-The door was still broken. That was the first thing Arthur filed, at 02:40, with the cat's silence filling the room as it had filled it all evening: the panel stood wedged against the frame exactly as the older officer had left it, a courtesy with no repair behind it, and the city had no record of the door at all.
+The door was still broken. That was the first thing Arthur filed, at 02:40, with the cat's silence filling the room as it had filled it all evening: the panel stood wedged against the frame exactly as the older officer had left it, the wedge the only repair the night had made, and the city had no record of the door at all.
 
 The city knew only what it logged and went blind everywhere else. He had turned that sentence over a dozen times since the morning; now he was going to leave through it.
 
 He packed by the discipline, which was to say he packed almost nothing. The chair's pouch took the ration pack, the last he would draw under his own name. It took the badge that had opened every door of his adult life. It took the blanket off his knees, folded small, as he folded everything, small and exact, leaving nothing behind. The blanket had lain across the dead length of him for years, and it was the only thing that had ever lain there without asking anything back, and the cat would ride on it.
 
-The cat watched him from the middle of the desk, where it had watched all evening without comment: matte, dusty, a shade thinner than it had been that morning, its black worn faint at the edges, the price of the second it had sold him. It had slept in long flat drifts, and the waking was work, as if something in it had to be wound.
+The cat watched him from the middle of the desk, where it had watched all evening without comment: a little less of it than this morning, the fur lying loose on the frame, the price of the second it had sold him. It had slept in long flat drifts, and the waking was work, as if something in it had to be wound.
 
 It made no sound at all. When he came back from the door it was sitting up, and the sitting had cost it, and it looked at the folded blanket, then at the door, and its eyes folded shut once, not a blink, a page turned and done, the smile of a broker watching a client reach the number.
 
@@ -477,13 +487,13 @@ He reached the ramp's mouth at 02:57. The north arc's boots came past above him,
 
 He was already moving. The gate under the abutment was older than the cordon, older than the grid's memory of itself; its key was catalogued in the same dead grammar as a hundred other keys, and he fed it the digits one-handed while the other held the wheel, and the gate opened without sound. The chair caught on the gate's low sill, and he had to rock it, twice, small and graceless, before the wheels came over. He pushed as he had pushed for twenty years, arms strong enough to carry the rest of him. The blanket slipped a hand's width off his dead knees, and he tucked it back with the wheel hand, hating it for one clean second. Then the ramp fell away down and across the boundary line, the wheels making their soft sound on the old tarmac; the far abutment came up and over him, and he stopped.
 
-He had been under the camera's eye for six seconds. The eye came back. Nothing on the feed. The seam closed over him the way water closes over a coin.
+He had been under the camera's eye for six seconds. The eye came back. Nothing on the feed. The seam closed over him like a purse-string pulled tight.
 
 He sat with his shoulders heaving, the cat still and warm and soundless on the blanket. It was spending nothing, which was the only gift it had to give, and he understood that he was being carried through his own escape by the only creature in the city that had ever carried him. On his own dead knees.
 
 Then the world's attention changed.
 
-He felt it as he had felt the building change last night, when it ran its reconciliation and found a surplus: a room's temperature shifting, unsourced. Far along the line, past the ramp's lip, the checkpoint crew had stopped moving, all of them, at the same moment, as if a number had come up. He could not see his own signature, but he had lived twenty-eight years under the city's attention and understood its grammar, and this was the sentence the night had been building since 01:00, last night:
+He felt it as he had felt the building change last night, when it ran its reconciliation and found a surplus: a room's temperature shifting, unsourced. Far along the line, past the ramp's lip, the checkpoint crew had stopped moving, all of them, at the same moment, as if a number had come up. He could not see his own signature, but he had been reading the city's attention for twenty-eight years, and this was the sentence the night had been building since 01:00, last night:
 
 His signature had crossed a line it had no permission to cross. The envelope was breached. The movement was anomalous. The word had existed all along; the city had always kept it; it had simply never once been his.
 
@@ -523,7 +533,7 @@ He took up the log. He turned back to the midnight page. He wrote beneath the en
 
 # Chapter 5: The Underlevels
 
-The light changed first. That was what he filed about the descent later, when the pattern of it was already old: not the ramp, not the dark, but the light giving out in stages, the grid's even white falling through its registers the way a tone falls through its octaves, until what was left was not darkness but an older light, slant, heavy, the color of a window shut for a long time and still trying. The air changed too: 17.4 degrees at the bottom of the ramp, the coldest air he had ever stood in, the first temperature since the lock that was not twenty-one. He stopped with his knuckles white on the armrests and let the dust of the old street settle on his wheels, and the cat on the blanket on his dead knees did not open its eyes.
+The light changed first. That was what he filed about the descent later, when the pattern of it was already old: not the ramp, not the dark, but the light giving out in stages, the grid's even white dropping a register at a time. What was left was not darkness but an older light, slant, heavy, the color of a window shut for a long time and still trying. The air changed too: 17.4 degrees at the bottom of the ramp, the coldest air he had ever stood in, the first temperature since the lock that was not twenty-one. He stopped with his knuckles white on the armrests and let the dust of the old street settle on his wheels, and the cat on the blanket on his dead knees did not open its eyes.
 
 It had been asleep since the gate, a different tax than the flat's flat-out, wrong, unplugged sleep, payment for two men and a night. This one had cost nothing yet, and an account that costs nothing is an account that is running; he put the arithmetic out of reach and pushed on. Nothing here surfaced itself as the grid's surfaces did upstairs; the floor kept what the air gave it. And the smell that came up off the old street was the first thing he had ever filed under *Weather, old*: rain, or what rain left behind when it was taken out of the sky, damp and mineral, patient.
 
@@ -535,7 +545,7 @@ The words arrived as they always did, already written, already his, standing in 
 
 *"The cage. The little room you put the numbers in so they can't touch you."* The tail laid one long, lazy verdict along the fold. *"You've been fencing your own arithmetic for twenty years, Arthur. It's the only surplus this city will never audit."*
 
-He sat silent, letting the words stand there. The hiss in his skull did not change pitch; it never changed. It was the one constant he owned, and he took care of it.
+He sat silent, letting the words stand there.
 
 The old street ran out ahead of them, recognizably a street, which was the strangeness: it had the spine the current maps had stopped drawing, the tiled floor, the columns, the shopfronts with their glass gone soft.
 
@@ -611,9 +621,9 @@ Nadia had gone still. When she spoke, there was something in her face he had not
 
 It was the truest thing anyone had said to him since the words had started arriving in his skull, and he could not answer it, because the answer lived in the box, and the box stayed shut.
 
-He left her the ration pack. She would not take it; she stood with her hands folded, refusing with her eyes, as you refuse a gift that will get counted, so he set it on the stones of the hall's threshold as he went, a thing he could not explain, and pushed on through the dead levels, and the scrap of dark fur went with him in his mind, pressing against the latch of the box all the way down the next ramp.
+He left her the ration pack. She would not take it; she stood with her hands folded, refusing with her eyes, as you refuse a gift that will get counted, so he set it on the stones of the hall's threshold as he went, a thing he could not explain. As he turned, she said, 'The way down is through the station, past the platforms and the clock that stopped at 04:17, the only time down here that is not the grid's. The net reads the platforms on the hour; it never looks past that clock, and the roads under the old paint are the ones it doesn't count.' He pushed on through the dead levels, and the scrap of dark fur went with him in his mind, pressing against the latch of the box all the way down the next ramp.
 
-At the bottom of the ramp the cat woke long enough to raise its head, the spine, then the shoulders, then the head, each settling into place, and looked at him once, the mockery gone out of it, and said, the words low and nearly flat:
+At the bottom of the ramp the cat woke long enough to lift its head clear of its forepaws, the ears coming up first, the rest of it staying where it lay, and looked at him once, the mockery gone out of it, and said, the words low and nearly flat:
 
 *"It will be fine. It has your city's gift. It will never miss what it never kept."*
 
@@ -623,13 +633,11 @@ He pushed on alone through the level of the station, past the stubs of old platf
 
 He had taken it for a shadow at first, or the stain of damp, the old brick of the underpass eaten back to its own color. Then his eyes took the measure of it as they took the measure of everything, line by line, and the lines assembled, and what assembled was a cat.
 
-A figure of a cat, painted on the wall of the underpass, arched, the back bowed in the curve he knew from his own knees, the tail raised in a hook, painted with a pigment so old it had become part of the brick, ochre and soot, laid there by a hand that remembered what a cat looked like, in matter, as his own memories were kept in him. Not drawn in the grid, not cast by any eye. Pigment was a kind of paper; the city could not rewrite what it could not reach, and the figure stood in the old light, a thing in a room it had never left.
+A figure of a cat, painted on the wall of the underpass, arched, the back bowed in the curve he knew from his own knees, the tail raised in a hook, painted with a pigment so old it had become part of the brick, ochre and soot, laid there by a hand that remembered what a cat looked like. The ochre lay in the pores of the brick like the wall's own damp, grain by grain, deeper than any light could lift; the soot of the tail had kept its edges unblurred through the whole long dark. Not drawn in the grid, not cast by any eye. The figure stood in the old light above the small settled dust at its base, the hook of its tail throwing one thin shadow across the mortar, a shadow that had not moved since the city was built.
 
 He looked at it for a long time. The cat on his knees slept on, wrong and deep, and did not stir, and he let it sleep, because anything it spent on waking it could not spend on the road, and the road was not finished. The figure held. It had been there before the cut, before the city, before the arithmetic of the sky, and it had never once been governed, holding its shape in pigment while the whole city slid off its own meaning.
 
-It did not slide away.
-
-Arthur sat in the wheelchair in the dark of the underpass and looked at the only image in the city that would keep — the shape of the thing that had carried him out of the city, waiting in a place the city had never thought to count — and he understood, without opening the box, that a hand had been here before him and had remembered, and that he had found the first picture of a cat since the book — and it did not slide away.
+Arthur sat in the wheelchair in the dark of the underpass and looked at the only image in the city that could not be rewritten — the hook of the painted tail rising over the road beneath it like the last name on a map the current maps had stopped drawing, a mark left standing in the one passage the net had never counted — and he understood, without opening the box, that a hand had been here before him and had remembered, and that this was the old paint Nadia had meant, and that the road under it was his road, and that he had found the first picture of a cat since the book — and it did not slide away.
 ---
 
 # Chapter 6: The Captain's Ledger
@@ -684,7 +692,7 @@ The ramp was older than the boundary. The gate was keyed to a dead grammar he ha
 
 He said it as other men state the weather, and Vance, who would write it down, nodded. The instruments would see as far as they were allowed to see.
 
-The level gates were concrete, wet with the cold, each carrying its number pressed into the face at the pour: two, four, six, eight. Vance read them as he passed and kept the count for the page he would write. The grid's copy of the same numbers had gone smooth. The last gate took his retainer, cycled, and closed behind them with the sound of a hatch agreeing to be a wall. Its inner face carried condensation in small even beads, shed onto concrete no hand had touched since the formwork came off. Nothing else had come this way. The water said so, and water could not be amended.
+The level gates were concrete, wet with the cold, each carrying its number pressed into the face at the pour: two, four, six, eight. Vance read them as he passed and kept the count for the page he would write. The grid's copy of the same numbers had gone smooth. The last gate took his retainer, cycled, and closed behind them with a dull clank of steel on steel, deadened by the wet. Its inner face carried condensation in small even beads, shed onto concrete no hand had touched since the formwork came off. Nothing else had come this way. The water said so, and water could not be amended.
 
 The dark was the levels' own medium. He had come down to stand in it. He counted every step, a habit older than the book, older than the drawer. The instruments read clean. Then cleaner.
 
@@ -751,7 +759,7 @@ He had read the order before. He had filed it, at twenty, which was to say he ha
 
 It had been his before he turned the leaf. He had known it as a man knows the number that is going to come up; the knowing was only the shape the memory had left behind it. For twenty years he had remembered the raid and not remembered the signature. Both had been true. The page was the place the two truths met.
 
-He looked at his own name on the order. The hand was the hand he had had at twenty; the V open like a door; the letters carried over the line like a man carrying a weight he has agreed to carry. The same hand had opened this file. The same hand wrote the book in the lower drawer. The same hand had gone down into the sealed levels this morning and come back with the anomaly's press recorded in it, line by line.
+He looked at his own name on the order. The hand was the hand he had had at twenty; the V open like a door; the letters overran the line like a man bowed under a weight he had agreed to bear. The same hand had opened this file. The same hand wrote the book in the lower drawer. The same hand had gone down into the sealed levels this morning and come back with the anomaly's press recorded in it, line by line.
 
 One. I led the raid.
 Two. I signed the lock.
@@ -759,7 +767,7 @@ Three. The boy has carried it for twenty years.
 Four. The anomaly is with him now.
 Five. It cannot enter me.
 
-The city had armored the hand it trusted with a pen. The wall that held against the anomaly in his skull was the same engineering — no. He stopped the thought before it finished. He was the boy's opposite, and it would be too easy to write himself the answer. He was not going to write that sentence in any book. A book that kept it would be a book that lied.
+The city had armored the hand it trusted with a pen. The wall that held against the anomaly in his skull was the same engineering — no. He stopped the thought before it finished. He was the boy's opposite, and it would be too easy to write himself the answer: that the boy had always been the thing the lock was for. He was not going to write that sentence in any book. A book that kept it would be a book that lied.
 
 He closed the file and sat. The flat's watchers had reported, once a day, nothing; the boy was below, in the sealed levels, with the anomaly. The anomaly could not enter Vance, and it had not needed to enter the boy, and the two facts stood in the same column. The grid believed in the wall Torelli had met. It was smoothing the boy out of its own memory, the way it had smoothed the weapons and the apologies out of Renn's strings and Dalby's. If Vance waited on the grid, in three days there would be no boy — only a wall, a stamp that said IRREPARABLE, and a first volume on a shelf.
 
@@ -787,7 +795,7 @@ He logged the draw with the level gates. He ordered the array staged at the bott
 
 # Chapter 7: The Gate of Signatures
 
-The light returned first. He took the checkpoint as he had taken the descent, by its light before its shape: the grid's even white coming back up the tunnel ahead of him, a surface closing over the old dark where the old light had gone out in stages, and with it the temperature climbing, 18, 19, 20, the air of the dead levels giving up its 17.4 degree by degree until it was 21.0 again, the city's own, the only temperature he had ever been sure of in his life.
+The light returned first. He took the checkpoint as he had taken the descent, by its light before its shape. The grid's even white came back up the tunnel ahead of him, a surface closing over the old dark where the old light had gone out in stages. With it the temperature climbed: the air of the dead levels gave up its 17.4 degree by degree until it was 21.0 again, the city's own, the only temperature he had ever been sure of in his life.
 
 And the street under his wheels ran out like a confession and became floor.
 
@@ -863,36 +871,34 @@ He did not file it. There was no column for it, and for the second time in his l
 
 Then he put his hands back on the wheels, and the spot on the back of his right hand kept its warmth, and he pushed on, and the arithmetic of the flight came due.
 
-He knew the number he had just owed. He had known it before the gate, as you know a debt before the statement arrives; the gate had only wrung it out of him in writing. Checkpoint logs were synchronous; he knew that as he knew the dead grammar, because it had been in the engineer's files: the old gates, the kind he had slipped through in the boot seam during the six-second camera re-sync at 03:09, kept a small local hold between camera and ledger. Six seconds you could stand inside. The seam had been real, and he had used it.
+He knew the number he now owed. He had known it before the gate, as you know a debt before the statement arrives; the gate had only wrung it out of him in writing. Checkpoint logs were synchronous; he knew that as he knew the dead grammar, because it had been in the engineer's files: the old gates, the kind he had slipped through in the boot seam during the six-second camera re-sync at 03:09, kept a small local hold between camera and ledger. Six seconds you could stand inside. The seam had been real, and he had used it.
 
 This gate held nothing. It streamed, and it had been streaming all along; the log went out as the tick went in, one-way, to every ledger that mattered. He had spent the whole flight being careful, a name kept off the map, a signature gone quiet at a legacy gate, and the gate had just written the name next to the line, and the line had a bearing.
 
-He did the arithmetic because arithmetic was what he had, and it came out as it had been coming out since the enamel: the flat, the legacy gate, the ramps, the seam of the dead levels, and now this arch, the line of him drawn across the city's map, in the city's own hand, running on the bearing the whole journey had kept, the bearing the old arrow had named.
+He did the arithmetic because arithmetic was what he had, and it came out as it had been coming out since the enamel: the flat, the legacy gate, the ramps, the seam of the dead levels, and now this arch, one more figure on a page he would never see. The bearing was the one the old arrow had named, and it had never once changed. Behind him the laborer's cable was still dragging its gray line across the seam paint.
 
-There was exactly one deep place on that line, one facility the city kept under the old heart, the place the cat had priced in the morning when it laid out the terms. The name that had been the terms all along.
+And the log had already gone out. There was no seam in it, no six seconds, no 03:09. The city had learned the shape of his only trick and built a gate without a gap, and he had pushed through it anyway. The gate read him real, read him marked, and sent both readings on.
 
-The line pointed at the Seed Vault.
+He had no need to picture the room it went to; he had never seen it, and the log did not need him to. Behind him the old man who had been turned away was walking back down the ramp with his hands empty at his sides, and ahead of him the woman's haptic band was still pressing its old soothing pattern into her arm, and neither of them had looked back at the enamel sign, and neither had he.
 
-And the log had already gone out. There was no seam in it, no six seconds, no 03:09. The city had learned the shape of his only trick and built a gate without a gap, and he had fed it his name to get past it, and it had taken the name, drawn the line, pointed it, the whole product of his carefulness one completed sentence in the city's own hand, with his name beside it, ending in the only place he had been carrying the cat to since the windowsill.
+He said nothing to the cat. The cat already knew; it had priced the terms in the morning. It lay on the blanket with its chin on its forelegs, the arch's white light resting along its spine, and its eyes were open, and it watched the corridor ahead, where the old columns ran down toward the dark of the descent, and it said nothing.
 
-He had no need to picture the room it went to; he had never seen it, and the log did not need him to. The man who read everything twice, the voice he had heard once through another man's earpiece, would read it before the cat had woken again, and would know exactly where the line ended. He had spent his whole life being the one thing the city could not read. The gate had read him in a single pass: a name, a direction, handed over the moment he passed under the arch.
+He pushed on into the dark, and behind him the gate's white light held the seam. The man who read everything twice would read it before dawn, and know the exact place where the line ended: not a street, not a door, not a number. The name had been the terms all along.
 
-He said nothing to the cat. The cat already knew; it had priced the terms in the morning. It lay on the blanket with its chin on its forelegs, thinner than the morning, and its eyes were open, and it watched the corridor ahead, where the old columns ran down toward the dark of the descent, and it said nothing.
-
-He pushed on into the dark, and behind him the gate's white light held the seam. The man who read everything twice would read it before dawn, and know the exact place where the line ended: not a street, not a door, not a number. The name that had been the terms all along.
-
-He had given the city the one direction it had never had, and the city would hold the line the way it held everything — the way it was holding the seam behind him now, watching the dark close over a man who had stopped being a fugitive and become a heading.
+He was a row with attention on it now, and the city would hold it the way it held everything — the way it was holding the seam behind him now, watching the dark close over a man who had stopped being a fugitive and become a heading.
 ---
 
 # Chapter 8: What It Cannot Understand
 
-The cat woke first, spine, then shoulders, then head, each carried into position like a thing being wound, and the winding had a lag that had not been there above, and the waking woke him. His hands were already aching on the wheel rims, and light came through the leading edge of the cat's ear the way it comes through paper held up to a window.
+The cat woke first, spine, then shoulders, then head, each carried into position like a thing being wound, and the winding had a lag that had not been there above, and the waking woke him. His hands were already aching on the wheel rims, and light came through the leading edge of the cat's ear like light through old glass.
 
 He had stopped the chair at the margin of an amber pool, one failing emergency strip, without deciding to, in a corridor the city had stopped lighting, a floor it had never reached before. His hands fell from the wheels. They ached.
 
 The quiet had come down with them level by level, paying down the city's sound until only the hum in the walls remained, and below that, nothing at all. It sat on his hands. It had weight, a silence with the shape of a held breath.
 
-He had not slept since the gate, seventeen hours, and he counted the cat's breaths, the rhythm owing nothing to anyone, deeper than the flat, longer than the descent, slowed with the hum, and the fur on the blanket was thinner than the morning.
+Overhead, the pipes ran empty. The hum in the walls kept its old pitch, and the pipes added nothing to it.
+
+He had not slept since the gate, seventeen hours, and he counted the cat's breaths, the rhythm owing nothing to anyone, deeper than the flat, longer than the descent, slowed with the hum, and the fur on the blanket lay sparse, the skin showing through it in dark patches.
 
 The cat stepped onto his hands and sat, where the ache was worst, and looked at the amber pool.
 
@@ -920,43 +926,35 @@ He had no answer for that: no price, no joke in a key he had not learned. The ca
 
 He hesitated; the cat had never offered anything un-priced. But his hands ached, the cat was thinner, and he closed his eyes.
 
-They arrived like words, but they were not words, and the first thing they did was take the filing out of him.
+They arrived like words, but they were not words, and the first thing they did was take away his habit of filing.
 
-The green came first, and he knew, in the same instant he saw it, that he had never seen green, not really. The archive's plates held green flat, pressed between pages, and he had known green as a pigment all his life. This was not pigment. This was green with a body: green in depth and motion, standing in trunks, hanging in leaves, coming apart as light moved through it, so that the very air between leaves was a color. Above, a blue showed through, a second ceiling he could not measure.
+The green came first, and he knew he had never seen green. The archive's plates held green flat, pressed between pages. This was not pigment. Green with a body: standing in trunks, hanging in leaves, coming apart in the light, so that the very air between leaves was a color.
 
-He knew it was day by the temperature, which was not 21.0; the city had one temperature, and this place had ten thousand: shade cool on one side of his face, sun warm on the other. Weather was a thing the city had never been.
+And the ground beneath was not floor; it gave, it held, it was never flat — grass against feet the lock had deadened.
 
-And the ground beneath was not floor; it gave, it held, it was never flat, and he felt it — grass against feet the lock had deadened — and the incongruity almost broke the fragment. The lock was a wall, and this came through it.
+The river came second, smell before shape: wet stone, mineral, cold arriving a full second ahead of the water. He had never heard water move before. The city's water ran in pipes and made the sound of pipes; this ran over itself and made the sound of water.
 
-The river came second, smell before shape: wet stone, mineral, cold carried on the air a full second before the water appeared. Then it appeared. He had never heard water move before.
+The weight on his hands shifted once, and the river thinned into pipes for a beat and came back whole. Nothing here was kept anywhere; it was held by the creature on his hands.
 
-The city's water ran in pipes and made the sound of pipes; this water ran over itself and made the sound of water, a voice that did not repeat, keeping time with nothing but its own falling. Light broke on its whole skin like the cat's ear, only everywhere.
+The animals came third, as attention: they looked at him and were not reading him. One raised its head, a large one, a brown with no name in his inventory, and fixed him with the wrong kind of eyes: eyes that priced nothing and asked nothing and were only looking. He counted legs, a reflex, and lost count. Alive, terribly, indifferently, alive. It was in no class anywhere.
 
-The weight on his hands shifted, once, and the river thinned into pipes for a beat, and came back whole. He understood that nothing here was kept anywhere. It was being held, moment by moment, by the creature on his hands, and the holding could not be interrupted.
+The birdsong came fourth. It did not arrive as a sound; it arrived as the possibility of a category he had spent his whole trained life marking empty, and he knew birds as he knew the dead, from plates, from the tract that had slid off a colleague's mind. He had never heard a bird in his life.
 
-He reached to hold the thing, and there was nothing that would hold it. The world did not care, and he stopped reaching.
-
-The animals came third, and they came as attention. The city's attention was reading: pods counted, gates asked if you were real, the net kept sums. The animals looked at him and were not reading him.
-
-One raised its head, a large one, its coat a brown he had to invent a name for on the spot, and it fixed him with the wrong kind of eyes, eyes that priced nothing and asked nothing and were only looking. The looking was its whole product, given freely.
-
-He counted legs, a reflex, the taxonomy reaching for control, and lost count, and the animal went on looking. Alive, terribly, indifferently, alive. It was in no class anywhere. That swept him more than the green, more than the water.
-
-The birdsong came fourth, and it did not arrive as a sound. It arrived as the possibility of a category he had spent his whole trained life marking empty. *No birds in the sky*: he had kept that line in the morning inventory as long as he had kept one, and he knew birds as he knew everything dead, from plates, from the tract that had slid off a colleague's mind. He had never heard a bird in his life.
-
-The fragment gave him the sound: one thread, then a second answering, then a loom of them, close and far. It had no antecedent; it was the thing itself, the original that every definition and every plate pointed at. He had lived his life among arrows and had never once touched the thing the arrows pointed at.
+The fragment gave him the sound: one thread, then a second answering, then a loom of them, close and far. It was the thing itself, and his throat moved once, as if to make an answer, and the notes went on without him.
 
 It did not come fifth. It came out of the count altogether: a parking lot at noon, flat, black, empty but for one machine at its edge and one man in a light coat standing at it, shouting. He shouted for a while. The machine did not answer. Afterward he hit it once with the flat of his hand, not hard, and walked away, and the lot stayed hot and empty behind him. Arthur had no shelf for the picture. It was not beautiful, and it moved him more than the green had, because the man had been alone and had still expected something back.
 
 And then a cat, small, mortal, ordinary. A real cat, unlike the thing on his knees: it would die, and it was carrying nothing.
 
-It yawned because the day was warm, turned its face into a patch of sun, and made a sound beneath the afternoon, a low, wide, steady sound, purposeless, kept up for no price and no reason. He named it before he could stop himself: the sound that did not exist in the city; the sound the being on his knees, in all the days he had known it, had never once made. He knew, without knowing how, that the beast guarded that sound.
+It yawned because the day was warm, turned its face into a patch of sun, and made a sound beneath the afternoon, a low, wide, steady sound, purposeless, kept up for no price and no reason. He named it without deciding to: the sound that did not exist in the city; the sound the being on his knees, in all the days he had known it, had never once made. He knew, without knowing how, that the beast guarded that sound.
 
 And somewhere deep under it all, rising like the river's cold, came a smell he knew: rain. His rain. One afternoon, pre-Culling, a doorway, he had been five. The box — the one he never opened in the morning inventory — shifted its lid; he closed it by long habit before it had fully opened, and the closing cost him too, and the fragment washed on over the shut lid, and he let it.
 
 And then the fragment failed in the holding: the river's voice thinned, the green at the edges of his seeing went translucent, one thread of birdsong cut off mid-note and did not come back, and the world fell silent in the middle of itself; it had all been present tense, and he knew the silence was the carrier's, and he opened his eyes.
 
 The amber pool held the wall. The dusty corridor was a dusty corridor. The cat had come back to the blanket. It lay on his dead knees, looking at nothing, its head sunk low, its whole shape gone slack, its breathing the wrong kind, too fast, too shallow, the body-shape working like a load it could not set down.
+
+Far above, a tone sounded down the pipes, short, and then again, longer, and then nothing, and the hum in the walls did not change.
 
 The edges were the price. He had been treating the light through one ear as an anomaly; now he saw it was a line of work: both ears let the amber through, the tip of the tail did, and when the cat shifted, the rim of one forepaw came and went, filmed, thin, like a thing seen through ice. The entry had a number, and the number had been climbing since the flat, each use draining.
 
@@ -1022,7 +1020,11 @@ He meant it. It was still not a number.
 
 It moved at last, an attempt at its old dismissiveness, a slow blink — and the blink was unfinished: the film of the eyelid went translucent mid-way, the amber showing through it, and the cat stopped, and looked down at the rim of the paw that had written the word. Then it turned once, twice, settled, and lay down on the blanket, spread wrong, and slept, longer than any sleep since the windowsill; he counted the breaths, thirty, forty, and the amber strip died somewhere in the night, its own small death, and the dark came all the way in, and the hiss was the only light, and he kept the count, felt the blanket's weight on his dead knees and the thin weight of the cat upon it, and rehearsed the letters as he had taught them, so that he could teach them again if he had to, and read in the dark the bearing he had carried all the way down: the line that pointed at the Seed Vault.
 
-When the cat woke it was much later, and the wound-up motion had a new lag, a beat between the spine and the shoulders where there had been none, and it was thinner. It looked once at the plate — the four letters still there, still legible, the only paper the city could not rewrite — and then looked down the dark of the bearing, and did not look back. He packed the blanket, and they pushed on, and then the words arrived, from the dark ahead of him, already his:
+When the cat woke it was much later, and the wound-up motion had a new lag, a beat between the spine and the shoulders where there had been none, and it was thinner. It looked once at the plate — the four letters still there, still legible, the only paper the city could not rewrite — and then looked down the dark of the bearing, and did not look back.
+
+High above, something fell shut in the shaft, a dull sound that came down the pipes, and the hum changed pitch by a step and held.
+
+He packed the blanket, and they pushed on, and then the words arrived, from the dark ahead of him, already his:
 
 *"When we reach the Seed Vault, you will hate me."*
 ---
@@ -1047,7 +1049,7 @@ A reader arm hung from the hub, a rod of unamendable matter with a single scored
 
 The city's readers would have parsed the plaque in the only grammar they knew, sector, block, floor, and found noise, and set it down as decoration; that was why it had survived. Arthur did not parse in the city's grammar. Formats carried nothing, so the city never banned them, and they outlived every content they had ever carried; he had collected them all his working life. Axis. Ring. Depth.
 
-It was the engineer's format. He felt it come up through the floorboards of him the way the warmth had come up on the morning of the windowsill. Then he read the first block's address, and the two things met in the middle of him: AX-7 / R-3 / D-24. The exact triple.
+It was the engineer's format. He felt it come up his spine the way the warmth had come up on the morning of the windowsill. Then he read the first block's address, and the two things met in the middle of him: AX-7 / R-3 / D-24. The exact triple.
 
 The record he had sorted in the Archive, condemned on general principles and kept by a city that would not burn what it could not read, was this, not a location in a dead grid.
 
@@ -1067,7 +1069,7 @@ The words fell and did not come back. The plaque went on, entry by entry, the sp
 
 *The claim of gene damage was published to authorize the removal of wild life. There was no gene damage. Loss is administered. A population that remembers the wild cannot be governed; the wild must be un-remembered. This facility holds the memory of life in quarantine, and holds the memory of the city in the same room, because to the city they are the same danger.*
 
-He sat with it; he was good at sitting with things, the whole of his discipline, and the detonation went through him as a reshuffling of everything he had set down, the only way a truth could reach him.
+He sat with it; he was good at sitting with things, the whole of his discipline, and the detonation went through him: everything he had set down, picked up and set down again elsewhere, the only way a truth could reach him.
 
 All his adult life he had believed the sky was empty because the wild had died of something, a contamination the city had been too gentle to name, and the gentleness had felt like mercy.
 
@@ -1083,7 +1085,7 @@ He read all eight before he let any of them land, because the taxonomy was the o
 
 For a half-second, in the middle of the grief, he hated them: the eight, for being dead, for failing, for leaving the whole of it to him, whatever it was. The hatred was small and ugly, and he did not recognize it at first, and then he did, and the shame closed over it, and he read on.
 
-Between the opening and the closing, the words he could not stop reading: *severance derived from recovered interface; technology turned on citizens.* The city had unbuilt their silence, the same verb the manifest had used for the sky, and fitted it to its own people.
+Between the opening and the closing, the words he could not stop reading: *severance derived from recovered interface; technology turned on citizens.* The city had un-remembered them, the same verb the manifest had used for the sky, and fitted it to its own people.
 
 Arthur had set down the severance as the city's invention, a tool like any other. It was not the city's. It was not a tool. It was a murder, and the city had been running on it for twenty years — forty million severed minds, running on one long murder.
 
@@ -1204,7 +1206,7 @@ And the last clause came: *the anomaly, and any citizen found in contact with it
 
 He read it twice, and the order stood.
 
-He thought of the warren: Nadia Soren, who kept only the shape of the word *furry*, and Eli, who would hear every word of the purge and keep none; the words would slide off the child the way they slid off the whole city, in a level about to be swept. He had brought the purge down on the warren. He filed that, and it stayed. Some things would not file.
+He thought of the warren: Nadia Soren, who kept only the shape of the word *furry*, and Eli, who would hear every word of the purge and keep none; the words would slide off the child the way they slid off the whole city, in a level about to be swept. He had brought the purge down on the warren. He recorded that, and it stayed. Some things would not record.
 
 The cat woke at the change of sound, came up off his knees in a single wound-up motion, one beat slow, ears cocked at the corridor mouth, pupils slits, whiskers pinned flat: the posture of a thing pricing a threat. It groomed anyway, one pass over an ear, the maintenance by which it closed occasions running even now; then it looked at the corridor, then at him, and its voice arrived in his head:
 
@@ -1232,9 +1234,9 @@ Then the light changed at the seam, far up the corridor: a whiteness gathering i
 
 *"The door is one turn from opening and one lifetime from it, and you know it. You know the grammar. You know how long the collar wants. The array is already singing."*
 
-The tone climbed, and he felt it in his teeth, in the approved fillings, in the plate of his skull, a wrongness with no name yet. The cat stood up in the gutter of his knees, forepaws braced on the chair's arm, looking down the corridor into the gathering white, and for one second it was the thing from the windowsill, intact, unspent, mocking the whole city with its stillness.
+The tone climbed, and he felt it in his teeth, in the approved fillings, in the plate of his skull, a wrongness with no name yet. The cat stood up in his lap, forepaws braced on the chair's arm, looking down the corridor into the gathering white, and for one second it was the thing from the windowsill, intact, unspent, mocking the whole city with its stillness.
 
-He would remember that second, and he filed it now, so it would survive him: the second it chose.
+He would remember that second, and he banked it now, so it would survive him: the second it chose.
 
 And then it went silent. And the world changed.
 
@@ -1272,7 +1274,7 @@ Someone shouted, the sergeant's voice, Torelli's, the man who once lost seven se
 
 A pause full of static. A trooper's voice, thin against the roar: 'Field is down, sir. Subject: male. In a chair. Holding the target.'
 
-The loudspeaker said nothing for two full seconds, the kind of nothing that reads a report twice, then Vance's voice, level, administrative, giving him back his life without knowing it:
+The loudspeaker said nothing for two full seconds, the kind of nothing an audit makes before it signs, then Vance's voice, level, administrative, giving him back his life without knowing it:
 
 'Hold.'
 
@@ -1343,7 +1345,7 @@ Arthur heard the word before the sense: *holding*, the same word, held a third t
 
 'One,' Vance said. 'The order has your name on it. Two. I am the one who holds it. Three. I can hold it long enough to say what I came down to say.' He paused a moment. He had already priced what came next. 'It isn't the order I came down to serve. It's the offer.'
 
-The corridor became a room. Far back at the seam a trooper shifted, and the sound did not carry; there were the two of them, and the dim black thing between the crawling man's arm and his chest, and the green, and nothing else that mattered. Vance gave the terms as he gave everything else: short sentences, in order, without amendment. He had rehearsed the order of it coming down, and the rehearsal frayed once, at the flat.
+The corridor became a room. Far back at the seam a trooper shifted, and the sound did not carry; there were the two of them, and the dim black thing between the crawling man's arm and his chest, and the green, and nothing else that mattered. Vance gave the terms as he gave everything else: short sentences, in order, without amendment. He had rehearsed the order of it coming down, and the rehearsal frayed once, at the flat's sill.
 
 'The city offers you the following, through me. You surrender the anomaly. You submit to repair and cleansing.'
 
@@ -1365,7 +1367,7 @@ Standing. The whole city rearranged to the height of a man, lights at chest leve
 
 All of it: the afternoon at thirty-one degrees, the last afternoon he had stood in the standing world; the pain of twenty years, itemized and removed; and the legs, and the life, and the peace. It was the city's arithmetic, and it was the first arithmetic the city had ever offered that closed. The column balanced. It balanced, and the balance was the most frightening thing the city had ever shown him. The hurt of remembering had never been the fear; the fear was that none of it mattered. The offer left the fear untouched; it confirmed it, and removed the mattering.
 
-And then the archivist in him, the one thing the city had never been able to sever, did what it always did on the receipt of any document: checked the terms against the inventory. The offer itemized the legs and the flat and the amendment. It itemized the pain, to be removed. It set a single price, the anomaly surrendered, and the price was honest, because the anomaly could no longer speak to him or hold a shelter over him; it was a dim weight, lighter than his memory of it, a faint wrong pulse under his thumb. Everything was itemized. Everything was priced. There was only one error in the document, and it was the hinge: the inventory was not pain.
+And then the archivist in him, the one thing the city had never been able to sever, did what it always did on the receipt of any document: checked the terms against the inventory. The offer itemized the legs and the flat and the amendment. It itemized the pain, to be removed. It set a single price, the anomaly surrendered, and the price was honest, because the anomaly could no longer speak to him or hold a shelter over him; it was a dim weight, lighter than his memory of it, a faint wrong pulse under his thumb. Everything was itemized. Everything was priced. There was only one error in the document, and it was the hinge: the inventory was not pain. What the price took was the meaning of the pain, the item no page of the offer had ever named.
 
 'The terms,' Arthur said, 'have no serial.'
 
@@ -1377,7 +1379,7 @@ Vance held still. 'The offer is not entered.'
 
 'Then where's the serial?' Arthur said. 'The city signs everything, captain. Even the things it declines to do. An unnumbered offer is a rumor wearing rank.' The small, dry item in him spoke before the archivist could stop it: 'And the sill line wasn't in the terms, captain. You sold me my own windowsill.' It was beneath him, and he let it stand.
 
-Vance was silent for a moment. The severed keep a smooth quiet; this was the other silence, the one that reads a document twice and finds something the first reading missed. When he spoke, the words came without weight, a passage read many times over the years.
+Vance was silent for a moment. The severed keep a smooth quiet; this was the other silence, the one that turns a sheet over and finds the mark on its back. When he spoke, the words came without weight, a passage read many times over the years.
 
 'You were eight. Nineteen... ninety-eight. The raid on the flat. One picture book, confiscated, graded high. The child behind the door, reciting the page, over and over, while my men took the book. A boy who would not stop saying what he saw. I remember the voice. The grid has never been able to amend that out of me.' A beat, measured. 'I led that raid, Arthur. I signed the order that locked you.'
 
@@ -1389,7 +1391,7 @@ He took it in silence and filed it with the rest: he had never once, in twenty y
 
 'Then you know the stamp,' Arthur said. 'IRREPARABLE. You know the city's procedure never worked on me. The only form it ever took was the lock, and the lock never cured anything. What are you offering me that you know won't take?'
 
-'It has never been run on a willing subject,' Vance said. 'It takes when the mind agrees to it.' He said it flatly, and under the flatness Arthur heard the man not believing what he was delivering, the amendment considered, and refused, and delivered anyway. 'The city's record says consent lowers the failure rate. I read it twice. I did not believe it either time. I am delivering it regardless, because the offer is the offer, and my belief is not a term of it.'
+'It has never been run on a willing subject,' Vance said. 'It takes when the mind agrees to it.' He said it flatly, and under the flatness Arthur heard the man not believing what he was delivering, the amendment considered, and refused, and delivered anyway. 'The city's record says consent lowers the failure rate. I read it. I did not believe a line of it. I am delivering it regardless, because the offer is the offer, and my belief is not a term of it.'
 
 'You believe in paper,' Arthur said. 'Your kind of paper, the kind that can't be amended. You're standing here holding an order you won't serve, delivering a cure you don't believe in, and the only document in this corridor that is true is the one you signed twenty years ago.'
 
@@ -1471,7 +1473,7 @@ Two. Minds take the cut.
 Three. Paper holds.
 Four. Paper holds even what a man writes down so that he will never have to read it.
 
-He read the rhyme a second time.
+He went back to the rhyme.
 
 *Tabby on the windowsill, the sun across her fur.* The boy was behind the door, the book in transit in the room, the men standing with their backs to the voice. The child recited the page whole, four times, and he could not have been reading it: he could not see it, and he had been too young to have been told it more than once. He had it, whole, in a city where nothing stayed. He had it *before* the raid. The raid could not take it out of him. In two seasons the book would burn with the rest of the grade-high stock, the page with it; the page survived in two places only: the child's memory, which the city would spend the next twenty years trying to make stop meaning anything, and this book.
 
@@ -1479,7 +1481,7 @@ The file had said the voice was not in any record: *the boy's voice behind the d
 
 There was a difference between keeping a page and reading a page. He had done the one for twenty years. He had just done the other, and it had entered him the way nothing had entered him since he was twenty.
 
-The city called it a defect. He turned past the raid entry to the next, the shorter one, and read it whole, and it was all there, in the young hand's even lines: the retention test, run after the confiscation, which had proved what the raid had already shown — the child had kept the page after it had left his keeping. The memory did not slide or amend. It stayed, whole, in a city that ran on things not staying. That was the defect. That was the grounds. *IRREPARABLE*. The stamp for the work the city did not intend to finish, and had never amended in twenty years. And on the order, in the delegation line, in the V open like a door, his name.
+The city called it a defect. He turned past the raid entry to the next, the shorter one, and read it whole, and it was all there, in the young hand's even lines: the retention test, run after the confiscation, which had proved what the raid had already shown — the child had kept the page after it had left his keeping. The memory did not slide or amend. It stayed, whole, in a city that ran on things not staying. That was the defect. That was the grounds. *IRREPARABLE*. The stamp for the work the city did not intend to finish, and had never amended in twenty years. And on the order, in the delegation line, his name, the V of it a doorway.
 
 > 1-0410. Time 21:05. August, 1998. Item: the lock order, signed by my hand today. Subject: the child of 1-0409. Scope: permanent, irreversible.
 > The test confirmed the grade. He held the page after the confiscation; the instruments measured it; the retention is genuine. The city will use him in the archive, the way the sighted are used, to bury what they see.
@@ -1503,7 +1505,7 @@ He opened the drawer and took out book three, the current volume, and wrote, bec
 > I carried the page for twenty years without reading it. Tonight I read it three times.
 > Decide what it means that the boy could not stop saying it, and that I could not stop writing it down.
 
-He closed book three and returned it to the drawer. Then he turned back to the first volume, to the last page, to the blank space beneath the young hand's certainty, and he wrote there, not an entry, no number, nothing the grid would call a record, no date, nothing but the words, in the same hand, the V open the same way, the ink the same color by the light of the same building:
+He closed book three and returned it to the drawer. Then he turned back to the first volume, to the last page, to the blank space beneath the young hand's certainty, and he wrote there, not an entry, no number, nothing the grid would call a record, no date, nothing but the words, in the same hand, the V opening the same, the ink the same color by the light of the same building:
 
 > Today I read it three times. I did not find the certainty.
 
@@ -1538,7 +1540,7 @@ Five. The direction is down. The direction is the Seed Vault.
 
 # Chapter 13: Three Doors
 
-The words followed him all the way to the collar — *the inner door wants a clean signature. Yours is dirty.* The sentence had been standing behind him since the captain spoke it, and Arthur put it in the drawer with the things he could not use yet, and took hold of the collar. The metal was warm from his own hands, warm as iron in a grip held half the night. Half-advanced, the exact shape his grip had left in it on the night the searchlights found them, when the chair went down. The first half of the turn had cost him a wheelchair and a night and everything a wheelchair had ever meant; the second half stood ready, waiting to be finished.
+The words followed him all the way to the collar — *the inner door wants a clean signature. Yours is dirty.* The sentence had been standing behind him since the captain spoke it, and Arthur put it in the drawer with the things he could not use yet, and took hold of the collar. The metal was warm from his own hands, warm as iron in a grip held half the night. The collar sat half-advanced, exactly where his grip had left it on the night the searchlights found them, when the chair went down under him. The first half of the turn had cost him a wheelchair and a night and everything a wheelchair had ever meant; the second half stood ready, waiting to be finished.
 
 His arms had been shaking since the ramp; the crawl had taken the night's worst out of them, and the collar asked for more than the night had left. He gave it what he had, his whole technique for a month: give what you have, pull, do not stop pulling. The green ring of light lay low around the collar, and the cat lay against his sternum, and the city lay somewhere above them both, amended, quiet.
 
@@ -1581,7 +1583,7 @@ The plate read him slowly. Cooler than the middle gate. This one was checking wh
 > CLEAN SIGNATURE REQUIRED
 > ACCESS DENIED
 
-The word was his. It had been his since he was eight, chosen for him on an afternoon at thirty-one degrees, while a door stood shut between a child and the room where they were taking his page. He had read it on paper a hundred times, on the one file of him that counted. He had never seen it printed on the world itself, on the last door of the deep, in red, turning him away. The city let him see, and let him carry, and let him arrive, and the arrival was the refusal. The sighted are used to bury what they see. They are not used to being let past the burial.
+The word was his. It had been his since he was eight, chosen for him on an afternoon at thirty-one degrees, while a door stood shut between a child and the room where they were taking his page. He had read it on paper a hundred times, on the one file of him that counted. He had never seen it printed on the world itself, on the last door of the deep, in red, turning him away. The city let him see, and let him carry, and let him arrive, and the arrival was the refusal. The burying had always been his hands' work. The refusal was the city's, in red.
 
 He pressed the plate again, and the door read him again, and there it was again: the same four lines, the same word, patient as a verdict. The red stayed. It meant it. He offered it his other hand, as if the mark might live in the right one and not the left, and the door read the left as it had read the right, whole, and said the same four lines. The cat was a weight in his arm, wrong-light, wrong-soft. The empty socket where its voice had been gave back nothing. 'Marked. Irreparable,' he said aloud, so that at least one of them heard it whole; the corridor said nothing, and the door said its four lines, and there was nothing in the reach of his voice or his hands that would open it.
 
@@ -1593,7 +1595,7 @@ He gathered the cat closer, the way you gather a thing before setting it down fo
 
 Boots.
 
-He heard them through the corridor, through the door, through his own silence. One tread, heel first, unhurried — the tread that had come down the ramp on the night of the offer, the tread of a man who has priced what comes next. The middle gate admitted him without a pause: one clean read, the click of a signature that had never once been marked, and then the boots came on through the second door and into the corridor. The man walked into the chamber a little out of breath, dust pale on one cuff, like a man who had already decided to be in it.
+He heard them through the corridor, through the door, through his own silence. One tread, heel first, unhurried — the tread that had come down the ramp on the night of the offer, the tread of a man who has priced what comes next. The middle gate admitted him without a pause: one clean read, the click of a signature that had never once been marked, and then the boots came on through the second door and into the corridor. The man walked into the chamber a little out of breath, one cuff pale with dust, like a man who had already decided to be in it.
 
 He had come through the outer door on Arthur's knowledge, left standing open, the first thing the archived clearance had ever let through besides Arthur, and through the middle gate on a read that had not cost him a breath. He had taken the stairs. They had made up the difference. And the coat at his chest stood out a hand's width: a squared weight, the exact shape of a bound volume, carried against the ribs like a man carrying his orders. Arthur read the shape. Paper. The captain had come down to the deepest door in the city carrying paper, and the city ran on data, and paper was the one thing the city could not amend.
 
@@ -1609,7 +1611,7 @@ The red went out first. Then the four lines went down, one by one, as if the doo
 
 'Twenty years ago I signed a form. This one today — same handwriting.'
 
-There was no fencing in it, no amendment, no offer. A fact, laid down. Then the standing man stepped back from the door he had opened, and stood aside, and offered the threshold to the crawling man with no word at all. Arthur had no answer that would not have been smaller than the fact, so he gave none.
+There was no hedging in it, no amendment, no offer. A fact, laid down. Then the standing man stepped back from the door he had opened, and stood aside, and offered the threshold to the crawling man with no word at all. Arthur had no answer that would not have been smaller than the fact, so he gave none.
 
 He went through, and the door stood open behind him on the same handwriting that had closed a different door twenty years ago, and he carried that with him past the offered threshold, past the man who had signed for him, the cat riding in the cradle of his arm, into the deepest room of the vault.
 
@@ -1650,9 +1652,9 @@ The link faltered between the words, and he waited, kneeling in the warm dark, h
 
 *I came back to finish.*
 
-The archivist in him reached for a drawer to file the sentence in, and found the drawer was not big enough for it. Every step of the road behind them stood in it: the windowsill, the deal, the crawl, the collar, the white light that had taken its body. Twenty years of a small black shape moving across the city's blind eye, always in one direction. He had read it as flight. It had been a return, measured and unhurried, all along: not running from anything, coming back to the one instrument built to hold it, carrying the one thing the instrument had always lacked.
+The archivist in him reached for a drawer to file the sentence in, and found the drawer was not big enough for it. Every step of the road behind them stood in it: the windowsill, the deal, the crawl, the collar, the white light that had taken its body. Twenty years of a small black shape crossing the city's blind eye, one direction only. He had read it as flight. It had been a return: not running from anything, coming back to the open throat above him, carrying the one thing the instrument had always lacked.
 
-It had needed a mind that remembered, a signature that would pass the doors, a body the city's eyes would not hold. The city had spent twenty years forging exactly that, paying it a clerk's wage, stamping it IRREPARABLE. He had been carrying it toward this room his whole life and had never known the direction. Even the lock on his spine was part of the instrument; a cage that had kept the remembering from being wasted, as an earlier cage had kept the first singers from wasting their song. That thought he left unopened.
+It had needed a mind that remembered, a signature that would pass the doors, a body the city's eyes would not hold. The city had spent twenty years forging exactly that, paying it a clerk's wage, stamping it IRREPARABLE. He had been carrying it toward this room his whole life and had never known the direction. Even the lock on his spine was part of the instrument; a cage that had kept the remembering from being wasted. That thought he left unopened.
 
 Then a smaller matter surfaced, in the voice it kept for quibbles:
 
@@ -1664,17 +1666,17 @@ The cat did not dignify that, and the next words came lower, with the complaint 
 
 *The eight sang,* it said, *and the singing was the taking. The city grew the ground of its thinking from what was left of them. They are the floor.*
 
-He looked down at his hand, at the warm give under his palm, and for the first time he read the chamber entire as a document, and the document was the ground. The residue along the inner walls of the eight pods, swept to the edges of the glass by the floor's slow breathing. The fine sediment of something grown and gone. Where the breathing had swept it, it lay banked against the glass in low pale drifts, and at the turn of each breath the finest of it lifted a finger's height and fell back, as dust settles on a shelf no one has moved. Unspent song, and the singers with it, turned under.
+He looked down at his hand, at the warm give under his palm, and for the first time he read the chamber entire as a document, and the document was the ground. The residue along the inner walls of the eight pods lay banked against the glass in low pale drifts, the fine sediment of something grown and gone. At the turn of each breath the finest of it lifted a finger's height and fell back, as dust settles on a shelf no one has moved. Unspent song, and the singers with it, turned under.
 
-A field ploughed once and sown with the dead, and out of that soil the city's whole mind had grown. The hub that cut memory out of forty million heads ran on the ground of the eight who had tried to bring life back, and under that same ground, sealed in the same warmth, lay the archive of every life the city had killed: the seed, the song, the ground, all one thing. One floor. The place that controls memory is the place that sequesters life. Not a sentence. Architecture, visible at last.
+A field ploughed once and sown with the dead, and out of that soil the city's whole mind had grown. The hub that cut memory out of forty million heads ran on the ground of the eight who had tried to bring life back, and under that same ground, sealed in the same warmth, lay the archive of every life the city had killed: the seed, the song, the ground, all one thing. The place that controls memory is the place that sequesters life, and the two of them were one floor: the hub above it, the archive beneath it. Not a sentence. Architecture, visible at last.
 
-The pods kept the shape of what they had grown, as a bowl keeps the shape of what it held, and what they had held was now what he knelt on.
+The pods stood around him, and what they had held was no longer in them; it was the ground under him now, warm, breathing.
 
 'So the vault is what they were,' Arthur said aloud, to the room, to himself.
 
-Vance heard only half the conversation in the room, and he said nothing to either half. He looked at the floor where Arthur's hand lay, then at Arthur, and Arthur watched him swallow the question. The cat's voice had never once reached the captain's mind; the firewall was a wall in both directions. And so the transaction before him was a man talking to a small dim weight, and the air answering. He had carried his paper down the deepest stairs in the city to witness whatever a man would do at the bottom, and now, it seemed, he meant to witness it.
+Vance heard only half the conversation in the room, and he said nothing to either half. He looked at the floor where Arthur's hand lay, then at Arthur, and watched him swallow the question. The cat's voice had never reached the captain's mind; the firewall was a wall in both directions. So the transaction before him was a man talking to a small dim weight, and the air answering. He had carried his paper down the deepest stairs in the city to witness whatever a man would do at the bottom, and now he meant to witness it.
 
-Arthur pressed his palm down until the give of the floor told him it was skin, not stone, and let the long breath of it run up his arm. Twenty years, and the ground had been breathing the city's thinking while the city cut thinking out of its people. He had sorted other people's forgetting for a living. This was where the forgetting came from, and it was warm.
+Arthur pressed his palm down until the give of the floor told him it was skin, not stone, and let the long breath of it run up his arm. Twenty years, and the ground had been breathing the city's thinking. He had sorted other people's forgetting for a living. This was where the forgetting came from, and it was warm.
 
 *Not was,* the cat said. The words came one tier thinner, as water thins going shallow. *Is. Still. Their song is in the ground. It never stopped being theirs. It has only been waiting for a voice strong enough to carry it.*
 
@@ -1682,9 +1684,9 @@ The three of them rested inside that sentence for a moment, the kneeling man, th
 
 *I watched the eight, before. I watched them sing until the singing was the taking, because no one had taught them the shape of it. I learned the lesson they died teaching: a key is only a key while it is unspent. So I kept it. All the years of your city, I kept it.*
 
-It had been waiting to spend it here, and the waiting was over. The vault had never needed the ninth to arrive; it had only needed the ninth to arrive with the key still whole, and with someone to hold the other end of the instrument.
+It had been waiting to spend the key here, and the waiting was over.
 
-The ninth pod stood at the centre of the ring, hatch swung back, its throat full of green, the transmitter built to hold the ninth, and the ninth was it, and it in turn had been waiting for the rest of the instrument, the part the vault could never grow for itself: a living mind that remembered, a throat for the sound to pass through. It laid out the last terms of the deal struck on a windowsill days ago, flat as a clerk listing what a man owns:
+The ninth pod stood at the centre of the ring, hatch swung back, throat full of green, built to hold the ninth, and the ninth was it, waiting for the rest of the instrument, the part the vault could never grow for itself: a living mind that remembered, a throat for the sound to pass through. It laid out the last terms of the deal struck on a windowsill, flat as a clerk listing what a man owns:
 
 *The sound has to move through a memory to resonate. One at a time. Yours. Each one goes in, the ground takes it, and the city hears it. And none of it comes back, not one memory, however you loved it. This is the price I have been quoting all along.* A pause. *You should know the whole of it before you answer.*
 
@@ -1789,15 +1791,15 @@ His muzzle came down, gently, the way a man sets down something breakable.
 
 The older one watched him do it. The memory arrived in its proper order: the borrowed-coat weariness first, the door he had broken, the apology pressed on a colleague like a coin neither of them would take, on a night the grid had closed. 'Sorry for your door,' he said to the door of the block, and stopped, because he had said it once before, everything behind it erased, and he said it now knowing what it meant, with something alive on the other side of it that would hear. His weapon came down the same way, slowly, and he stood in the middle of the work with his arms empty, recalling at last what he had drawn on.
 
-Behind him the detail was already following, weapon after weapon hanging at one hand, men looking at their own hands, at doors they had been about to enter, at the sky, which had not changed and was changed. The purge detail stood down of its own weight, as the city around it was standing down, block by block, forty million heads opening like one field.
+Behind him the detail was already following, weapon after weapon hanging at one hand, men looking at their own hands, at doors they had been about to enter, at the sky, which had not changed and was changed. The purge detail stood down of its own weight, as the city around it was standing down, block by block, forty million pages turning.
 
-In the vault, the sound went down and found the voice.
+In a kitchen above the deep, a woman counted to ten with a voice not hers, and fell silent.
 
 His mother's voice, whole, held as he held everything he would not let go of. Counting, patient, the last ordinary thing she had said before the polite men came in: *when I count to ten, you'll be somewhere else.* The sound of her went into the sound of him, where the two sounds were joined, and left. He kept the count. Ten. He would always know how to count to ten. He would never know again who had taught him, or in whose voice; only that the count had a shape, like the shape of a room he had once stood in, and the room was gone.
 
 Under his throat the small engine worked on, and the transmitter took it, and he felt the city at the wire's far end take the world back, and the ground of the vault run with the small thaw: water moving under the deep, the seed stock waking to warmth.
 
-The sound went down, and came up, and found the afternoon again, what was left of it. The temperature. One afternoon's heat, the bare true thing the fear had been amended over: no door, no number, no voices, the thing he had been afraid of for twenty years, and it was only heat, a boy in it. It went as the rest had gone, and what he kept was the knowledge that there had been an afternoon. That was all. It sat in him like a room with the furniture carried out, and he knew the shape of it, and the shape was the shape of the room where the door had been, and both were gone.
+The engine's small chest rose and foundered; the sound came up through him into what was left of the afternoon. The temperature. One afternoon's heat, the bare true thing the fear had been amended over: no door, no number, no voices, the thing he had been afraid of for twenty years, and it was only heat, a boy in it. It went as the rest had gone, and what he kept was the knowledge that there had been an afternoon. That was all. It sat in him like a room with the furniture carried out, and he knew the shape of it, and the shape was the shape of the room where the door had been, and both were gone.
 
 The sound found the rain smell next, and this one he had meant to keep sealed behind the door he had never opened. The resonance touched the seal, and the seal let. The rain came: damp, mineral, patient, one afternoon, pre-Culling, a doorway, he had been five, and it went, the whole of it, in one long breath. Above, in doorways across the city, people stopped and turned, trying to place a smell the city had removed, at forty million thresholds at once.
 
@@ -1805,7 +1807,7 @@ And the door that had held it came open with it, gently, as a door opens when th
 
 He felt the dark of the opened room. He had spent twenty years keeping it shut, had furnished it with his whole discipline, and what the box had been built to hold stood in the middle of it, in the light, whole. The word. The one the city had spent twenty years trying to make him un-know, saved to the last, the lamp still burning in the empty room. The sound was already rising under it.
 
-The blanket's weight went next, the chain being the chain. It was the smallest true thing he owned, and it went easily: the fold over his knees on the long descent, the weight upon it, the long weight of himself carried. The dead length of him stood one degree emptier, and he felt, against the hollow of his chest, the only weight left in the arithmetic of him, the small dark weight itself, the real one, still singing, still spending, still warm enough to die by inches into.
+The blanket's weight went next. It was the smallest true thing he owned, and it went easily: the fold over his knees on the long descent, the weight upon it, the long weight of himself carried. The dead length of him stood one degree emptier, and he felt, against the hollow of his chest, the only weight left in the arithmetic of him, the small dark weight itself, the real one, still singing, still spending, still warm enough to die by inches into.
 
 Then the sound rose under the word, and he did not let it go.
 
@@ -1872,7 +1874,7 @@ Three. The book held. It is the one thing in the city that held.
 
 He turned and walked out the door he had come in by. The inner door stood open and reading nothing; the middle gate's eye was dark; the outer seal had swung aside and did not care. Nothing asked for the wafer over his heart. The signature had gone out of the doors, unspent, no longer needed, like the sound before it, and he climbed, and the cold of the ramp came up in stages and went past him, down, as if it had business of its own.
 
-At the bottom of the ramp the array stood where it had been staged: the four spars drawn, spent, dust on the rails; the tool the city had built to burn the coupling between a thing and its place in the world. The trooper beside it had taken off his helmet. He stood at ease with his weapon held low across his thighs, looking into the dark, and he stayed at ease when Vance passed. Vance accepted it. Neither of them spoke. The weapon hung empty at the man's side, and nothing in the world was ordering him to pick it up.
+At the bottom of the ramp the array stood where it had been staged: the four spars drawn, spent, dust on the rails; the tool the city had built to burn the coupling between a thing and its place in the world. The trooper beside it had taken off his helmet. He stood at ease with his weapon held low across his thighs, looking into the dark, and he stayed at ease when Vance passed. Vance accepted it. Neither of them spoke. The weapon hung from his hands, muzzle toward the deck, and nothing in the world was ordering him to pick it up.
 
 The command channel had gone quiet. The earpiece held only the character of the air. For twenty years the grid's voice had been in every sound the city made; it was gone from the air now. The purge channels were folding into static one by one, like a net folding when nothing is holding the far end.
 
@@ -1980,9 +1982,9 @@ It had stood at the back of his skull for twenty years, thirty centimeters of lo
 
 He had not known the hiss and the lock were the same thing, but the silence had the shape of the thing that had made it, and the shape was the radio's, and the radio was off. Not between stations. Off. And with the hiss, the green had gone out of the room; the chamber stood in the first light, and nothing in it was enforcing anything.
 
-His hands went flat to the floor in the old transfer, the motion of twenty years, and there was no chair, and the procedure's object was gone. He stopped, and the stopping itself was a thing he had never had to do. He lay in the light with his palms on the warm ground, and the transfer waited for him like a sentence whose verb had been removed.
+His hands went flat to the floor in the old transfer, the motion of twenty years, and there was no chair, and the procedure's object was gone. He stopped, and the stopping itself was a thing he had never had to do. He lay in the light with his palms on the warm ground, and the transfer waited for him, the old sentence of the procedure standing open, its verb removed.
 
-He had been kneeling when the night took him. At some point the kneeling had become leaning, and the leaning had become how he woke: propped against the base of the ninth pod, head bowed, the small dark weight on his chest. He could feel it breathing, slow and unhurried, the warmth of it arriving in his sternum, and for a while he lay still, because the morning was new and the weight was not. It was, he understood without finding a name for the understanding, the first morning of his life that held nothing to be afraid of.
+He had been kneeling when the night took him. At some point the kneeling had become leaning, and the leaning had become how he woke: propped against the base of the ninth pod, head bowed, the small dark weight on his chest. He could feel it breathing, slow and unhurried, the warmth of it arriving in his sternum, and for a while he lay still, because the morning was new and nothing in it was scheduled, and the weight on his chest asked for nothing. It was, he understood without finding a name for the understanding, the first morning of his life that held nothing to be afraid of.
 
 The light lay level across the warm ground. The black thing stirred in it as it had always stirred, spine first, then shoulders, then the head coming up last, and it got down off him, one careful forepaw at a time, and settled on the warm floor beside him, low, looking at him.
 
@@ -1996,7 +1998,7 @@ It ran without him, the habit of twenty years: the day, the date, the year, who 
 
 The box at the back, the room he had spent twenty years not opening, stood open. It had been carried out during the night, or the night before, and he had not heard it happen; there was nothing in it to reach for; he closed it anyway, carefully, the way you close a lid nothing presses against any longer, and the closing was the last act of the habit, and he performed it, and nothing was left in the habit to serve.
 
-There was a note in the morning he did not open, and it had no date, only temperature, and it stayed where it had been put, the one thing in the morning he did not reach for.
+There was a note in the morning, a bird's, that he did not open, and it had no date, only temperature, and it stayed where it had been put, the one thing in the morning he did not reach for.
 
 Then he counted.
 
@@ -2022,7 +2024,7 @@ The room leaned. Not the room — the balance of him, a new instrument with no i
 
 He had been holding his breath for the whole rise. He let it go, and the stance stayed. His hands had carried him for twenty years, and they had never been asked to hold him still. They came off the console one finger at a time, and the legs held; he swayed once, a half-inch give at the knees that caught itself, and then the knees folded, all twenty years of sitting arriving at once, and he grabbed the pod with both hands, and the pod held him, and he nearly swore.
 
-His mouth made the shape of the swear, and the shape was empty. Twenty years of clean shelves had never stocked a swear, and nothing came out. That was the swear.
+His mouth made the shape of the swear, and the shape was empty. Twenty years of clean shelves had never stocked a swear, and nothing came out. That was the swear. It was the first swear in twenty years, and it was made of nothing.
 
 Then he stood, and the only support in the world under him was the two feet under him, and they were his.
 
@@ -2059,11 +2061,13 @@ He watched it rise, a hand that had begun to do something of its own — up off 
 
 # Chapter 18: What the Body Keeps
 
-The hand was still hanging.
+The light had moved on the ninth pod while he stood, climbing the flank to the height of his chest, and the morning had gone on around him. He had stood through the whole of it in the one position; the legs had held the whole way, the first long proof of them, taken without being asked.
 
-He had stood through the whole of the morning in the one position, and the legs had held the whole way, the first long proof of them, taken without being asked. The light lay level across the ring, the first light of the world, come down the bore of the ramp past the three open doors. It crossed the warm ground like light that had decided to occupy a room. The small dark weight sat on the living knees, patient as a debt someone had decided not to collect. The hand hung above it at the height of the empty place in him, executing an instruction whose source was gone.
+He tried a step. The knees took the weight, and the ankles refused the motion, and he caught the pod, and the failure was small and new, and he did not try again; nothing in the morning required a step.
 
-He watched the hand. It was a new economy, watching a thing all the way through; the morning held no register, no schedule, no next thing, and the whole taxonomy of his life had been unstaffed in the night. The room stood at its own height around him, nothing in it enforcing anything, and there was no sound anywhere in the world that he could hear except the two of them keeping time, and he stood in the light and watched, and the hand hung.
+The weight sat patient on the living knees, a debt someone had decided not to collect. Above it, in the moved light, the hand was still hanging.
+
+He watched the hand. It was a new economy, watching a thing through to the end; the morning held no register, no schedule, no next thing, and the whole taxonomy of his life had been unstaffed in the night. The room stood at its own height around him, nothing in it enforcing anything, and there was no sound anywhere in the world that he could hear except the two of them keeping time, and he stood in the light and watched, and the hand hung.
 
 The legs trembled once, a half-inch give at the knees that caught itself, and he waited for the old arithmetic to close over them, and it did not. The water stayed back. He had been standing for a long time, and the standing had begun to feel less like a proof than like a place, and the hand had hung the whole while, and it was the only unfinished thing in the morning.
 
@@ -2081,9 +2085,9 @@ It entered him the way warmth enters a room when a register is finally open: thr
 
 The stroke went on at the count's time. Under his palm the fur was warm, and the spine curved to the stroke the way a road gives to a foot, and the tail lay loose along his wrist, writing nothing. He remembered the tail writing. In the first room, at the window, it had written long lazy verdicts and laid them down, and the eyes had folded shut like a ledger closing, and every motion had carried its own announcement, none of it for him, all of it for him. This motion carried no announcement. It had no one watching it but him, and he was the other end of the stroke.
 
-His hands. The thought arrived whole, like the morning: his hands had pushed him for twenty years, had sorted and sentenced and buried what they saw, had held the console through the rising, had carried the small dark weight down the stair of the dead city through the three doors, and now they kept it. Of all the work they had ever been given, this was the first that was not work. He watched them in the first light do at last the thing they were made for, and he could not name it, and the hands did not care. Wherever he reached, the drawer opened into the empty field, and the hands went on, and it was enough that they went on.
+His hands. The thought arrived whole, like the morning: his hands had pushed him for twenty years, had sorted and sentenced and buried what they saw, had held the console through the rising, had carried the small dark weight down the stair of the dead city through the three doors, and now they kept it. Of all the work they had ever been given, this was the first that was not work. He watched them in the first light do at last the thing they were made for, and he could not name it, and the hands did not care. The word was gone, and nothing was owed for it, and the hands went on, and it was enough that they went on.
 
-At the top of a stroke his hand lifted — the old reach, the drawer, the whole reflex of his working life — and the drawer opened into the place where the word had been, and the field was empty, and he stood with his hand above the small dark weight at the height of the empty place, and the hand hung there again, waiting for the source of the instruction, which was gone.
+At the top of a stroke his hand lifted — the old reach, the whole reflex of his working life — and no word came, and the hand hung there, above the warm head, waiting, and the hanging had lost its strain; it was simply where the hand rested between strokes.
 
 The black thing pressed its head up into the open palm.
 
@@ -2099,9 +2103,9 @@ He said the one word he had left.
 
 It stayed. The head rested in the palm, and the weight settled deeper into the living lap — the lap that had once felt nothing, the weight that had once been impossible, arrived at last at full size, felt gram by gram — and the black thing turned once, deliberately, and settled the tail around its feet the way it had settled once at a window, in the first room, when the settling had been a performance. This settling was just the settling. Nobody was watching it but him, and it stayed, and the light came level across them both.
 
-The legs had held him through the whole morning, and standing had become plain standing. He lowered himself, one hand still stroking, the other braced on the warm ground, the weight riding down with him without a step of give, and sat with his back against the pod, and the light came level at sitting height, and the sky stood at the end of the bore, a color no city had decided on, and there was no schedule anywhere in it, and the dust of the dead city hung in the level light, turning over on itself in the same unhurried turn, the only traffic the morning had, and once, mid-stroke, the black thing lifted its head off the palm to watch a mote of dust cross the light, and the hand went still above it, waiting, and the mote went over and was gone, and the head came back into the palm, and the stroke went out down the bore of the ramp and came back to them softer, a thing returning to a room it had decided on. The light got in his eyes. He let it.
+The legs had held him through the whole morning, and standing had become plain standing. He lowered himself, one hand still stroking, the other braced on the warm ground, and let the weight ride down with him without a step of give; he sat with his back against the pod, and the light came level at sitting height. The sky stood at the end of the bore, a color no city had decided on; there was no schedule anywhere in it. The dust of the dead city hung in the level light, turning over on itself in the same unhurried turn, the only traffic the morning had; once, mid-stroke, the black thing lifted its head off the palm to watch a mote of dust cross the light, and the hand went still above it, waiting. The mote went over and was gone; the head came back into the palm, and the stroke went out down the bore of the ramp and came back to them softer, a thing returning to a room it had decided on. The light got in his eyes. He let it.
 
-The pod at his back was smooth and cool, and it held him the way the ground held the light, and he let the two temperatures settle against him, the cool and the warm, without sorting them. His back ached against the pod. The sound came up from the lap, without hurry, running the count under his ribs, expecting nothing of him. The knees had bent to take the sitting, the first bend of them that had ever been asked for and given, and they held the sitting the way they had held the standing, and the water did not come.
+The pod at his back was smooth and cool, and it held him as the ground held the light, and he let the two temperatures settle against him, the cool and the warm, without sorting them. His back ached against the pod. The sound came up from the lap, without hurry, running the count under his ribs, expecting nothing of him. The knees had bent to take the sitting, the first bend of them that had ever been asked for and given, and they held the sitting as they had held the standing, and the water did not come.
 
 Nothing in the morning needed answering. For twenty years every morning had been a tally of what was owed, the gratitude, the doors that opened for the badge, the schedule that ran like a wire through him, and the tally had gone out in the night with the rest of it. He sat in the light, and the light required nothing back, and he gave himself to it as to a floor he had finally stopped distrusting.
 

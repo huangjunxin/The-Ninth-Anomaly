@@ -46,15 +46,15 @@ His muzzle came down, gently, the way a man sets down something breakable.
 
 The older one watched him do it. The memory arrived in its proper order: the borrowed-coat weariness first, the door he had broken, the apology pressed on a colleague like a coin neither of them would take, on a night the grid had closed. 'Sorry for your door,' he said to the door of the block, and stopped, because he had said it once before, everything behind it erased, and he said it now knowing what it meant, with something alive on the other side of it that would hear. His weapon came down the same way, slowly, and he stood in the middle of the work with his arms empty, recalling at last what he had drawn on.
 
-Behind him the detail was already following, weapon after weapon hanging at one hand, men looking at their own hands, at doors they had been about to enter, at the sky, which had not changed and was changed. The purge detail stood down of its own weight, as the city around it was standing down, block by block, forty million heads opening like one field.
+Behind him the detail was already following, weapon after weapon hanging at one hand, men looking at their own hands, at doors they had been about to enter, at the sky, which had not changed and was changed. The purge detail stood down of its own weight, as the city around it was standing down, block by block, forty million pages turning.
 
-In the vault, the sound went down and found the voice.
+In a kitchen above the deep, a woman counted to ten with a voice not hers, and fell silent.
 
 His mother's voice, whole, held as he held everything he would not let go of. Counting, patient, the last ordinary thing she had said before the polite men came in: *when I count to ten, you'll be somewhere else.* The sound of her went into the sound of him, where the two sounds were joined, and left. He kept the count. Ten. He would always know how to count to ten. He would never know again who had taught him, or in whose voice; only that the count had a shape, like the shape of a room he had once stood in, and the room was gone.
 
 Under his throat the small engine worked on, and the transmitter took it, and he felt the city at the wire's far end take the world back, and the ground of the vault run with the small thaw: water moving under the deep, the seed stock waking to warmth.
 
-The sound went down, and came up, and found the afternoon again, what was left of it. The temperature. One afternoon's heat, the bare true thing the fear had been amended over: no door, no number, no voices, the thing he had been afraid of for twenty years, and it was only heat, a boy in it. It went as the rest had gone, and what he kept was the knowledge that there had been an afternoon. That was all. It sat in him like a room with the furniture carried out, and he knew the shape of it, and the shape was the shape of the room where the door had been, and both were gone.
+The engine's small chest rose and foundered; the sound came up through him into what was left of the afternoon. The temperature. One afternoon's heat, the bare true thing the fear had been amended over: no door, no number, no voices, the thing he had been afraid of for twenty years, and it was only heat, a boy in it. It went as the rest had gone, and what he kept was the knowledge that there had been an afternoon. That was all. It sat in him like a room with the furniture carried out, and he knew the shape of it, and the shape was the shape of the room where the door had been, and both were gone.
 
 The sound found the rain smell next, and this one he had meant to keep sealed behind the door he had never opened. The resonance touched the seal, and the seal let. The rain came: damp, mineral, patient, one afternoon, pre-Culling, a doorway, he had been five, and it went, the whole of it, in one long breath. Above, in doorways across the city, people stopped and turned, trying to place a smell the city had removed, at forty million thresholds at once.
 
@@ -62,7 +62,7 @@ And the door that had held it came open with it, gently, as a door opens when th
 
 He felt the dark of the opened room. He had spent twenty years keeping it shut, had furnished it with his whole discipline, and what the box had been built to hold stood in the middle of it, in the light, whole. The word. The one the city had spent twenty years trying to make him un-know, saved to the last, the lamp still burning in the empty room. The sound was already rising under it.
 
-The blanket's weight went next, the chain being the chain. It was the smallest true thing he owned, and it went easily: the fold over his knees on the long descent, the weight upon it, the long weight of himself carried. The dead length of him stood one degree emptier, and he felt, against the hollow of his chest, the only weight left in the arithmetic of him, the small dark weight itself, the real one, still singing, still spending, still warm enough to die by inches into.
+The blanket's weight went next. It was the smallest true thing he owned, and it went easily: the fold over his knees on the long descent, the weight upon it, the long weight of himself carried. The dead length of him stood one degree emptier, and he felt, against the hollow of his chest, the only weight left in the arithmetic of him, the small dark weight itself, the real one, still singing, still spending, still warm enough to die by inches into.
 
 Then the sound rose under the word, and he did not let it go.
 

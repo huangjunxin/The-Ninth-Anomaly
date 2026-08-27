@@ -1,6 +1,6 @@
 # Chapter 5: The Underlevels
 
-The light changed first. That was what he filed about the descent later, when the pattern of it was already old: not the ramp, not the dark, but the light giving out in stages, the grid's even white falling through its registers the way a tone falls through its octaves, until what was left was not darkness but an older light, slant, heavy, the color of a window shut for a long time and still trying. The air changed too: 17.4 degrees at the bottom of the ramp, the coldest air he had ever stood in, the first temperature since the lock that was not twenty-one. He stopped with his knuckles white on the armrests and let the dust of the old street settle on his wheels, and the cat on the blanket on his dead knees did not open its eyes.
+The light changed first. That was what he filed about the descent later, when the pattern of it was already old: not the ramp, not the dark, but the light giving out in stages, the grid's even white dropping a register at a time. What was left was not darkness but an older light, slant, heavy, the color of a window shut for a long time and still trying. The air changed too: 17.4 degrees at the bottom of the ramp, the coldest air he had ever stood in, the first temperature since the lock that was not twenty-one. He stopped with his knuckles white on the armrests and let the dust of the old street settle on his wheels, and the cat on the blanket on his dead knees did not open its eyes.
 
 It had been asleep since the gate, a different tax than the flat's flat-out, wrong, unplugged sleep, payment for two men and a night. This one had cost nothing yet, and an account that costs nothing is an account that is running; he put the arithmetic out of reach and pushed on. Nothing here surfaced itself as the grid's surfaces did upstairs; the floor kept what the air gave it. And the smell that came up off the old street was the first thing he had ever filed under *Weather, old*: rain, or what rain left behind when it was taken out of the sky, damp and mineral, patient.
 
@@ -12,7 +12,7 @@ The words arrived as they always did, already written, already his, standing in 
 
 *"The cage. The little room you put the numbers in so they can't touch you."* The tail laid one long, lazy verdict along the fold. *"You've been fencing your own arithmetic for twenty years, Arthur. It's the only surplus this city will never audit."*
 
-He sat silent, letting the words stand there. The hiss in his skull did not change pitch; it never changed. It was the one constant he owned, and he took care of it.
+He sat silent, letting the words stand there.
 
 The old street ran out ahead of them, recognizably a street, which was the strangeness: it had the spine the current maps had stopped drawing, the tiled floor, the columns, the shopfronts with their glass gone soft.
 
@@ -88,9 +88,9 @@ Nadia had gone still. When she spoke, there was something in her face he had not
 
 It was the truest thing anyone had said to him since the words had started arriving in his skull, and he could not answer it, because the answer lived in the box, and the box stayed shut.
 
-He left her the ration pack. She would not take it; she stood with her hands folded, refusing with her eyes, as you refuse a gift that will get counted, so he set it on the stones of the hall's threshold as he went, a thing he could not explain, and pushed on through the dead levels, and the scrap of dark fur went with him in his mind, pressing against the latch of the box all the way down the next ramp.
+He left her the ration pack. She would not take it; she stood with her hands folded, refusing with her eyes, as you refuse a gift that will get counted, so he set it on the stones of the hall's threshold as he went, a thing he could not explain. As he turned, she said, 'The way down is through the station, past the platforms and the clock that stopped at 04:17, the only time down here that is not the grid's. The net reads the platforms on the hour; it never looks past that clock, and the roads under the old paint are the ones it doesn't count.' He pushed on through the dead levels, and the scrap of dark fur went with him in his mind, pressing against the latch of the box all the way down the next ramp.
 
-At the bottom of the ramp the cat woke long enough to raise its head, the spine, then the shoulders, then the head, each settling into place, and looked at him once, the mockery gone out of it, and said, the words low and nearly flat:
+At the bottom of the ramp the cat woke long enough to lift its head clear of its forepaws, the ears coming up first, the rest of it staying where it lay, and looked at him once, the mockery gone out of it, and said, the words low and nearly flat:
 
 *"It will be fine. It has your city's gift. It will never miss what it never kept."*
 
@@ -100,10 +100,8 @@ He pushed on alone through the level of the station, past the stubs of old platf
 
 He had taken it for a shadow at first, or the stain of damp, the old brick of the underpass eaten back to its own color. Then his eyes took the measure of it as they took the measure of everything, line by line, and the lines assembled, and what assembled was a cat.
 
-A figure of a cat, painted on the wall of the underpass, arched, the back bowed in the curve he knew from his own knees, the tail raised in a hook, painted with a pigment so old it had become part of the brick, ochre and soot, laid there by a hand that remembered what a cat looked like, in matter, as his own memories were kept in him. Not drawn in the grid, not cast by any eye. Pigment was a kind of paper; the city could not rewrite what it could not reach, and the figure stood in the old light, a thing in a room it had never left.
+A figure of a cat, painted on the wall of the underpass, arched, the back bowed in the curve he knew from his own knees, the tail raised in a hook, painted with a pigment so old it had become part of the brick, ochre and soot, laid there by a hand that remembered what a cat looked like. The ochre lay in the pores of the brick like the wall's own damp, grain by grain, deeper than any light could lift; the soot of the tail had kept its edges unblurred through the whole long dark. Not drawn in the grid, not cast by any eye. The figure stood in the old light above the small settled dust at its base, the hook of its tail throwing one thin shadow across the mortar, a shadow that had not moved since the city was built.
 
 He looked at it for a long time. The cat on his knees slept on, wrong and deep, and did not stir, and he let it sleep, because anything it spent on waking it could not spend on the road, and the road was not finished. The figure held. It had been there before the cut, before the city, before the arithmetic of the sky, and it had never once been governed, holding its shape in pigment while the whole city slid off its own meaning.
 
-It did not slide away.
-
-Arthur sat in the wheelchair in the dark of the underpass and looked at the only image in the city that would keep — the shape of the thing that had carried him out of the city, waiting in a place the city had never thought to count — and he understood, without opening the box, that a hand had been here before him and had remembered, and that he had found the first picture of a cat since the book — and it did not slide away.
+Arthur sat in the wheelchair in the dark of the underpass and looked at the only image in the city that could not be rewritten — the hook of the painted tail rising over the road beneath it like the last name on a map the current maps had stopped drawing, a mark left standing in the one passage the net had never counted — and he understood, without opening the box, that a hand had been here before him and had remembered, and that this was the old paint Nadia had meant, and that the road under it was his road, and that he had found the first picture of a cat since the book — and it did not slide away.

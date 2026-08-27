@@ -22,7 +22,7 @@ Arthur heard the word before the sense: *holding*, the same word, held a third t
 
 'One,' Vance said. 'The order has your name on it. Two. I am the one who holds it. Three. I can hold it long enough to say what I came down to say.' He paused a moment. He had already priced what came next. 'It isn't the order I came down to serve. It's the offer.'
 
-The corridor became a room. Far back at the seam a trooper shifted, and the sound did not carry; there were the two of them, and the dim black thing between the crawling man's arm and his chest, and the green, and nothing else that mattered. Vance gave the terms as he gave everything else: short sentences, in order, without amendment. He had rehearsed the order of it coming down, and the rehearsal frayed once, at the flat.
+The corridor became a room. Far back at the seam a trooper shifted, and the sound did not carry; there were the two of them, and the dim black thing between the crawling man's arm and his chest, and the green, and nothing else that mattered. Vance gave the terms as he gave everything else: short sentences, in order, without amendment. He had rehearsed the order of it coming down, and the rehearsal frayed once, at the flat's sill.
 
 'The city offers you the following, through me. You surrender the anomaly. You submit to repair and cleansing.'
 
@@ -44,7 +44,7 @@ Standing. The whole city rearranged to the height of a man, lights at chest leve
 
 All of it: the afternoon at thirty-one degrees, the last afternoon he had stood in the standing world; the pain of twenty years, itemized and removed; and the legs, and the life, and the peace. It was the city's arithmetic, and it was the first arithmetic the city had ever offered that closed. The column balanced. It balanced, and the balance was the most frightening thing the city had ever shown him. The hurt of remembering had never been the fear; the fear was that none of it mattered. The offer left the fear untouched; it confirmed it, and removed the mattering.
 
-And then the archivist in him, the one thing the city had never been able to sever, did what it always did on the receipt of any document: checked the terms against the inventory. The offer itemized the legs and the flat and the amendment. It itemized the pain, to be removed. It set a single price, the anomaly surrendered, and the price was honest, because the anomaly could no longer speak to him or hold a shelter over him; it was a dim weight, lighter than his memory of it, a faint wrong pulse under his thumb. Everything was itemized. Everything was priced. There was only one error in the document, and it was the hinge: the inventory was not pain.
+And then the archivist in him, the one thing the city had never been able to sever, did what it always did on the receipt of any document: checked the terms against the inventory. The offer itemized the legs and the flat and the amendment. It itemized the pain, to be removed. It set a single price, the anomaly surrendered, and the price was honest, because the anomaly could no longer speak to him or hold a shelter over him; it was a dim weight, lighter than his memory of it, a faint wrong pulse under his thumb. Everything was itemized. Everything was priced. There was only one error in the document, and it was the hinge: the inventory was not pain. What the price took was the meaning of the pain, the item no page of the offer had ever named.
 
 'The terms,' Arthur said, 'have no serial.'
 
@@ -56,7 +56,7 @@ Vance held still. 'The offer is not entered.'
 
 'Then where's the serial?' Arthur said. 'The city signs everything, captain. Even the things it declines to do. An unnumbered offer is a rumor wearing rank.' The small, dry item in him spoke before the archivist could stop it: 'And the sill line wasn't in the terms, captain. You sold me my own windowsill.' It was beneath him, and he let it stand.
 
-Vance was silent for a moment. The severed keep a smooth quiet; this was the other silence, the one that reads a document twice and finds something the first reading missed. When he spoke, the words came without weight, a passage read many times over the years.
+Vance was silent for a moment. The severed keep a smooth quiet; this was the other silence, the one that turns a sheet over and finds the mark on its back. When he spoke, the words came without weight, a passage read many times over the years.
 
 'You were eight. Nineteen... ninety-eight. The raid on the flat. One picture book, confiscated, graded high. The child behind the door, reciting the page, over and over, while my men took the book. A boy who would not stop saying what he saw. I remember the voice. The grid has never been able to amend that out of me.' A beat, measured. 'I led that raid, Arthur. I signed the order that locked you.'
 
@@ -68,7 +68,7 @@ He took it in silence and filed it with the rest: he had never once, in twenty y
 
 'Then you know the stamp,' Arthur said. 'IRREPARABLE. You know the city's procedure never worked on me. The only form it ever took was the lock, and the lock never cured anything. What are you offering me that you know won't take?'
 
-'It has never been run on a willing subject,' Vance said. 'It takes when the mind agrees to it.' He said it flatly, and under the flatness Arthur heard the man not believing what he was delivering, the amendment considered, and refused, and delivered anyway. 'The city's record says consent lowers the failure rate. I read it twice. I did not believe it either time. I am delivering it regardless, because the offer is the offer, and my belief is not a term of it.'
+'It has never been run on a willing subject,' Vance said. 'It takes when the mind agrees to it.' He said it flatly, and under the flatness Arthur heard the man not believing what he was delivering, the amendment considered, and refused, and delivered anyway. 'The city's record says consent lowers the failure rate. I read it. I did not believe a line of it. I am delivering it regardless, because the offer is the offer, and my belief is not a term of it.'
 
 'You believe in paper,' Arthur said. 'Your kind of paper, the kind that can't be amended. You're standing here holding an order you won't serve, delivering a cure you don't believe in, and the only document in this corridor that is true is the one you signed twenty years ago.'
 

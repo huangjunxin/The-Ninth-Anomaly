@@ -12,6 +12,8 @@ static website built to publish it online.
 books/the-ninth-anomaly/   The manuscript (English) — the source of truth
 ├── chapters/              chapter-01.md … chapter-18.md
 ├── full.md                Single-file compilation of all chapters
+├── ja/                    Japanese translation (Murakami-style), mirroring
+│                          chapters/ + full.md, plus TRANSLATION_BRIEF.md
 └── story/                 Working notes: outline, style guide, state tracking
 
 site/                      The reading website (Astro 5, fully static)

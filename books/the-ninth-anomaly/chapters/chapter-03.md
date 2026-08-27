@@ -124,7 +124,7 @@ It paused. And in the pause something changed; the mockery left the room, reluct
 
 The words were true; he had spent eight years confirming them, twenty carrels a day.
 
-*I can price anything in this city. That is the first thing I have ever found that I cannot price. You traded what you are for a discount on feeling. There is no term for it.* It looked at him then — not through him, not into him, but at him. *And you are the only one of forty million who kept the receipt. I want to see it paid out at the end of a road. That is the part of the deal that is not a deal.*
+*I can price anything in this city. That is the first thing I have ever found that I cannot price. There is no term for it.* It looked at him then — not through him, not into him, but at him. *And you are the only one of forty million who kept the receipt. I want to see it paid out at the end of a road. That is the part of the deal that is not a deal.*
 
 The answer lived in the box, and the box did not open; but in the silence something in him had been turned. For twenty years the direction of the door had been inward. The thing on his knees was asking him to point it outward, at a vault, at a road, at a clause in the world that might, for once, pay out.
 

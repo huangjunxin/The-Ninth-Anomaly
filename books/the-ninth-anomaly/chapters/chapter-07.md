@@ -1,6 +1,6 @@
 # Chapter 7: The Gate of Signatures
 
-The light returned first. He took the checkpoint as he had taken the descent, by its light before its shape. The grid's even white came back up the tunnel ahead of him, a surface closing over the old dark where the old light had gone out in stages. With it the temperature climbed: the air of the dead levels gave up its 17.4 degree by degree until it was 21.0 again, the city's own, the only temperature he had ever been sure of in his life.
+The grid's even white came back up the tunnel ahead of him, a surface closing over the old dark where the old light had gone out in stages. He took the checkpoint as he had taken the descent, by its light before its shape. With it the temperature climbed: the air of the dead levels gave up its 17.4 degree by degree until it was 21.0 again, the city's own, the only temperature he had ever been sure of in his life.
 
 And the street under his wheels ran out like a confession and became floor.
 

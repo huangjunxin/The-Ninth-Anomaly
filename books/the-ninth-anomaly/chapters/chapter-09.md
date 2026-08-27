@@ -42,7 +42,7 @@ He sat with it; it was the whole of his discipline, and the detonation went thro
 
 All his adult life he had believed the sky was empty because the wild had died of something, a contamination the city had been too gentle to name, and the gentleness had felt like mercy.
 
-It had not died of anything. The city had culled it, species by species, word by word, and when the work was done, had culled the memory of doing it. Severance was the wages of the killing, and no citizen had ever been shown the bill.
+It had not died of anything. The city had culled it, species by species, word by word, and when the work was done, had culled the memory of doing it.
 
 Below the manifest, the rosette opened into the ring.
 
@@ -106,7 +106,7 @@ And at the foot of the well, in the place where the city kept his own record, st
 
 In the city's grammar it had meant beyond repair, a verdict, the reason they never tried. In the grammar of the engineers it meant something smaller and crueler: beyond *their* repair.
 
-The city had stamped him unopenable, not broken: a cage they could not pick because the cage was not theirs, and to admit the word was to admit whose it was. He had spent twenty years agreeing with a confession.
+The city had stamped him unopenable, not broken: a cage they could not pick because the cage was not theirs, and to admit the word was to admit whose it was. He had agreed with it the day the batch crossed his carrel, and twenty years of agreement had kept the cage shut.
 
 'You told me,' he said, level, as he said everything that had settled — 'that my lock was made of the same kind of thing you are. You did not tell me it was the same thing the eight wore, before me.'
 

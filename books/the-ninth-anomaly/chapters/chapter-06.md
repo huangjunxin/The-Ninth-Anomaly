@@ -1,8 +1,6 @@
 # Chapter 6: The Captain's Ledger
 
-The sweep report was sixty-one lines long. He read it twice. The first reading was for the numbers; the second was for the edges.
-
-The net had gone down into the sealed levels before first light and come back with nothing: no warm signature, no breach at depth, no citizen accounted for. That was the finding, in the grid's own hand: *nil*. Vance read the word twice. In a city that never stopped recording, nil was a sentence, and never just a word. The close-out in the flat had closed itself the same: *no record*.
+The net had gone down into the sealed levels before first light and come back with nothing: no warm signature, no breach at depth, no citizen accounted for. That was the finding, in the grid's own hand: *nil*. Vance read the word twice. In a city that never stopped recording, nil was a sentence, and never just a word. The sweep report had run sixty-one lines; the first reading was for the numbers, the second for the edges. The close-out in the flat had closed itself the same: *no record*.
 
 One. The net found nothing.
 Two. The net had been told to find nothing.

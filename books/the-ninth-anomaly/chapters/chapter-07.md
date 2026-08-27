@@ -12,7 +12,7 @@ The checkpoint was new, and he was late noticing it. It was being finished aroun
 
 The city had decided, since the flat, since the night, to put a gate where no gate had stood. The price of the gate was still ahead of him, unread, unfiled.
 
-The cat had not opened its eyes since the underpass, where the painted cat held its arch in ochre and soot under the old light. It lay stretched and wrong on the blanket on his dead knees, and it was thinner than the morning: the fur on its back had given up a shade somewhere down the ramps and had not been paid back, and at the leading edge of one ear the light came through it a little, like light through paper held up to a window.
+The cat had not opened its eyes since the underpass, where the painted cat held its arch in ochre and soot under the old light. It lay stretched and wrong on the blanket on his dead knees — or the shape had gone where the body had not — and it was thinner than the morning: the fur on its back had given up a shade somewhere down the ramps and had not been paid back, and at the leading edge of one ear the light came through it a little, like light through paper held up to a window.
 
 He was not certain he had read it correctly, and he did not check again. He counted its breaths, and the rhythm owed nothing to anyone, deeper than the flat, longer than the descent, and he let it sleep, because anything it spent on waking was taken from where they were going.
 
@@ -36,13 +36,13 @@ Struck off. No row. The city had not stopped him. It had stopped containing him.
 
 That was what he was thinking when he reached the seam and stopped, his knuckles white on the armrests, and the cat woke.
 
-It woke as it woke now, the spine, then the shoulders, then the head, each carried into position as if wound up, and looked at the archway, and looked at him, and said, the words arriving complete inside him before he had even noticed them:
+It woke as it woke now, and looked at the archway, and looked at him, and said, the words arriving complete inside him before he had even noticed them:
 
 *A marked signature is still a signature, Arthur. The gate prices what it reads, and it reads you. Marked is not struck off. Marked is a row with attention on it. The city does not close the rows it wants to watch. It feeds them.*
 
 'And the cost of — the feeding?'
 
-*"The terms were priced this morning,"* the cat said. *"A living citizen signature: that is all the gate has ever asked for. It cannot take me; I have no row, and the gate reads rows, as your city reads everything, and I am the one thing in it that was never signed. It will not read me at all. It will read you twice, once for being real and once for being marked, and it will keep both, and the keeping is the cost. You knew the cost. You have been filing it all your life."*
+*The terms were priced this morning,* the cat said. *A living citizen signature: that is all the gate has ever asked for. It cannot take me; I have no row, and the gate reads rows, as your city reads everything, and I am the one thing in it that was never signed. It will not read me at all. It will read you twice, once for being real and once for being marked, and it will keep both, and the keeping is the cost. You knew the cost. You have been filing it all your life.*
 
 He could have turned. There was nothing behind him but the dead levels and the dust that would settle on his wheels again, and behind the dust, rising through the whole skin of the city, the net that had been drawing down since the flat. Turning was only a longer way to the same read, and the instruments that would do that reading did not keep sums. He put his hands to the wheels and pushed.
 
@@ -72,7 +72,7 @@ It was a small event, and he would have called it small, only the warmth under t
 
 The cat drew back, sat up, and began to groom one foreleg with a fastidiousness that was almost insulting, turning its shoulder so that the gesture could not be mistaken for anything but the maintenance it looked like. It groomed the foreleg, then the paw that had pressed his hand, then, after a pause, the foreleg again, for a speck it could not possibly have missed, and when it had finished it looked once at the back of his hand, yawned, and said, the words arriving as they always did:
 
-*"The scan left a residue on you. I was removing it."* It added, a beat late: *"Also I was checking your temperature. The face is the correct instrument."* After a second beat, smaller: *"Do not file that."*
+*The scan left a residue on you. I was removing it.* It added, a beat late: *Also I was checking your temperature. The face is the correct instrument.* After a second beat, smaller: *Do not file that.*
 
 He did not file it. There was no column for it, and for the second time in his life he chose not to guess.
 
@@ -91,5 +91,3 @@ He had no need to picture the room it went to; he had never seen it, and the log
 He said nothing to the cat. The cat already knew; it had priced the terms in the morning. It lay on the blanket with its chin on its forelegs, the arch's white light resting along its spine, and its eyes were open, and it watched the corridor ahead, where the old columns ran down toward the dark of the descent, and it said nothing.
 
 He pushed on into the dark, and behind him the gate's white light held the seam. The man who read everything twice would read it before dawn, and know the exact place where the line ended: not a street, not a door, not a number. The name had been the terms all along.
-
-He was a row with attention on it now, and the city would hold it the way it held everything — the way it was holding the seam behind him now, watching the dark close over a man who had stopped being a fugitive and become a heading.

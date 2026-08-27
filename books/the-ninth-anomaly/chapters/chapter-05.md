@@ -4,13 +4,13 @@ The light changed first. That was what he filed about the descent later, when th
 
 It had been asleep since the gate, a different tax than the flat's flat-out, wrong, unplugged sleep, payment for two men and a night. This one had cost nothing yet, and an account that costs nothing is an account that is running; he put the arithmetic out of reach and pushed on. Nothing here surfaced itself as the grid's surfaces did upstairs; the floor kept what the air gave it. And the smell that came up off the old street was the first thing he had ever filed under *Weather, old*: rain, or what rain left behind when it was taken out of the sky, damp and mineral, patient.
 
-*"You're doing the cage again."*
+*You're doing the cage again.*
 
 The words arrived as they always did, already written, already his, standing in the air a full second before he noticed them. The cat had not moved. Its eyes were still shut; the voice came off the blanket unhurried, as if it had been waiting there.
 
 'The what?'
 
-*"The cage. The little room you put the numbers in so they can't touch you."* The tail laid one long, lazy verdict along the fold. *"You've been fencing your own arithmetic for twenty years, Arthur. It's the only surplus this city will never audit."*
+*The cage. The little room you put the numbers in so they can't touch you.* The tail laid its verdict along the fold. *You've been fencing your own arithmetic for twenty years, Arthur. It's the only surplus this city will never audit.*
 
 He sat silent, letting the words stand there.
 
@@ -26,7 +26,7 @@ They were simply open, a door standing open, and the attention in them came up a
 
 He felt it first as pressure, the city's attention descending into the dead levels as it had descended on the flat after the surplus, a change in the room's temperature, unsourced. Far along the street a drift of dust moved in a current that had nothing to do with wind. They were being swept. He could not see the eyes; he could feel them being counted out, a net of instruments drawing down the old street to check what should have been sealed, to find the ramp, to find the dust that had settled on his wheels, to find the one warm signature the grid had spent the night inventing a word for.
 
-*"This will cost more than the officers,"* the cat said, as it said everything, a quotation of a price. *"Put your hands on the wheels, Arthur, and do not move."*
+*This will cost more than the officers,* the cat said, as it said everything, a quotation of a price. *Put your hands on the wheels, Arthur, and do not move.*
 
 The world went smooth.
 
@@ -36,13 +36,13 @@ The net came down the street. He heard it as he heard everything, by the shape i
 
 The smoothness came down like a tent coming down, all at once, and the smell came back, and the dust remembered it was dust, and the black of the cat's back had gone a shade thinner against the blanket, the way a dye goes thinner, a payment going out. It looked at him once, and its eyes folded shut — not a blink, a clasp closing — and it said, the words thin and spent:
 
-*"Fifty metres of smoothness. The invoice is running. I'll present it at closing."*
+*Fifty metres of smoothness. The invoice is running. I'll present it at closing.*
 
 And it slept where it lay, down and wrong, like a thing unplugged, forelegs splayed past the fold of the blanket, its lip snagged on a lower tooth, a sliver of fang showing to no one.
 
 He counted the seconds of the descent as he had counted the eye's rest: still asleep at twenty, still at a hundred, its sides in a rhythm that owed nothing to anyone. Arthur bent over it and looked, and could not have sworn to it, and would not have had to: at the leading edge of one ear, in the old light, the fur went briefly thinner than air, the way a word goes thinner in a mouth deciding not to say it. He filed it without a category. It was the first entry he had ever made that he was not certain he had read correctly.
 
-He pushed on. The old street gave onto a square, and the square onto a market hall whose roof had come down in one piece, a lid coming down on a box; the shopfronts stood in a row with their glass gone soft, and he read them one by one, the first catalogue of the dead city he had ever been allowed to open: a bakery whose sign showed a sheaf of something he had no word for except *grain*, a cobbler. The people of the warren passed the signs as you pass a shape you have no category for; one woman stood in a doorway pressing the haptic band into her forearm, the old soothing pattern, and got nothing she could name. Only Arthur read them.
+He pushed on. The old street gave onto a square, and the square onto a market hall whose roof had come down in one piece, a lid coming down on a box; the shopfronts stood in a row with their glass gone soft, and he read them one by one, the first catalogue of the dead city he had ever been allowed to open: a bakery whose sign showed a sheaf of something he had no word for except *grain*, a cobbler. The people of the warren passed the signs and had no category for them; one woman stood in a doorway pressing the haptic band into her forearm, the old soothing pattern, and got nothing she could name. Only Arthur read them.
 
 And then the shop with the letters he had to stand in front of for a long time to hold: F-E-A-T-H-E-R, F-U-R, and between them an ampersand like a hinge. He sounded them by their parts, as he sounded the dead grammar of the engineer's files, and the sentence assembled and did not slide: a shop that had sold the outsides of animals. There was a cage in the dark window behind the sign, rusted bars, its door open and swung; something had been let out of it once, and no one had ever come back to close it. The city had been finished with the letting-out before he was born, and the door had hung open through every year of him, and he was the only one who could notice it.
 
@@ -92,7 +92,7 @@ He left her the ration pack. She would not take it; she stood with her hands fol
 
 At the bottom of the ramp the cat woke long enough to lift its head clear of its forepaws, the ears coming up first, the rest of it staying where it lay, and looked at him once, the mockery gone out of it, and said, the words low and nearly flat:
 
-*"It will be fine. It has your city's gift. It will never miss what it never kept."*
+*It will be fine. It has your city's gift. It will never miss what it never kept.*
 
 It had asked him once why forty million had handed their memory over like a toll, and he had had one word, and the word had not covered this. Before he could find another, the head went down onto the forelegs, and the sleep closed over it again, deeper than the flat, deeper than the day.
 

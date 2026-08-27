@@ -10,7 +10,7 @@ The sill was warm.
 
 Warmth implies a source; a source implies permission. Nothing in the flat had permission to be warm. He ruled out the possibilities one by one: the register, sealed; his own body, cold below the waist, a machine in standby; his hands, which had not touched the sill since cleaning day. He was left with the one category the city had no name for, because the city had no name for anything it had not made.
 
-He got up. The getting up was a strict procedure, and he did not trust his thoughts inside it, so he did not think: hands flat, hips lifted, the dead halves swung clear while his arms took the census of him. Brake. Lever. Settle. He rolled on his palms, one quiet arm-stroke at a time, not waking the chair, and crossed to the window. He touched the sill with his knuckles.
+He got up. The getting up was a strict procedure, and he did not trust his thoughts inside it, so he kept them out: hands flat, hips lifted, the dead halves swung clear while his arms took the census of him. Brake. Lever. Settle. He rolled on his palms, one quiet arm-stroke at a time, not waking the chair, and crossed to the window. He touched the sill with his knuckles.
 
 Not furnace-warm, not flesh-warm. A slow, settled warmth, as if something the size of a small animal had been sitting there a long time and had left. He held his knuckles against the glass for a full minute. The warmth began to leave while he held them, reluctantly, like a rumor caught looking. By the time he was dressed, it was gone.
 
@@ -36,13 +36,13 @@ Arthur hung his coat on the hook behind his seat, pulled the gloves from the dra
 
 Two carrels down, the woman he did not speak to went blank.
 
-He noticed, because he always noticed. Her eyes went soft. Her hands paused one beat. And the beat was gone, absorbed into a blankness that left nothing behind. The tract went back into the chute. She moved on, her face smooth as a sealed register, and said, to her screen, "Must be... the weather." Arthur said nothing. Nobody looked up. Nobody on the floor ever asked anybody what they had read today.
+He noticed, because he always noticed. Her eyes went soft. Her hands paused one beat. And the beat was gone, absorbed into a blankness that left nothing behind. The tract went back into the chute. She moved on, her face smooth as a sealed register, and said, to her screen, 'Must be... the weather.' Arthur said nothing. Nobody looked up. Nobody on the floor ever asked anybody what they had read today.
 
 He had seen it happen before, on other faces, at other carrels. For him it had never taken. That was why he was down here, on the payroll of his own least useful organ: a memory that would not stop.
 
 The primer reached his screen at 11:03. A children's book, confiscated, the family gone. Somewhere in its pages the scanner had found a picture and a word it had flagged *excessive*. The flag sat in the margin like a small red burn.
 
-He turned the pages with a gloved finger. The pages were thin and soft with age; the word surfaced, the old word, the one the city had chased for twenty years and never quite killed, and he did not let it land.
+He turned the pages with a gloved finger. The pages were thin and soft with age; the word surfaced, the old word, the one the city had chased for twenty years and never quite killed.
 
 It was the first word he had learned to hide. This was the discipline, built slowly at eight, built so well that he was now very good at his job: to touch forbidden things and feel nothing.
 

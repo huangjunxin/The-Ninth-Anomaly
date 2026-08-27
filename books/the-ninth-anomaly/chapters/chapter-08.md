@@ -1,6 +1,6 @@
 # Chapter 8: What It Cannot Understand
 
-The cat woke first, spine, then shoulders, then head, each carried into position like a thing being wound, and the winding had a lag that had not been there above, and the waking woke him. His hands were already aching on the wheel rims, and light came through the leading edge of the cat's ear like light through old glass.
+The cat woke first, spine, then shoulders, then head, and the winding had a lag that had not been there above, and the waking woke him. His hands were already aching on the wheel rims, and light came through the leading edge of the cat's ear like light through old glass.
 
 He had stopped the chair at the margin of an amber pool, one failing emergency strip, without deciding to, in a corridor the city had stopped lighting, a floor it had never reached before. His hands fell from the wheels. They ached.
 
@@ -14,25 +14,25 @@ The cat stepped onto his hands and sat, where the ache was worst, and looked at 
 
 'Your weight is on my hands,' Arthur said.
 
-The cat did not deny it. *"Ten hours,"* it said. *"I priced the filament. The city stopped making the part. It will fail, and nothing on this level is being replaced."*
+The cat did not deny it. *Ten hours,* it said. *I priced the filament. The city stopped making the part. It will fail, and nothing on this level is being replaced.*
 
 'Then it will die tonight.'
 
-*"Yes,"* the cat said. *"It will die before you do."*
+*Yes,* the cat said. *It will die before you do.*
 
 It reached a forepaw past his wrist, batted a curl of dust off the rim of the armrest, and watched it fall. The dust did nothing. So did the cat.
 
 Then it looked at the amber pool again, then at him, and the words arrived the way words arrived, already written, already his:
 
-*"Dust,"* the cat said. *"There is dust everywhere below the city's attention. You stopped in it because it is quiet. You are wrong. It is not quiet. Everything is screaming, and you are the only one in the whole city who can hear it. I forgot, for a moment, what I am carrying."*
+*Dust,* the cat said. *There is dust everywhere below the city's attention. You stopped in it because it is quiet. You are wrong. It is not quiet. Everything is screaming, and you are the only one in the whole city who can hear it. I forgot, for a moment, what I am carrying.*
 
 He had no answer for that: no price, no joke in a key he had not learned. The cat priced him a moment, looked away down the corridor, and said:
 
-*"I will show you. You file everything. You have no file for this."*
+*I will show you. You file everything. You have no file for this.*
 
 'For what?'
 
-*"What I am carrying. Close your eyes."*
+*What I am carrying. Close your eyes.*
 
 He hesitated; the cat had never offered anything un-priced. But his hands ached, the cat was thinner, and he closed his eyes.
 
@@ -72,15 +72,15 @@ For half a second he wanted it back, all of it: the green, the water, the animal
 
 The cat's mouth made the shape of its usual mockery — the mime without the bite — and the words arrived small:
 
-*"The only coin I had left, and you could not file it."*
+*The only coin I had left, and you could not file it.*
 
 'I have never failed to file anything before,' he said; he never lied.
 
-*"Then show me the one you keep under 'easier,'"* the cat said. *"Forty million of you. Why did you hand over your memories?"*
+*Then show me the one you keep under 'easier,'* the cat said. *Forty million of you. Why did you hand over your memories?*
 
 'It was easier.'
 
-*"That is not a price, Arthur. A word is not a number. I am asking for the number."*
+*That is not a price, Arthur. A word is not a number. I am asking for the number.*
 
 He could not make the number. He had never had it; he had had the word, and the word had been enough, and the cat was looking at him in a way that said it was not enough, and he looked away, and his eyes fell on an enamel plate bolted to the wall at the height of his armrest.
 
@@ -94,11 +94,11 @@ He finished and took his hand away; the dust held.
 
 The cat looked at the plate for a long time — it had read the word before he finished, mind-grammar faster than dust-grammar — and when it looked at him there was a note under the mockery he had not heard before:
 
-*"You want it to work on me."*
+*You want it to work on me.*
 
 'No,' he said. 'I want you to write it.'
 
-*"I can place that word inside you directly,"* the cat said. *"No labor. No dust. More perfect than your letters, and I will have spent nothing."*
+*I can place that word inside you directly,* the cat said. *No labor. No dust. More perfect than your letters, and I will have spent nothing.*
 
 'Everything you place in a mind can be taken out of a mind.' He said it plainly, because plain was all he had left. 'You put everything in minds. I wanted you to have one thing that stays when the minds are gone.' He was out of plain words, and the cat was still looking at him, and he put his hand out, palm up, over the plate.
 
@@ -112,11 +112,11 @@ It examined its work, lifted the paw, shook it once, fastidiously, as it had sha
 
 Into the silence, with nothing riding under the question for the first time, the cat said:
 
-*"Why did you hand it over?"*
+*Why did you hand it over?*
 
 'Hand what over?'
 
-*"Your memories. Yours. Your whole kind's. Forty million of you, and not one of you held on. I have priced your walls, your gates, the little machines you make to pet air with. I have never priced this. Your kind walked into it with your eyes open. And you, the one it did not take: you kept everything, you kept the pain, you are the proof against the whole arithmetic, and I have spent the only coin I have left to show you what was lost, and still it will not come out. Why did you voluntarily hand over your memories?"*
+*Your memories. Yours. Your whole kind's. Forty million of you, and not one of you held on. I have priced your walls, your gates, the little machines you make to pet air with. I have never priced this. Your kind walked into it with your eyes open. And you, the one it did not take: you kept everything, you kept the pain, you are the proof against the whole arithmetic, and I have spent the only coin I have left to show you what was lost, and still it will not come out. Why did you voluntarily hand over your memories?*
 
 He could feel the weight of the word on the plate and of the paw that had written it, and he answered with the plain, the only currency he had, the floor of the box since the afternoon at thirty-one degrees:
 
@@ -124,7 +124,7 @@ He could feel the weight of the word on the plate and of the paw that had writte
 
 And the cat was silent.
 
-The silence lasted so long the amber pool seemed to move, though nothing moved in it. He watched the cat watch the dust; it did not speak, did not groom, did not perform the maintenance by which it closed occasions. It sat with its head low over the word it had written, and for a long time the only sounds in the corridor were the hiss in his skull and the slow arithmetic of its breathing, and he understood, though he could not file it: it was not pricing, not mocking; it was holding the question. It was somewhere it had never been. He let it stand, and he did not know how long they sat so; the dark had come further into the amber before the cat moved.
+The silence lasted so long the amber pool seemed to move, though nothing moved in it. He watched the cat watch the dust; it did not speak or groom; the maintenance by which it closed occasions went unperformed. It sat with its head low over the word it had written, and for a long time the only sounds in the corridor were the hiss in his skull and the slow arithmetic of its breathing, and he understood, though he could not file it: it was not pricing, not mocking; it was holding the question. It was somewhere it had never been. He let it stand, and he did not know how long they sat so; the dark had come further into the amber before the cat moved.
 
 He meant it. It was still not a number.
 
@@ -136,4 +136,4 @@ High above, something fell shut in the shaft, a dull sound that came down the pi
 
 He packed the blanket, and they pushed on, and then the words arrived, from the dark ahead of him, already his:
 
-*"When we reach the Seed Vault, you will hate me."*
+*When we reach the Seed Vault, you will hate me.*

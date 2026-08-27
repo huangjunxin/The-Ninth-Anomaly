@@ -83,7 +83,7 @@ The city knew only what it logged and went blind everywhere else. He had turned 
 
 He packed by the discipline, which was to say he packed almost nothing. The chair's pouch took the ration pack, the last he would draw under his own name. It took the badge that had opened every door of his adult life. It took the blanket off his knees, folded small, as he folded everything, small and exact, leaving nothing behind. The blanket had lain across the dead length of him for years, and it was the only thing that had ever lain there without asking anything back, and the cat would ride on it.
 
-The cat watched him from the middle of the desk, where it had watched all evening without comment: a little less of it than this morning, the fur lying loose on the frame, the price of the second it had sold him. It had slept in long flat drifts, and the waking was work, as if something in it had to be wound.
+The cat watched him from the middle of the desk, where it had watched all evening without comment: a little less of it than this morning, the fur lying loose on the frame, the price of the second it had sold him. It had slept in long flat drifts, and the waking was work.
 
 It made no sound at all. When he came back from the door it was sitting up, and the sitting had cost it, and it looked at the folded blanket, then at the door, and its eyes folded shut once, not a blink, a page turned and done, the smile of a broker watching a client reach the number.
 
@@ -101,7 +101,7 @@ The cordon lay along the boundary road, north of the block. He knew it as he kne
 
 Nobody remembered why the seams were where they were. The archive remembered. Arthur remembered.
 
-The pairs turned at midnight and every three hours after. The seam at 03:00 was the long one: the outgoing pair walked the north arc back to the muster yard to log off, because the log-off was a ritual nobody had shortened, and the incoming pair mustered in the yard, and for fifteen minutes, 03:00 to 03:15, the north arc had no boot on it. And once a night, at 03:09, the grid re-synced its eyes: the north camera lost the feed for six seconds. He had filed both facts years ago, under *Procedures, dead, still running,* never expecting to use them.
+The pairs turned at midnight and every three hours after. The seam at 03:00 was the long one: the outgoing pair walked the north arc back to the muster yard to log off, because the log-off was a ritual nobody had shortened, and the incoming pair mustered in the yard, and for fifteen minutes, 03:00 to 03:15, the north arc had no boot on it. And once a night, at 03:09, the grid re-synced its eyes: the north camera lost the feed for six seconds. He had filed both facts two days before, under *Procedures, dead, still running,* never expecting to use them.
 
 He used them now, because the checkpoints sat on the lanes and the threads, and the boundary's only true gap was the one the city had forgotten it kept.
 
@@ -132,7 +132,7 @@ He looked back once. The flat was somewhere behind the boundary, the broken door
 
 The cat's eyes folded shut once, slowly, a line drawn under the last entry. And it said, without sound, the words arriving the way files arrive, ready before they came, his before he heard them:
 
-*"Welcome to the surplus column. It's larger than the city admits."*
+*Welcome to the surplus column. It's larger than the city admits.*
 
 He pushed the chair into the dark, toward the levels the current maps did not keep. The dust of the ramp settled on his wheels. The box stayed shut. Behind him, at the four corners of the boundary, the grid wrote his new classification in its own hand, smoothly, without residue. He did not see it. He was somewhere else — for the first time in his life, his own doing.
 

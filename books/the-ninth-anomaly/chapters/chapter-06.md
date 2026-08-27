@@ -24,7 +24,7 @@ The sergeant's face did not change. It went smooth, like a sentence losing its r
 
 He pulled the strings. The city kept a record of every mind wearing its product; the product had recorded Torelli in that minute: the readout came up even, finished, dustless. The wall. The sealed concrete. The passage never open in any record. Vance set the readout against the page he had just written. The readout was the city's memory and the page was his. They had not agreed. The edges were all on the page.
 
-One. The grids amend.
+One. The grid amends.
 Two. Minds take the cut.
 Three. Paper holds.
 

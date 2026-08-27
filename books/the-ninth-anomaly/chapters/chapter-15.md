@@ -1,99 +1,122 @@
-# Chapter 15: The Frequency
+# Chapter 15: The Sound of Lowered Weapons
 
-The air moved in the hollow of his throat, and kept moving.
+The green light had gone down a register. Not off, down, like the grid's even white used to fall through its registers on a descent, except nothing was descending now. The chamber stood at the bottom of the deep, spent, and the first thing Vance heard in it, in the place that had been full of the sound, was nothing running.
 
-It began below hearing, a pressure with a pitch, and it arrived in order: jaw first, then sternum, then the long bones, taken up by bone as a whole room takes up a struck instrument. The green light did not change. The floor did. Under his palms the warm give began to ring, one tone gathering under the whole deep, and he felt it arrive below the waist, in the dead length, where nothing had arrived in twenty years. A vibration, a claim, the deep's body against the deep of him — not the feeling he knew — and the lock, for once, had nothing to say about it.
+The floor was still warm. He felt it through his boots, the old give of it rising one more time, unhurried, as it had risen all morning. The small engine was silent, its work done. The man knelt at the centre of the ring with the dim weight on his chest, head bent, breathing, and the word he had spoken, 'stay,' stood in the air the way a thing stands when it is being kept.
 
-The sound stood at twenty cycles a second at the bottom, and rode up through the registers to a hundred and forty, and down again, a tide under the room. The carrier band, the key, hoarded unspent for longer than the city stood. It had never been spent. It was spending itself now, under his jaw, in the small engine that had climbed the slope of his chest to give it out, the only sound of a long life, going all at once, the way a hoard goes at closing.
+Vance stayed at the edge of the green. He looked at the two of them once: the kneeling man, the small dark shape, the word, and then he looked down at his feet.
 
-The small ribs worked against his Adam's apple, where his own sound was made, and the sound passed through the hollow of him and out, into the open throat of the ninth pod, the transmitter, aimed at the city above the deep, at everything the net had ever carried. The floor sang it up; the eight beneath the floor, turned under, gave it ground. And forty million heads lay at the far end of it, and not one of them knew yet.
+The volume lay where he had left it before the first true sound of a long life had begun, on the floor at the threshold, beside the door. It had lain there through all of it: the sound, the burning, the whole city opening like one field. Unopened. He had stood over it and watched the world come back, and neither the watching nor the book had moved.
 
-The sound touched the first memory, and the afternoon came up through the floor of him as it always came, heat first, the kind the city no longer permitted, through a window opened without permission, and the resonance took it, and the number left first. *Thirty-one.* The marker he had filed it under for twenty years went quietly, as a digit goes when a balance is paid, and the afternoon stayed, still held wrong, a door between him and voices on the far side. The first notes the city would receive would be his fear, and he had asked for that; the bent ones first was the only mercy left in the whole geometry.
+He could have crossed the green. The weight lay against the man's chest, rising and falling with the breaths, and the old command reflex, the one that had hunted this small dark thing across every level of the city, came up entire: carry it up into the remembering streets, where the word the man had given would be waiting in forty million mouths. The thought reached the floor of him, and he set it down, carefully, like a glass set down when you have decided not to drink. It was not his to carry. The man had paid for it with the count and the kept word and the life, and what was left of it was staying.
 
-Above them, the city received it.
+He bent and picked up the volume.
 
-In a sealed block above the deep, in the small hours, the purge detail had a door. Weapons were raised at it in the correct order; the corridor was already checked off on the tablet, the family behind the door accounted for, the last courtesy the entering. The wave arrived as weather arrives: unannounced, with no word anyone could attach to it.
+The book was heavier than it had been. The spine had gone soft; the paper inside was the color of time, and time was one of the things the city amended. He opened it to the last page, to the place where the young hand had closed volume one and written its certainty:
 
-The man at the head of the detail was forty, and he carried the work the way an older man carries a borrowed coat, comfortably, and without much respect. One street over, the younger one stood with his weight forward on his toes, an earpiece loud in his ear.
+> Today I was certain I did the right thing.
 
-Heat stood in the corridor that had no source. A door, somewhere behind them, shut in the air.
+And beneath it, in the hand of forty, in ink by the same light:
 
-The younger one's weapon wavered first. He looked at his own hand as if it had begun to do something of its own, and the earpiece hissed and gave, and the voice in it folded into static; over the static, for one second, he heard a door that was not this door come off its frame. The older one held a beat longer. Then the wave passed, and the two of them stood in the corridor with their weapons at a wrong angle, and neither knew which of them had started it.
+> Today I read it three times. I did not find the certainty.
 
-The purge detail waited. The doors stayed shut.
+The pen was in his coat. Not yet. The page could wait. It had waited twenty years.
 
-In the vault, the sound found the door. The geometry of the raid went: the position of the shut thing, the seam of light under it, the weight of the frame in its jamb, twenty years of exact wrongness, gone. Afterward he knew there had been a door, the exact shape of the knowledge with the thing rubbed out of it. He kept a receipt for a room. The room itself was gone.
+One. The sound is spent.
+Two. The instrument is whole and finished.
+Three. The book held. It is the one thing in the city that held.
 
-The voices stayed. They went last of the three bent things, slowly, because he had carried them longest, held wrong, amended by fear, and what he had leaned on for twenty years was the ache of not having heard them. When they were gone he could not have said whose they had been, what they had been saying, or whether they had said anything at all. What was left of the afternoon stood bare: heat, a window, a boy. The first time in twenty years he had held it clean.
+He turned and walked out the door he had come in by. The inner door stood open and reading nothing; the middle gate's eye was dark; the outer seal had swung aside and did not care. Nothing asked for the wafer over his heart. The signature had gone out of the doors, unspent, no longer needed, like the sound before it, and he climbed, and the cold of the ramp came up in stages and went past him, down, as if it had business of its own.
 
-The sound went down, and came up, and found the page.
+At the bottom of the ramp the array stood where it had been staged: the four spars drawn, spent, dust on the rails; the tool the city had built to burn the coupling between a thing and its place in the world. The trooper beside it had taken off his helmet. He stood at ease with his weapon held low across his thighs, looking into the dark, and he stayed at ease when Vance passed. Vance accepted it. Neither of them spoke. The weapon hung from his hands, muzzle toward the deck, and nothing in the world was ordering him to pick it up.
 
-The tabby went first: the stripes, the sill, the sun laid over it like a paid debt, the whole picture of the thing the city had taken a whole family for. Then the caption went, the sentence his mother had read aloud once, leaving word by word, as a coal goes: *a cat keeps the sun the way a child keeps a secret.* Each word left a space that exactly fit it, and the spaces filled with nothing, and he was left with nothing where the picture had been except the word standing over the empty page, saved deliberately, the light left on in the last room.
+The command channel had gone quiet. The earpiece held only the character of the air. For twenty years the grid's voice had been in every sound the city made; it was gone from the air now. The purge channels were folding into static one by one, like a net folding when nothing is holding the far end.
 
-Above them, the city received the clean thing at last.
+Stations stood along the way, and he passed them one by one. A wall display still held its even white where a console had been cleaned; it dimmed and went out, as the voice had gone out of the air behind him. A soldier sat on the ramp's last landing, weapon stood on end against the rail, collar open, watching the dark below. He made no move to rise. Vance stepped past him, and under the boots the deck rang the whole way, the only voice left in the command structure besides his own breathing.
 
-The archive opened. It had been waiting forty million heads. It opened in them as water opens in a dry bed, the wire that had been cut growing back across the cut, and with it came the green: green with a body, standing in trunks, hanging in leaves, coming apart as light moved through it. Blue above a second ceiling. Water running over itself, a voice that did not repeat.
+The dispatch room was dark.
 
-The animals came as attention, quiet, all at once. Eyes that priced nothing and asked nothing, looking, as the world had looked before the city taught it to read. And under the green, a sound beneath an afternoon, low, wide, steady, purposeless, kept up for no price and no reason, arriving everywhere with no name attached to it.
+That was the wrong order of things. The dispatch room was the room that was never dark: the wall of displays, the reconcile column, the map of the city drinking its own even white. The map was going out block by block now, dark blooming in the seams and spreading like water: the old town first, then the levels, then the blocks above, each interface falling through a register, like a tone dropping an octave. The reconcile column was empty, the first time in twenty years.
 
-On a bench in the upper city, a man had been stroking the air before him, slowly, as you stroke a pet. His hand came down on the warm shape of the air and stopped, held there, and he looked at his palm as if it had grown a thing in it. In a warren doorway, a woman with a haptic band pressed to her forearm let the band grow cold in her hand, because the pattern had become noise, and the comfort it had never given stood in the air beside her, warm, breathing, unattached to anything she could name.
+No orders had been issued. That was the strangest fact of the morning, and Vance stood in it a moment, listening: stations do not receive silence. The dark wall was not a failure. A failure is a machine that can be repaired; the board was not failing. It was through, and a mouth is through when it has said everything it was built to say.
 
-On a transit stair, a man stood mouth open at the green, and the first whole thing the wave gave him was not the green. He said it to no one: eleven years of his neighbor's dog, the barking through the wall, and it was his, clean, and he said it again. A woman on the landing laughed, one note, wrong, hand up too late.
+Torelli stood at the dead board. He had not moved to fix it, which was the first thing Vance noticed; the second was the voice. The sergeant's measured floor was gone. He looked at the dark wall with the eyes of a man who had watched it die.
 
-And in the sealed block, the two who had been cut deepest felt the seam take the frequency first, as a scar takes blood first. The night came back into the younger one whole: the flat, the sill, the shape that would not resolve, the soundless yawn, the apology going back and forth between them like a coin. The earpiece was dead. He left it hanging; the whole night stood in the corridor with him, and he knew at last why his hand had gone up in the dark, and knew at last that the thing on the sill had not been a category error. It had been alive.
+'The net's gone quiet, sir. All of it.' Torelli's hands hung at his sides. 'Orders aren't coming through.'
 
-His muzzle came down, gently, the way a man sets down something breakable.
+'I know.'
 
-The older one watched him do it. The memory arrived in its proper order: the borrowed-coat weariness first, the door he had broken, the apology pressed on a colleague like a coin neither of them would take, on a night the grid had closed. 'Sorry for your door,' he said to the door of the block, and stopped, because he had said it once before, everything behind it erased, and he said it now knowing what it meant, with something alive on the other side of it that would hear. His weapon came down the same way, slowly, and he stood in the middle of the work with his arms empty, recalling at last what he had drawn on.
+On the board before them, one display still held a green line: the standing protocol, pushed by the grid into every station that would still take it. When the net fails, the station cleanses. Sign to resync. Vance read the old shape without reading the letters, the arithmetic of it, the offer. Sign, and the night's notes go down with the rest, amended, dustless, no record. The same offer he had once written out for a boy in a corridor, in different coin: the legs, the flat, the clean record, no memory of any pain.
 
-Behind him the detail was already following, weapon after weapon hanging at one hand, men looking at their own hands, at doors they had been about to enter, at the sky, which had not changed and was changed. The purge detail stood down of its own weight, as the city around it was standing down, block by block, forty million pages turning.
+He had signed that class of order before. Twenty years ago he had signed the lock that made it possible.
 
-In a kitchen above the deep, a woman counted to ten with a voice not hers, and fell silent.
+He looked at the green line. Then he looked down at the book in his hands, at the two lines on the last page: the certainty, its absence. He unbuckled the sidearm and set it on the console, between the dead board and the standing protocol. The buckle made a small, final sound. Nothing had been taken from him. He had set it down.
 
-His mother's voice, whole, held as he held everything he would not let go of. Counting, patient, the last ordinary thing she had said before the polite men came in: *when I count to ten, you'll be somewhere else.* The sound of her went into the sound of him, where the two sounds were joined, and left. He kept the count. Ten. He would always know how to count to ten. He would never know again who had taught him, or in whose voice; only that the count had a shape, like the shape of a room he had once stood in, and the room was gone.
+'What are your orders, sir?' Torelli said. The floor had gone from his voice; a man was asking what a man does.
 
-Under his throat the small engine worked on, and the transmitter took it, and he felt the city at the wire's far end take the world back, and the ground of the vault run with the small thaw: water moving under the deep, the seed stock waking to warmth.
+'None.'
 
-The engine's small chest rose and foundered; the sound came up through him into what was left of the afternoon. The temperature. One afternoon's heat, the bare true thing the fear had been amended over: no door, no number, no voices, the thing he had been afraid of for twenty years, and it was only heat, a boy in it. It went as the rest had gone, and what he kept was the knowledge that there had been an afternoon. That was all. It sat in him like a room with the furniture carried out, and he knew the shape of it, and the shape was the shape of the room where the door had been, and both were gone.
+'The men —'
 
-The sound found the rain smell next, and this one he had meant to keep sealed behind the door he had never opened. The resonance touched the seal, and the seal let. The rain came: damp, mineral, patient, one afternoon, pre-Culling, a doorway, he had been five, and it went, the whole of it, in one long breath. Above, in doorways across the city, people stopped and turned, trying to place a smell the city had removed, at forty million thresholds at once.
+'Let them stand down. They already have.'
 
-And the door that had held it came open with it, gently, as a door opens when the last thing it was holding has been carried out.
+Torelli stood looking at the dead board a long moment, and then he said: 'Twenty years, sir. I thought it would be loud.'
 
-He felt the dark of the opened room. He had spent twenty years keeping it shut, had furnished it with his whole discipline, and what the box had been built to hold stood in the middle of it, in the light, whole. The word. The one the city had spent twenty years trying to make him un-know, saved to the last, the lamp still burning in the empty room. The sound was already rising under it.
+'So did I.'
 
-The blanket's weight went next. It was the smallest true thing he owned, and it went easily: the fold over his knees on the long descent, the weight upon it, the long weight of himself carried. The dead length of him stood one degree emptier, and he felt, against the hollow of his chest, the only weight left in the arithmetic of him, the small dark weight itself, the real one, still singing, still spending, still warm enough to die by inches into.
+He unbuckled his helmet and set it on the console, beside the sidearm. 'I'll tell the men myself,' he said. 'They'll believe it more from a sergeant than from a dead board.'
 
-Then the sound rose under the word, and he did not let it go.
+One. The city is not falling.
+Two. It is standing down, block by block, like the detail stood down.
+Three. I am part of it.
+Four. It is the first order I ever gave myself.
 
-He felt it come up under the last room, and he held it, as you hold the one thing you have given everything else not to give. The sound hung. The transmitter waited. Above, the wave stood still, like a held breath: in the sealed block the borrowed coat hung from one hand, and the whole city hung with it, mid-memory, mid-heat, mid-thaw, waiting on the last room of one clerk's head.
+He walked out of the dispatch room with nothing at his hip, and the direction of his boots was down.
 
-His arm was cramping where it braced him on the floor. His throat was dry.
+The levels were unsealed. That was the first thing: the sealedness had gone out of them, as it had gone out of the doors, and the stair he had never once taken in daylight came up to meet him, thick with something that had no name left in the city and every name he remembered: what rain leaves. Water stood in the runnels of the old tiles, the first water the levels had carried in his lifetime, and the thaw was coming up out of the deep. Ahead of him, filling the market hall from wall to wall, the crowd was coming with it.
 
-The small engine on his chest knew. He felt it gather what it had left, and the head came up — a last true motion, the spine carrying it — and it pressed its forehead to his, where his own head had bowed to meet it.
+He walked into the crowd like a man stepping into weather.
 
-It said nothing; the link was a dark socket, emptied since the first sound, but the press of the forehead carried a whole sentence, and he understood it, as he had understood everything it gave: the deposit, the one second of feeling in the toe, the weave of the sock, the hard flat of the footplate, the body's claim on the floor, the whole forgotten architecture of standing compressed into the size of a coin — the earnest money. The rest at closing. And under the deposit, the promise priced and sold on a windowsill: he had given him legs. The rest is at closing, and the closing was now, and the price of the closing was the word.
+The air of the hall was warmer than the air of the levels: bodies and breath, the old damp. Green stood in a seam of the tiles, a blade of something the city had no word for anymore, pushing up through the dust. No hand had planted it. The vault had let it go, and it had come up through the floor of the warren to meet the crowd's remembering halfway.
 
-He knew what it was asking: to spend the word, as it had spent its one true sound and he had spent his whole inventory, so that forty million hands could come down and the sky could carry its note again. And he could not make himself do it. He had hidden this word from doctors, from technicians, from the polite men, from himself; it was the first word he had learned to hide, the thing they had taken his legs for, the last thing the city had never managed to take. Give everything else — the afternoon, the door, the voices, the page, the voice, the heat, the rain, the weight — but not this. Not the word.
+From a doorway off the hall, a fire had been lit in an old brazier, and someone was cooking an onion: the oil in the pan, the scorch of its edge. The city's food came sealed and scentless; this was neither. Vance stood inside the first cooking smell of his life, and it was wrong and wonderful, and the two would not come apart. The woman at the fire turned the onion and did not look up. No one was telling her to stop.
 
-The sound hung. The forehead pressed. The whole city waited on the last room of him.
+They were remembering. He had stood in the vault and thought he knew the shape of it: the broadcast's wave, green with a body, water running over itself, the animals arriving as attention. The crowd had it all, on the ground, in the old dust. A woman stood under the old letters of the shop front, FEATHER AND FUR, moving her lips, sounding out a word the city had taken from her mouth and a sign had kept, in matter, all this time. A man crouched with both palms flat on the cold tiles, eyes shut, as if the floor had answered him through the hands. Someone wept. Children moved through the grown people's legs, unafraid, not knowing yet what there was to hold up to the light. A murmur ran under it all, not speech, not song, the low sound of minds learning to hold a thing again. It was not loud. The city had never taught them shouting; it had taught them the even white of a room with nothing in it, and the rooms were filling now, and the filling made almost no sound at all.
 
-And he said it. Not to the room — down into the small dark head under his chin, into the hollow where the two sounds were joined, the first time in his life he had said it aloud, the last time he would ever say it:
+He moved through them. The crowd parted around the uniform the way water parts around a stone; no one screamed, no one reached for him, but the space opened and held.
 
-'Cat.'
+A man fell in beside him and walked three steps for company, looking at the crowd. 'My cousin's door is open,' he said. 'Has been all morning. Nobody's reported it. I keep walking past, waiting for the city to care. It doesn't care.' He frowned at the floor, gave the problem up, and said, 'Well. Doors,' and dropped back into the crowd.
 
-The word went into the sound, and the sound went through him and out, and the light went out of the last room. He felt it leave, the first word, the box emptied at last, standing open, and he kept, in the place where it had been, the knowledge that there had been a word. Not its shape. Not its sound. He had had a word. He had hidden it all his life, and he had given it, and he knew only that it had been his, that it was gone, and that the giving of it had been the price of everything just returned.
+Then, in the space that had opened around the uniform, a child.
 
-The sound stopped.
+The boy was six, in a coat that did not fit him, and he held something up to the light, meaning to see it clearly: a scrap of dark fur at the end of his thumb and finger, its edges gone ragged, so old it had no other name. He rubbed it against his cheek, and he looked up at the tall man in the dead uniform, and he held the scrap out, the oldest gesture in the world, a child showing a soldier something precious, and he said:
 
-Not faded — stopped, as a thing stops when there is nothing left to spend into the transmitter, and the silence closed over the deep as the dead had closed over the toe after the one second: the water closing over a stone. The green held. The floor under his palms settled out of its singing into plain warm matter, into ground, into the quiet of a thing that had finished the work it had been built for and had no more work in it.
+'Furry.'
 
-He closed the open room. It was the last service of the discipline, and he did it carefully, as you close a door on a room you have loved and carried everything out of, and then he sat in the deep with the one small weight on his chest, breathing, holding the one word the burning had not taken, the word it had given back to him at the end, the dust word, the first matter it had ever made. *Stay.* It was theirs, written where no amendment could reach, and the burning had passed it over, and he held it.
+The word stood in the air. It did not slide. He had watched the slide all his life: in Renn's mouth, in Dalby's, in the smooth seven seconds of a sergeant who did not know he had lost them, a mouth full of a word whose referent had been cut, the mind sheeting off the shape the way water sheers off glass. The grid in him had held against the anomaly for twenty years, and it had nothing to do with this. This did not come through the grid. It came off a child's tongue, in the open air, and the word stayed.
 
-'Stay,' he said to the small dark weight, whose breath was still there, shallowed, warm against him, under his jaw, the only thing left now that he had no name for.
+Twenty years ago a boy had recited a rhyme through a closed door, and Vance had written it down so the grid could not take it: *tabby on the windowsill, the sun across her fur.* The word had been inside the rhyme, carried in a child's mouth, and the city had spent twenty years cutting it out of mouths. This boy was not behind a door. He stood in the open, and the word was in the open with him, whole, and he said it again, a thing you have waited your whole life to say:
 
-At the threshold, the standing man stayed where he stood. The paper volume lay at his feet where he had left it, unopened. The one mind the city could not enter had stood in the middle of the whole broadcast, entered by nothing, and had watched it anyway, note by note, to the end. Arthur looked at him, and Vance looked back, and neither of them said anything, and there was no record for it.
+'Furry.'
 
-And then, from somewhere across the city, down the long bore of the deep, through the open throat of the transmitter, a note came.
+A woman's hand came down on the boy's shoulder. The mother, in the coat like a borrowed thing, narrow-shouldered; on her face a grief Vance had only ever seen the empty version of, filling at last, sound and all. She left the boy where he stood. She looked at Vance once, at the direction he had come from, and then she looked down at her son, and said, very low, almost to herself:
 
-It was high and brief, and it was being carried. He knew it as you know a thing you have kept: the carrying note, heard once, when he had been small enough that the memory had no date, only temperature, the one sound the burning had never touched, because he had never opened its file. Whether it came up out of the thawing ground of the vault, the first life shaking the water off, or down through the transmitter, or out of the one memory he had kept, filed under no head, a bird or the memory of a bird — he could not have said. The sky held it. For the first time in his life, the sky was holding a sound that belonged to the world.
+'Say it again.'
+
+'Furry,' the boy said, and held the scrap up higher, an offering, and nothing amended it.
+
+Vance took the pen from his coat. He opened the volume in the crook of his arm to the last page, to the certainty and the absence of it, and he lowered the pen to the paper. It was the first line he had written in the book since the one beneath the certainty. He wrote, not an entry, no number:
+
+> Today a child said the word. Nothing slid.
+
+He closed the volume. The weight of it was the weight it had been when he came down: the page, the made hand, the two lines of it, now a third, and none of it for the grid. None of it had ever been for the grid.
+
+The boy kept the scrap up. He had been waiting, holding the offering open like a child holding a door. Vance looked at him, and for a long moment the captain and the child stood at the two ends of the old gesture. Vance said nothing. There was no word in him that could answer a child holding up fur in a city that had just remembered what fur was, so he gave the only thing he had that matched the shape of it: he looked back, once, toward the direction he had come from, where the levels kept the deep and the deep kept the two of them, the kneeling man, the small dark weight, the word standing in the air. His hand came up.
+
+One. The word was a child's.
+Two. My hand knows the shape.
+Three. There is no one above me to receive it.
+
+He held the salute. The angle was the old one, drilled into him at nineteen, the crisp flat thing he had rendered ten thousand times to a system that had just amended itself out of existence, and he was not rendering it to that system. There was no system. Only a bearing, and the bearing was down, and what lived at the bottom of it had never once given him an order. It had never needed to.
+
+The hand stayed up. The crowd went on remembering around it; the child's word stood in the space the uniform had made. Vance held the salute.

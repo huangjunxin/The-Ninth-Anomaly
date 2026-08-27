@@ -20,29 +20,29 @@ He thought of the warren: Nadia Soren, who kept only the shape of the word *furr
 
 The cat woke at the change of sound, came up off his knees in a single wound-up motion, one beat slow, ears cocked at the corridor mouth, pupils slits, whiskers pinned flat: the posture of a thing pricing a threat. It groomed anyway, one pass over an ear, the maintenance by which it closed occasions running even now; then it looked at the corridor, then at him, and its voice arrived in his head:
 
-*"They have sealed the levels. All of them. The captain has brought the array down to the seam below the ramp. He signed the order at twenty-three fifty-two and has not come down himself. He is running it from above, Arthur. Exactly as he ran your window."*
+*They have sealed the levels. All of them. The captain has brought the array down to the seam below the ramp. He signed the order at twenty-three fifty-two and has not come down himself. He is running it from above, Arthur. Exactly as he ran your window.*
 
 'The door,' Arthur said, and he was already swinging the arm, the seized collar giving with a sound like a broken seal, the green re-reading the rosette: axis, ring, depth, the spiral paying out under his hand. 'The door is one turn. I know the grammar. I can—'
 
-*"—but the array will not wait for the arm."* The cat's voice was flat, ledger-flat, the voice it used for prices it had already agreed to. *"The lances are the city's instrument for my kind, Arthur. They were built after the eighth, because the city learned that my kind can be burned out of the world by the thing that holds us to it. The coupling, the layer between me and reality."*
+*—but the array will not wait for the arm.* The cat's voice was flat, ledger-flat, the voice it used for prices it had already agreed to. *The lances are the city's instrument for my kind, Arthur. They were built after the eighth, because the city learned that my kind can be burned out of the world by the thing that holds us to it. The coupling, the layer between me and reality.*
 
-A pause. Something moved behind the flatness, something he had no name for. *"I have never once stood where they could bring them to bear. Until this corridor."*
+A pause. Something moved behind the flatness, something he had no name for. *I have never once stood where they could bring them to bear. Until this corridor.*
 
 The arm came up against the last of its travel: the green standing in the collar, the ring almost read. The bootfalls stopped above them, the worst silence he had ever heard: the silence before.
 
 Then the light changed at the seam, far up the corridor: a whiteness gathering in the lenses of the lance-rings, a white that was not green, and with it a sound, thin, rising, a tone in the band between his implant's hiss and his hearing, with teeth in it, and in the plate of his skull the disconnected hiss began to climb with it, toward a scream —
 
-*"Arthur."* The cat's voice cut through, and there was no mockery in it, none at all, and that, more than the tone and the gathering white, was the most frightening thing it had ever said: *"I am going to hold it."*
+*Arthur.* The cat's voice cut through, and there was no mockery in it, none at all, and that, more than the tone and the gathering white, was the most frightening thing it had ever said: *I am going to hold it.*
 
 'No.' He said it as he said everything that had settled, level, and it did not settle. 'No. You have priced it. You told me — it burns the coupling. You carried me all this way to be spent at the vault, not here, on a slab, under—'
 
-*"I know what it costs. I priced it before you were born."* And then the thing that was not a price: *"I have never understood why your kind hands over its memory for safety; I priced that question my whole career and never once understood it. I do not understand what I am about to do either: I want to be clear about that.*
+*I know what it costs. I priced it before you were born.* And then the thing that was not a price: *I have never understood why your kind hands over its memory for safety; I priced that question my whole career and never once understood it. I do not understand what I am about to do either: I want to be clear about that.*
 
-*But here is the arithmetic. If I go quiet as I have stayed quiet for lifetimes, the lances find your signature, small, but a signature, and the burn will take the plate in your skull, and what is in the plate, and what I promised to open. The only way to shield your wire is a shelter built of mine. I am the only thing in this level that can hold it up."*
+*But here is the arithmetic. If I go quiet as I have stayed quiet for lifetimes, the lances find your signature, small, but a signature, and the burn will take the plate in your skull, and what is in the plate, and what I promised to open. The only way to shield your wire is a shelter built of mine. I am the only thing in this level that can hold it up.*
 
 'Then we go quiet together,' he had the green, and the door hung open in the collar by a finger's width of travel, 'we go through—'
 
-*"The door is one turn from opening and one lifetime from it, and you know it. You know the grammar. You know how long the collar wants. The array is already singing."*
+*The door is one turn from opening and one lifetime from it, and you know it. You know the grammar. You know how long the collar wants. The array is already singing.*
 
 The tone climbed, and he felt it in his teeth, in the approved fillings, in the plate of his skull, a wrongness with no name yet. The cat stood up in his lap, forepaws braced on the chair's arm, looking down the corridor into the gathering white, and for one second it was the thing from the windowsill, intact, unspent, mocking the whole city with its stillness.
 
@@ -68,11 +68,11 @@ But the coupling, the layer between it and the world, the thing that had held th
 
 The voice came once, before it failed, scraped thin:
 
-*"—Arthur—"*
+*—Arthur—*
 
 and then nothing. And then, much later, in the middle of the screaming static, one more fragment, one word, the word it had learned to write in the dust with its right forepaw, the first matter it had ever made, S-T-A-Y, the A doubled and swept and replaced, pushed through a wire that was burning out, letter by letter:
 
-*"—stay."*
+*—stay.*
 
 And the link was gone, and the space where the link had been was full of the city's sound.
 

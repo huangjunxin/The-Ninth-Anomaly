@@ -1,0 +1,12 @@
+# Netlify build configuration for The Ninth Anomaly reading site.
+# This file lives next to the site (repo layout: site/ is the app, books/ holds
+# the manuscript). Deploy with Base directory = "site" — Netlify then finds this
+# file automatically (search order: package dir → base dir → repo root) and runs
+# `npm run build` in site/, publishing site/dist/.
+
+[build]
+  command = "npm run build"
+  publish = "dist"
+
+[build.environment]
+  NODE_VERSION = "22"

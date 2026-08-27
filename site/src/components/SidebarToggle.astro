@@ -1,0 +1,30 @@
+---
+// Hamburger that opens the chapter sidebar (mobile drawer). Visible only below
+// the desktop breakpoint; the aside itself lives in ChapterSidebar.astro.
+interface Props {
+	label: string;
+}
+
+const { label } = Astro.props;
+---
+
+<button
+	class="sidebar-toggle"
+	id="sidebar-toggle"
+	type="button"
+	aria-label={label}
+	aria-expanded="false"
+	aria-controls="chapter-sidebar"
+>
+	<svg viewBox="0 0 16 16" fill="none" stroke="currentColor" stroke-width="1.4" stroke-linecap="round" aria-hidden="true">
+		<path d="M1.5 4h13M1.5 8h13M1.5 12h13" />
+	</svg>
+</button>
+
+<script>
+	const button = document.getElementById('sidebar-toggle');
+	button?.addEventListener('click', () => {
+		const open = document.documentElement.toggleAttribute('data-sidebar-open');
+		button.setAttribute('aria-expanded', String(open));
+	});
+</script>

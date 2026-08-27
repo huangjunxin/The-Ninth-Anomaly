@@ -1,0 +1,69 @@
+---
+// Shared chapter reading page: sidebar + article + prev/next nav.
+// The manuscript body is always the English original (`lang="en"` for
+// hyphenation); only the chrome is localized.
+import { render } from 'astro:content';
+import ProgressBar from './ProgressBar.astro';
+import ChapterSidebar from './ChapterSidebar.astro';
+import { getChapters, chapterMeta, type Chapter, type ChapterMeta, type ChapterNavLink } from '../lib/book';
+import { t, localePath, type Locale } from '../i18n/ui';
+
+export interface Props {
+	chapter: Chapter;
+	meta: ChapterMeta;
+	prev: ChapterNavLink | null;
+	next: ChapterNavLink | null;
+	locale: Locale;
+}
+
+const { chapter, meta, prev, next, locale } = Astro.props;
+const chapters = await getChapters();
+const metas = chapters.map(chapterMeta);
+const { Content } = await render(chapter);
+---
+
+<div class="chapter-layout">
+	<ChapterSidebar metas={metas} currentSlug={meta.slug} locale={locale} />
+
+	<article class="chapter" lang="en">
+		<ProgressBar />
+
+		<header class="chapter-head prose">
+			<p class="chapter-kicker">{t(locale, 'chapterKicker', { roman: meta.roman, n: meta.number })}</p>
+			<h1>{meta.title}</h1>
+			<p class="chapter-meta">
+				{t(locale, 'chapterMeta', {
+					minutes: meta.minutes,
+					words: meta.words.toLocaleString('en-US'),
+				})}
+			</p>
+		</header>
+
+		<div class="prose chapter-body" lang="en">
+			<Content />
+		</div>
+
+		<nav class="chapter-nav" aria-label={t(locale, 'navAria')}>
+			{
+				prev ? (
+					<a class="nav-link" href={localePath(locale, `/chapters/${prev.slug}/`)} rel="prev">
+						<span class="nav-label">{t(locale, 'chapterNavPrev')}</span>
+						<span class="nav-title">{prev.title}</span>
+					</a>
+				) : (
+					<span class="nav-empty"></span>
+				)
+			}
+			{
+				next ? (
+					<a class="nav-link next" href={localePath(locale, `/chapters/${next.slug}/`)} rel="next">
+						<span class="nav-label">{t(locale, 'chapterNavNext')}</span>
+						<span class="nav-title">{next.title}</span>
+					</a>
+				) : (
+					<span class="nav-empty"></span>
+				)
+			}
+		</nav>
+	</article>
+</div>

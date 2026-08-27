@@ -1,0 +1,134 @@
+---
+import '@fontsource/source-serif-4/latin-400.css';
+import '@fontsource/source-serif-4/latin-400-italic.css';
+import '@fontsource/source-serif-4/latin-600.css';
+import '@fontsource/source-serif-4/latin-600-italic.css';
+import '../styles/global.css';
+import ThemeToggle from '../components/ThemeToggle.astro';
+import SidebarToggle from '../components/SidebarToggle.astro';
+import { t, LOGLINE, localePath, otherLocaleHref, type Locale } from '../i18n/ui';
+
+interface Props {
+	locale: Locale;
+	title: string;
+	description?: string;
+	/** Thin reading progress bar (chapter pages). */
+	showProgress?: boolean;
+	/** Hamburger that opens the chapter sidebar (chapter pages). */
+	showSidebarToggle?: boolean;
+}
+
+const { locale, title, description = LOGLINE, showProgress = false, showSidebarToggle = false } =
+	Astro.props;
+const langTarget: Locale = locale === 'en' ? 'zh' : 'en';
+const switchHref = otherLocaleHref(locale, Astro.url.pathname);
+---
+
+<!doctype html>
+<html lang={locale} data-theme="light">
+	<head>
+		<meta charset="utf-8" />
+		<meta name="viewport" content="width=device-width, initial-scale=1" />
+		<link rel="icon" type="image/svg+xml" href="/favicon.svg" />
+		<meta name="generator" content={Astro.generator} />
+		<title>{title}</title>
+		<meta name="description" content={description} />
+		<meta property="og:title" content={title} />
+		<meta property="og:description" content={description} />
+		<meta property="og:type" content="website" />
+		<script is:inline>
+			// Theme — apply the saved (or system-preferred) theme before first paint
+			// to avoid a flash of the wrong colors. Defaults to `prefers-color-scheme`.
+			(() => {
+				let stored = null;
+				try {
+					stored = localStorage.getItem('tna-theme');
+				} catch {
+					/* storage unavailable (sandboxed) — fall through to system */
+				}
+				const dark =
+					stored === 'dark' ||
+					(!stored && window.matchMedia('(prefers-color-scheme: dark)').matches);
+				document.documentElement.setAttribute('data-theme', dark ? 'dark' : 'light');
+			})();
+
+			// Language auto-selection — only for visitors who never chose manually.
+			// zh-* browsers land on /zh/, everyone else on /. Once the user has
+			// picked a language (via the switcher, stored in `tna-lang`), their
+			// choice wins and no further redirects happen.
+			(() => {
+				let choice = null;
+				try {
+					choice = localStorage.getItem('tna-lang');
+				} catch {
+					/* fall through to detection */
+				}
+				if (choice === 'en' || choice === 'zh') return;
+				const wantsZh = (navigator.language || '').toLowerCase().startsWith('zh');
+				const { pathname } = window.location;
+				const isZhPage = pathname === '/zh' || pathname.startsWith('/zh/');
+				if (wantsZh && !isZhPage) {
+					window.location.replace(pathname === '/' ? '/zh/' : '/zh' + pathname);
+				} else if (!wantsZh && isZhPage) {
+					window.location.replace(pathname.slice(3));
+				}
+			})();
+		</script>
+	</head>
+	<body>
+		<a class="skip-link" href="#main">{t(locale, 'skipLink')}</a>
+		<header class="site-header">
+			<div class="header-left">
+				{showSidebarToggle && <SidebarToggle label={t(locale, 'sidebarTitle')} />}
+				<a class="site-title" href={localePath(locale, '/')}>
+					{t(locale, 'siteTitle')}
+					{locale === 'zh' && (
+						<span class="site-title-zh" lang="zh">{t(locale, 'siteTitleZh')}</span>
+					)}
+				</a>
+			</div>
+			<div class="header-right">
+				<a
+					class="lang-switch"
+					href={switchHref}
+					aria-label={t(locale, langTarget === 'zh' ? 'langZh' : 'langEn')}
+					data-lang-target={langTarget}
+				>
+					<span class:list={['lang-opt', { cur: locale === 'en' }]}>{t(locale, 'langEn')}</span>
+					<span class="lang-slash">/</span>
+					<span class:list={['lang-opt', { cur: locale === 'zh' }]} lang="zh"
+						>{t(locale, 'langZh')}</span
+					>
+				</a>
+				<ThemeToggle label={t(locale, 'switchTheme')} />
+			</div>
+		</header>
+
+		<main id="main">
+			<slot />
+		</main>
+
+		<footer class="site-footer">
+			{t(locale, 'siteTitle')}<span class="footer-divider">·</span
+			><span lang="zh">{t(locale, 'siteTitleZh')}</span>
+			<br />
+			<a href={localePath(locale, '/#toc')}>{t(locale, 'tocLink')}</a>
+		</footer>
+
+		<script>
+			// Remember the manually chosen language when the switcher is used,
+			// so the auto-selection script never overrides the visitor again.
+			const langLink = document.querySelector('.lang-switch');
+			langLink?.addEventListener('click', () => {
+				const target = langLink.getAttribute('data-lang-target');
+				if (target) {
+					try {
+						localStorage.setItem('tna-lang', target);
+					} catch {
+						/* non-persistent context — navigation still happens */
+					}
+				}
+			});
+		</script>
+	</body>
+</html>

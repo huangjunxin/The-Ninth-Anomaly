@@ -1,0 +1,43 @@
+---
+import BaseLayout from '../../../layouts/BaseLayout.astro';
+import ChapterView from '../../../components/ChapterView.astro';
+import { getChapters, chapterMeta, type Chapter, type ChapterMeta, type ChapterNavLink } from '../../../lib/book';
+
+const locale = 'zh';
+
+interface Props {
+	chapter: Chapter;
+	meta: ChapterMeta;
+	prev: ChapterNavLink | null;
+	next: ChapterNavLink | null;
+}
+
+export async function getStaticPaths() {
+	const chapters = await getChapters();
+	const entries = chapters.map((chapter) => ({ chapter, meta: chapterMeta(chapter) }));
+	return entries.map((entry, i) => ({
+		params: { slug: entry.chapter.id },
+		props: {
+			chapter: entry.chapter,
+			meta: entry.meta,
+			prev: i > 0 ? { slug: entries[i - 1].chapter.id, title: entries[i - 1].meta.title } : null,
+			next:
+				i < entries.length - 1
+					? { slug: entries[i + 1].chapter.id, title: entries[i + 1].meta.title }
+					: null,
+		},
+	}));
+}
+
+const { chapter, meta, prev, next } = Astro.props;
+---
+
+<BaseLayout
+	locale={locale}
+	title={`${meta.title} · The Ninth Anomaly`}
+	description={`第 ${meta.number} 章 · The Ninth Anomaly。`}
+	showProgress
+	showSidebarToggle
+>
+	<ChapterView chapter={chapter} meta={meta} prev={prev} next={next} locale={locale} />
+</BaseLayout>

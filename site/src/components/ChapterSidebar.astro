@@ -1,0 +1,64 @@
+---
+// All-chapters sidebar (mdBook/VitePress style): a fixed column on desktop,
+// an off-canvas drawer opened by the hamburger on mobile. Chapter links close
+// the drawer; Esc and the overlay close it too.
+import { t, localePath, type Locale } from '../i18n/ui';
+import type { ChapterMeta } from '../lib/book';
+
+interface Props {
+	metas: ChapterMeta[];
+	currentSlug: string;
+	locale: Locale;
+}
+
+const { metas, currentSlug, locale } = Astro.props;
+---
+
+<div class="sidebar-overlay" data-close-sidebar aria-hidden="true"></div>
+<aside class="chapter-sidebar" id="chapter-sidebar" aria-label={t(locale, 'sidebarTitle')}>
+	<div class="sidebar-inner">
+		<a class="sidebar-brand" href={localePath(locale, '/')}>
+			<span class="sidebar-title">{t(locale, 'siteTitle')}</span>
+			<span class="sidebar-sub" lang="zh">{t(locale, 'siteTitleZh')}</span>
+		</a>
+		<p class="sidebar-label">{t(locale, 'sidebarTitle')}</p>
+		<nav>
+			<ul class="sidebar-nav">
+				{
+					metas.map((m) => (
+						<li>
+							<a
+								class:list={['sidebar-link', { active: m.slug === currentSlug }]}
+								href={localePath(locale, `/chapters/${m.slug}/`)}
+								aria-current={m.slug === currentSlug ? 'page' : undefined}
+							>
+								<span class="sidebar-num">{t(locale, 'chapterNum', { roman: m.roman, n: m.number })}</span>
+								<span class="sidebar-entry-title">{m.title}</span>
+							</a>
+						</li>
+					))
+				}
+			</ul>
+		</nav>
+	</div>
+</aside>
+
+<script>
+	const aside = document.getElementById('chapter-sidebar');
+	const html = document.documentElement;
+
+	const close = () => {
+		html.removeAttribute('data-sidebar-open');
+		document.getElementById('sidebar-toggle')?.setAttribute('aria-expanded', 'false');
+	};
+
+	// Clicking any chapter link inside the drawer closes it.
+	aside?.addEventListener('click', (e) => {
+		if (e.target instanceof HTMLAnchorElement) close();
+	});
+
+	document.querySelector('[data-close-sidebar]')?.addEventListener('click', close);
+	document.addEventListener('keydown', (e) => {
+		if (e.key === 'Escape') close();
+	});
+</script>

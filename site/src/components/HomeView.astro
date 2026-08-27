@@ -1,0 +1,59 @@
+---
+// Shared home page: hero + chapter list. Rendered for both locales
+// (page files pick the locale; the manuscript is always English).
+import { getChapters, chapterMeta, readingMinutes } from '../lib/book';
+import { t, LOGLINE, localePath, type Locale } from '../i18n/ui';
+
+interface Props {
+	locale: Locale;
+}
+
+const { locale } = Astro.props;
+const chapters = await getChapters();
+const metas = chapters.map(chapterMeta);
+const totalWords = metas.reduce((sum, m) => sum + m.words, 0);
+const totalMinutes = readingMinutes(totalWords);
+const firstSlug = metas[0]?.slug;
+const readHref = firstSlug ? localePath(locale, `/chapters/${firstSlug}/`) : localePath(locale, '/');
+---
+
+<section class="hero">
+	<div class="hero-inner">
+		<p class="hero-kicker">{t(locale, 'homeKicker')}</p>
+		<h1 class="hero-title">{t(locale, 'siteTitle')}</h1>
+		{locale === 'zh' && (
+			<p class="hero-subtitle" lang="zh">{t(locale, 'siteTitleZh')}</p>
+		)}
+		<p class="hero-logline" lang="en">{LOGLINE}</p>
+		<div class="hero-actions">
+			<a class="cta" href={readHref}>{t(locale, 'homeReadCta')}</a>
+		</div>
+	</div>
+</section>
+
+<section class="toc" id="toc">
+	<header class="toc-head">
+		<h2>{t(locale, 'homeContents')}</h2>
+		<p class="toc-meta">
+			{t(locale, 'homeMeta', {
+				n: chapters.length,
+				words: totalWords.toLocaleString('en-US'),
+				minutes: totalMinutes,
+			})}
+		</p>
+	</header>
+
+	<ol class="toc-list">
+		{
+			metas.map((m) => (
+				<li>
+					<a class="toc-link" href={localePath(locale, `/chapters/${m.slug}/`)}>
+						<span class="toc-num">{t(locale, 'chapterNum', { roman: m.roman, n: m.number })}</span>
+						<span class="toc-title">{m.title}</span>
+						<span class="toc-time">{t(locale, 'chapterTime', { minutes: m.minutes })}</span>
+					</a>
+				</li>
+			))
+		}
+	</ol>
+</section>

@@ -1,0 +1,38 @@
+---
+// Theme switch: flips the `data-theme` attribute on <html> and remembers the
+// choice in localStorage. The initial state is set by the inline script in
+// BaseLayout, so this component only has to react to clicks.
+interface Props {
+	label: string;
+}
+
+const { label } = Astro.props;
+---
+
+<button class="theme-toggle" id="theme-toggle" type="button" aria-label={label} title={label}>
+	<svg class="icon-sun" viewBox="0 0 16 16" fill="none" stroke="currentColor" stroke-width="1.3" stroke-linecap="round" aria-hidden="true">
+		<circle cx="8" cy="8" r="3.1" />
+		<path d="M8 1v1.6M8 13.4V15M1 8h1.6M13.4 8H15M2.8 2.8l1.1 1.1M12.1 12.1l1.1 1.1M13.2 2.8l-1.1 1.1M3.9 12.1l-1.1 1.1" />
+	</svg>
+	<svg class="icon-moon" viewBox="0 0 16 16" fill="none" stroke="currentColor" stroke-width="1.3" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true">
+		<path d="M13.4 9.6A5.9 5.9 0 0 1 6.4 2.6a5.9 5.9 0 1 0 7 7Z" />
+	</svg>
+</button>
+
+<script>
+	const button = document.getElementById('theme-toggle');
+
+	function setTheme(dark) {
+		document.documentElement.setAttribute('data-theme', dark ? 'dark' : 'light');
+		try {
+			localStorage.setItem('tna-theme', dark ? 'dark' : 'light');
+		} catch {
+			/* non-persistent context — the attribute still applies for this visit */
+		}
+	}
+
+	button?.addEventListener('click', () => {
+		const dark = document.documentElement.getAttribute('data-theme') === 'dark';
+		setTheme(!dark);
+	});
+</script>

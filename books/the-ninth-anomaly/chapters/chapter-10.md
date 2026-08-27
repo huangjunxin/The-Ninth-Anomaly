@@ -18,7 +18,7 @@ He read it twice, and the order stood.
 
 He thought of the warren: Nadia Soren, who kept only the shape of the word *furry*, and Eli, who would hear every word of the purge and keep none; the words would slide off the child the way they slid off the whole city, in a level about to be swept. He had brought the purge down on the warren. He filed that, and it stayed. Some things would not file.
 
-The cat woke at the change of sound, came up off his knees in a single wound-up motion, one beat slow, ears cocked at the corridor mouth, pupils slits, whiskers pinned flat: the posture of a thing pricing a threat. It looked at the corridor, then at him, and its voice arrived in his head:
+The cat woke at the change of sound, came up off his knees in a single wound-up motion, one beat slow, ears cocked at the corridor mouth, pupils slits, whiskers pinned flat: the posture of a thing pricing a threat. It groomed anyway, one pass over an ear, the maintenance by which it closed occasions running even now; then it looked at the corridor, then at him, and its voice arrived in his head:
 
 *"They have sealed the levels. All of them. The captain has brought the array down to the seam below the ramp. He signed the order at twenty-three fifty-two and has not come down himself. He is running it from above, Arthur. Exactly as he ran your window."*
 
@@ -56,7 +56,7 @@ White. A white with no direction, from everywhere at once, through his closed ey
 
 And the coupling let go. He heard it: a soundless snap, the exact sound the hiss had always made when it disconnected, twenty years of that break, and the false world tore from its center, and the real world came back with all its sound at once, and the sound was static: the roar arriving late, the loudspeakers howling, the hiss screaming back into his skull. The arm of the chair was empty.
 
-It had fallen. It lay at the foot of the chair on the cracked slab, still black, but black the way burned things are black: dim, matte, without the under-light that had once come through ears and tail and the rims of its paws.
+It had fallen. It lay at the foot of the chair on the cracked slab, legs splayed wrong, a bit of tongue showing, undignified, still black, but black the way burned things are black: dim, matte, without the under-light that had once come through ears and tail and the rims of its paws.
 
 The translucency had lost its edges; the whole of it was dim, the burned parts the color of a screen gone to static, and it lay against the slab like matter that had stopped agreeing to be matter.
 
@@ -102,7 +102,9 @@ The left wheel had sunk through the slab. The discharge had cracked it to friabl
 
 He pressed the right wheel. It spun loose in the air, a dead pedal, useless. The chair that had carried him for twenty years, that the city had soothed him into and called care, refused to move.
 
-He looked at the splinter of stone that had done it, and he filed the whole of it under one word: *cage.*
+He looked at the splinter of stone that had done it. It was a crumb. A crumb had stopped the whole of the cage. He filed the whole of it under one word: *cage.*
+
+His stomach growled, hungry exactly as the city had scheduled, and no one heard it but him.
 
 The cage had outlasted the burn. He had asked it, for the first time in his life, for movement, for the last finger of travel in a collar twenty feet away, and it had given him a spinning wheel and a snapped cable.
 
@@ -120,7 +122,7 @@ He could not walk. The city had made certain of that, had built the cage into hi
 
 He moved himself, on his arms. The one thing worth carrying had been placed in his arms, and there was no one left to carry him.
 
-The slab was cold through his palms: the first floor he had felt in twenty years. He braced, hauled, dragged; the dead legs scraped and did not hurt, and the not-hurting was the city's gift and he used it.
+The slab was cold through his palms: the first floor he had felt in twenty years. He braced, hauled, dragged; the dead legs scraped and did not hurt, and the not-hurting was the city's gift and he used it. On the next haul his forearms slipped in the dust and put him flat, a mouthful of it, the dust he had once written a word in, and he spat, and hauled again.
 
 The cat lay against his sternum, dim and still, its one word spent, its silence intact. Its voice pressed warm and whole between them: the key, the unspent key, the only thing the city had never been able to take.
 

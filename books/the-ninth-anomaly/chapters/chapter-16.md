@@ -32,7 +32,7 @@ At the bottom of the ramp the array stood where it had been staged: the four spa
 
 The command channel had gone quiet. The earpiece held only the character of the air. For twenty years the grid's voice had been in every sound the city made; it was gone from the air now. The purge channels were folding into static one by one, like a net folding when nothing is holding the far end.
 
-Stations stood along the way, and he passed them one by one. A wall display still held its even white where a console had been cleaned; it dimmed and went out, the way the voice had gone out of the air behind him. A soldier sat on the ramp's last landing, weapon stood on end against the rail, collar open, watching the dark below. He made no move to rise. Vance stepped past him, and under the boots the deck rang the whole way, the only voice left in the command structure besides his own breathing.
+Stations stood along the way, and he passed them one by one. A wall display still held its even white where a console had been cleaned; it dimmed and went out, as the voice had gone out of the air behind him. A soldier sat on the ramp's last landing, weapon stood on end against the rail, collar open, watching the dark below. He made no move to rise. Vance stepped past him, and under the boots the deck rang the whole way, the only voice left in the command structure besides his own breathing.
 
 The dispatch room was dark.
 
@@ -60,6 +60,12 @@ He looked at the green line. Then he looked down at the book in his hands, at th
 
 'Let them stand down. They already have.'
 
+Torelli stood looking at the dead board a long moment, and then he said: 'Twenty years, sir. I thought it would be loud.'
+
+'So did I.'
+
+He unbuckled his helmet and set it on the console, beside the sidearm. 'I'll tell the men myself,' he said. 'They'll believe it more from a sergeant than from a dead board.'
+
 One. The city is not falling.
 Two. It is standing down, block by block, like the detail stood down.
 Three. I am part of it.
@@ -73,9 +79,13 @@ He walked into the crowd like a man stepping into weather.
 
 The air of the hall was warmer than the air of the levels: bodies and breath, the old damp. Green stood in a seam of the tiles, a blade of something the city had no word for anymore, pushing up through the dust. No hand had planted it. The vault had let it go, and it had come up through the floor of the warren to meet the crowd's remembering halfway.
 
+From a doorway off the hall, a fire had been lit in an old brazier, and someone was cooking an onion: the oil in the pan, the scorch of its edge. The city's food came sealed and scentless; this was neither. Vance stood inside the first cooking smell of his life, and it was wrong and wonderful, and the two would not come apart. The woman at the fire turned the onion and did not look up. No one was telling her to stop.
+
 They were remembering. He had stood in the vault and thought he knew the shape of it: the broadcast's wave, green with a body, water running over itself, the animals arriving as attention. The crowd had it all, on the ground, in the old dust. A woman stood under the old letters of the shop front, FEATHER AND FUR, moving her lips, sounding out a word the city had taken from her mouth and a sign had kept, in matter, all this time. A man crouched with both palms flat on the cold tiles, eyes shut, as if the floor had answered him through the hands. Someone wept as you weep when a thing you had given up comes back whole. Children moved through the grown people's legs, unafraid, not knowing yet what there was to hold up to the light. A murmur ran under it all, not speech, not song, the low sound of minds learning to hold a thing again. It was not loud. The city had never taught them shouting; it had taught them the even white of a room with nothing in it, and the rooms were filling now, and the filling made almost no sound at all.
 
 He moved through them. The crowd parted around the uniform the way water parts around a stone; no one screamed, no one reached for him, but the space opened and held. Behind him, in the gap, something crossed the hall at ankle height, quick, with a tail, and the crowd let it pass. A man's hand went down toward it without a thought, came up empty, and he stood looking at the hand, which had done something of its own. A hand touched his sleeve, to be certain, as you touch matter after a long time of being told it was not there. The woman who touched it did not look at him; she looked at the cloth between her fingers. Vance stood still under the touch until it went away.
+
+A man fell in beside him and walked three steps for company, looking at the crowd. 'My cousin's door is open,' he said. 'Has been all morning. Nobody's reported it. I keep walking past, waiting for the city to care. It doesn't care.' He frowned at the floor, gave the problem up, and said, 'Well. Doors,' and dropped back into the crowd.
 
 Then, in the space that had opened around the uniform, a child.
 

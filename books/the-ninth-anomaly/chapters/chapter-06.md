@@ -42,7 +42,13 @@ The city had taken the two minutes out of their account and left the men themsel
 
 Then he went down.
 
-The ramp was older than the boundary. The gate was keyed to a dead grammar he had stopped needing to read years ago. The cold came up out of the dark in stages, colder than twenty-one, colder than anything he had stood in for a decade. The air at the bottom was the weight of a room that had been closed a long time and was still trying to be a room. It smelled of rain, or what rain left behind when it had been taken out of the sky. Torelli came with him, at his shoulder. Vance took no lights. The instruments would see as far as they were allowed to see.
+The ramp was older than the boundary. The gate was keyed to a dead grammar he had stopped needing to read years ago. The cold came up out of the dark in stages, colder than twenty-one, colder than anything he had stood in for a decade. The air at the bottom was the weight of a room that had been closed a long time and was still trying to be a room. It smelled of rain, or what rain left behind when it had been taken out of the sky. Torelli came with him, at his shoulder. Vance took no lights. 'Cold,' Torelli said.
+
+'Yes.'
+
+'It gets colder the further down. Every time.'
+
+He said it as other men state the weather, and Vance, who would write it down, nodded. The instruments would see as far as they were allowed to see.
 
 The level gates were concrete, wet with the cold, each carrying its number pressed into the face at the pour: two, four, six, eight. Vance read them as he passed and kept the count for the page he would write. The grid's copy of the same numbers had gone smooth. The last gate took his retainer, cycled, and closed behind them with the sound of a hatch agreeing to be a wall. Its inner face carried condensation in small even beads, shed onto concrete no hand had touched since the formwork came off. Nothing else had come this way. The water said so, and water could not be amended.
 
@@ -71,6 +77,7 @@ They walked the level until the light gave out entirely and the instruments bega
 In the office, with the door closed, he wrote:
 
 > 3-0714. Time 06:55. Descended. The anomaly came to me and could not enter.
+> Torelli said it gets colder the further down. He was right.
 > The grid in me is military grade. It held. It is the one product the city makes that the city's own product cannot pass. I have never been more certain of the city's arithmetic, and never less certain of what it is for.
 > Torelli lost seven seconds. He does not know it. The strings will not show it. This page will.
 > It stood at the edge of the instruments' reach and looked, and left. It spent nothing on me. It knows what I am, or it does not care, or it is saving what it has. All three keep the same ledger: it will not waste itself on the one mind it cannot touch.
@@ -126,7 +133,7 @@ The anomaly was outside the minds' order. It lived in the levels' order. It amen
 
 The stores existed for the city's own keeping, the flushing of its dead rooms. The array had been drawn on a hunt exactly once in his tenure, and never on the sealed levels.
 
-He typed the request himself. It was short. It did not mention the boy or the signature on the order. The request line had no category for either:
+He typed the request himself. It was short. It did not mention the boy or the signature on the order. The form wanted a ground, and the drop-down ended at *civil disturbance*, and the field was marked *required*, and he typed the truth into it, and the form accepted it, being required to accept. He had never had cause to thank the form before. The request line had no category for either:
 
 > Requisition: EMP stores, tactical field array, one unit, drawn on Captain Vance, Enforcement. Grounds: sealed-level anomaly, class unamendable, immune to standard interdiction. Addressee: Command, Requisitions.
 

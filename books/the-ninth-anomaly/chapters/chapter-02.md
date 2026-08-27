@@ -14,7 +14,9 @@ The footsteps reached the corridor at 01:47, unhurried, the unhurried stride of 
 
 Two men came through the frame in the correct order. The first, Renn, though nobody would have said so, was perhaps forty, and carried the job the way an older man carries a borrowed coat: comfortably, and without much respect. He moved like a man who had done this exact thing a hundred times and had stopped being interested in it. The second, Dalby, young enough to stand with his weight forward on his toes, came one step off Renn's shoulder, his earpiece loud enough that Arthur could hear the voice in it, a voice that belonged to a third man who was not in the room. 'Vance,' Dalby said, half turned away. 'We're in.'
 
-Their eyes passed over Arthur. He was already a known quantity; the corridor had briefed them: *twenty-eight, retainer, archive, locked, irreparable, no threat.* They read the room instead, with their eyes and with the instruments on their wrists, and the instruments did the work their eyes would not, because the room had a surplus in it and both men's eyes slid off that surplus and could not land. They trusted the instruments. 'Window,' Renn said. 'Sill.' And the instruments painted a shape, and the shape was where the cat sat: black like a drain, tail laid around its feet, watching the two men as it had watched Arthur the evening before, with the unhurried insolence of a thing being interrupted in its own room.
+Their eyes passed over Arthur. He was already a known quantity; the corridor had briefed them: *twenty-eight, retainer, archive, locked, irreparable, no threat.* They read the room instead, with their eyes and with the instruments on their wrists, and the instruments did the work their eyes would not, because the room had a surplus in it and both men's eyes slid off that surplus and could not land. They trusted the instruments.
+
+'Window,' Renn said, and absently scratched at the jaw where the earpiece's wire had chafed, a gesture with no business in the room, and said, 'Sill.' And the instruments painted a shape, and the shape was where the cat sat: black like a drain, tail laid around its feet, watching the two men as it had watched Arthur the evening before, with the unhurried insolence of a thing being interrupted in its own room.
 
 The weapons came up, not quickly, correctly, Dalby's first, Renn's a half-second behind, a formality of their own, and Arthur felt the air begin to hold its breath, and he could not move, and the black thing held still, and that was the first wrong thing, that a thing watched by two weapons should have done something. It did nothing. Its nothing was absolute, a statement, the same statement it had been making since it landed on his dead knees and looked at him: *I was going to do this anyway, and you will not remember it correctly.*
 
@@ -29,6 +31,8 @@ The sentence died. It had been dying in that room since the evening; in the pres
 The two men said nothing. The instruments said: *mass. heat. undetermined.*
 
 'Repeat the string,' Vance said. Renn repeated it. 'Slower,' Vance said, and Renn, who had known the captain for years, repeated it slower, and withheld what he thought, which was that Vance always wanted things twice, as if he did not trust the words to stay where they were put.
+
+'And the time of entry,' Vance said. 'For the report. 01:48, confirm.' '01:48,' Renn said. 'Good.' And for a beat the room held nothing but the two weapons and the timestamp, and the shape on the sill answered to neither.
 
 'Animal?' Vance said, and the old word came over the air, a word of the old world, and Dalby, holding the shape in the corner of his eye, found that he could not attach it. The shape was not in any class the two of them held. It was a category error standing on a windowsill. 'It's not animal,' Dalby said. 'It's something.'
 
@@ -64,7 +68,13 @@ Renn looked at his own hand, at the holster his hand had gone to, and the puzzle
 
 'I'm sorry,' Dalby said. 'I thought you said — ' And then, with a sincerity that stopped Arthur's breath: 'I'm sorry. I don't know why my hand went up.'
 
-'I'm sorry too,' Renn said. For a long moment the two of them stood in a stranger's flat in the middle of the night, perfectly embarrassed, two grown men who had drawn weapons upon nothing and could not say which of them had started it, and the apology went back and forth between them like a coin, each man pressing it on the other, each man refusing it, with the formal, baffled politeness of people who had lost their place and were being courteous about it.
+'I'm sorry too,' Renn said.
+
+Dalby, at a loss for any other wronged party, apologized to the doorframe. One soft syllable, offered to splintered wood. Renn watched him do it and said nothing, having nothing to add.
+
+For a long moment the two of them stood in a stranger's flat in the middle of the night, perfectly embarrassed, two grown men who had drawn weapons upon nothing and could not say which of them had started it, and the apology went back and forth between them like a coin, each man pressing it on the other, each man refusing it, with the formal, baffled politeness of people who had lost their place and were being courteous about it.
+
+For half a second Arthur was glad of it — their confusion, their courtesy, their apologizing where no one was owed. A small, dry gladness; then it was under the discipline, and the box shut before it had a name.
 
 'Dalby. Renn. Status.' The voice came out of the earpieces, plain, the voice of a man who kept his words in order and expected others to do the same. Dalby answered the air. 'We're done, sir.' He did not know what he had been doing; the sentence had no referent; it came out of his training, as the holstering had. 'Report at the vehicle.' 'Yes, sir.' The earpiece hummed. Vance said something else, and then the two men were moving out through the frame. Renn paused at the door, and did a strange, precise thing: he reached back and wedged the door's panel against the frame, the gesture of a man closing a door he did not break, and he said, to the door, or to the room, or, at last, to Arthur: 'Sorry for your door.'
 

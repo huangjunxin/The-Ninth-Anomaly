@@ -50,7 +50,11 @@ He was standing.
 
 The room leaned. Not the room — the balance of him, a new instrument with no instruction book, and the lean went out through his arms into the console and came back a little less, and the tremor ran up out of his hips, long and deep, the tremor of his arms transferred at last to the legs' turn, and he held the console, held on, and the room steadied, and the steadiness was his own.
 
-He had been holding his breath for the whole rise. He let it go, and the stance stayed. His hands had carried him for twenty years, and they had never been asked to hold him still. They came off the console one finger at a time, and the legs held; he swayed once, a half-inch give at the knees that caught itself, and then he stood, and the only support in the world under him was the two feet under him, and they were his.
+He had been holding his breath for the whole rise. He let it go, and the stance stayed. His hands had carried him for twenty years, and they had never been asked to hold him still. They came off the console one finger at a time, and the legs held; he swayed once, a half-inch give at the knees that caught itself, and then the knees folded, all twenty years of sitting arriving at once, and he grabbed the pod with both hands, and the pod held him, and he nearly swore.
+
+His mouth made the shape of the swear, and the shape was empty. Twenty years of clean shelves had never stocked a swear, and nothing came out. That was the swear.
+
+Then he stood, and the only support in the world under him was the two feet under him, and they were his.
 
 The room rearranged itself at standing height.
 
@@ -59,6 +63,8 @@ Every room of his remembering had arrived at the height of his knees and stayed 
 The bore of the ramp ran away past three open doors, and the full morning stood in it. The place where a man had stood was empty; the doorway held only the light.
 
 The light came level at this height, crossing the room with the settled air of a thing that has decided to stay, and he stood in it, and he was taller than everything in the room except the pod, the light, and the height of the world itself, which he had not known, in all his years of flat mornings, was a thing the world had. His hands hung at his sides, loose, at the height of the console, unemployed, for the first time in their working lives.
+
+The stomach reported through the same wire, a smaller, dumber claim than the toe's: food, at the usual hour, no exceptions.
 
 The black thing watched him from the warm floor, head raised, the unspent look held level at the standing height of him. He watched it watch, and then it moved.
 

@@ -24,6 +24,14 @@ The archivist in him reached for a drawer to file the sentence in, and found the
 
 It had needed a mind that remembered, a signature that would pass the doors, a body the city's eyes would not hold. The city had spent twenty years forging exactly that, paying it a clerk's wage, stamping it IRREPARABLE. He had been carrying it toward this room his whole life and had never known the direction. Even the lock on his spine was part of the instrument; a cage that had kept the remembering from being wasted, as an earlier cage had kept the first singers from wasting their song. That thought he left unopened.
 
+Then a smaller matter surfaced, in the voice it kept for quibbles:
+
+*"Your heart,"* the cat said. *"It has been loud since the ramp. I am composing the only speech I will ever give, in the only room I ever meant to give it, and you sit beneath me drumming like a pump the city has stopped maintaining."*
+
+'It will not slow because you note it,' Arthur said.
+
+The cat did not dignify that, and the next words came lower, with the complaint already spent:
+
 *The eight sang,* it said, *and the singing was the taking. The city grew the ground of its thinking from what was left of them. They are the floor.*
 
 He looked down at his hand, at the warm give under his palm, and for the first time he read the chamber entire as a document, and the document was the ground. The residue along the inner walls of the eight pods, swept to the edges of the glass by the floor's slow breathing. The fine sediment of something grown and gone. Where the breathing had swept it, it lay banked against the glass in low pale drifts, and at the turn of each breath the finest of it lifted a finger's height and fell back, as dust settles on a shelf no one has moved. Unspent song, and the singers with it, turned under.
@@ -57,6 +65,10 @@ He found he did not need to think. The decision had been walking beside him sinc
 Every touch in their time together had come from the other side: the face pressed to the back of his hand at the gate, the weight dropping onto his knees in the first room. He reached out now, with his free hand, and stroked the matte fur once, from crown to spine, as you sign a page you have already agreed to. Then he said it:
 
 'Start with the ones I remember wrong.'
+
+He had meant that to be the whole of it. It was not:
+
+'If my arms give out before it is done,' he said, 'do not stop the count for me. I will manage on the floor. It is warm.'
 
 The cat's eyes held him. He watched the thought land in it, as a word lands in a quiet room.
 

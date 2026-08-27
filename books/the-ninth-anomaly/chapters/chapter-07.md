@@ -26,6 +26,8 @@ He knew the city's paper was all the same paper: the gate asked one question —
 
 A laborer went through with a coil of cable over one shoulder, worn bright where it had been dragged more than carried, and the archway read him the same *valid* note it had given the woman, and his trailing cable scraped the fresh seam paint and left a thin gray line that would still be there when the paint hardened.
 
+A man came up after the laborer. He stopped at the threshold and argued with the archway, in a low voice, about his own signature, presenting his left hand, then his palm, then his wrist, and the archway's white line went red for a moment, and he asked it, quietly, whether it had ever signed anything itself, and turned back and presented himself again, and the line stayed white, and the valid note came, and he walked on, still explaining to the archway, which was already behind him, the true history of a scar that had been part of his signature for nineteen years. Arthur watched the man win, and the win was small, and he could not tell whether the gate had lost.
+
 He had watched a man held, earlier. The old man's note had not come. The tick had come, and then nothing, and the archway's white line had gone red for a moment, like a ledger's margin going red, and the old man had stood blinking at the threshold like a man at a door he had been walked past, and then, gently, as if the air itself had turned him, he had gone back.
 
 Struck off. No row. The city had not stopped him. It had stopped containing him.
@@ -50,7 +52,7 @@ He waited, through the changed pitch, for a second tone: the surplus tone, the o
 
 Then the note came, neither the one-note *valid* of the woman ahead of him nor the red *held* of the old man. It was a third sound, one he knew like his own breath: twenty years of the archive had taught him the note it played when a row was reclassified, a single low note with a second voice riding under it, closing a ledger page and opening the next in the same breath.
 
-Other citizens passed; no one looked up; the gate had made the sound only for him, and he heard, in it, what it had just written in his row: not fugitive. Not anymore. *Registered.* The anomaly, whatever the city was calling it, had a contact now, and the contact had a name, and the name was his.
+Other citizens passed; no one looked up; the gate had made the sound only for him, and he heard, in it, what it had just written in his row: not fugitive. Not anymore. *Registered.* The anomaly, whatever the city was calling it, had a contact now, and the contact had a name, and the name was his. The note was over. The word itself made no sound.
 
 Every checkpoint on every level would read the update like a summons reading its own address. The flight had just changed its name, and the new name had been his for a long time. It was only that no one had been keeping the total.
 
@@ -66,9 +68,9 @@ The cat turned its head, looked at the back of his right hand as it looked at th
 
 It was a small event, and he would have called it small, only the warmth under the thinner fur was unledgered: a temperature that was not the city's, not 21.0, not any row in any ledger. The pressure was exact, a weight given and not spent, and it lasted the length of two slow counts, and then it was over.
 
-The cat drew back, sat up, and began to groom one foreleg with a fastidiousness that was almost insulting, turning its shoulder so that the gesture could not be mistaken for anything but the maintenance it looked like, and when it had finished it looked once at the back of his hand, yawned, and said, the words arriving as they always did:
+The cat drew back, sat up, and began to groom one foreleg with a fastidiousness that was almost insulting, turning its shoulder so that the gesture could not be mistaken for anything but the maintenance it looked like. It groomed the foreleg, then the paw that had pressed his hand, then, after a pause, the foreleg again, for a speck it could not possibly have missed, and when it had finished it looked once at the back of his hand, yawned, and said, the words arriving as they always did:
 
-*"The scan left a residue on you. I was removing it."* It added, a beat late: *"Do not file that."*
+*"The scan left a residue on you. I was removing it."* It added, a beat late: *"Also I was checking your temperature. The face is the correct instrument."* After a second beat, smaller: *"Do not file that."*
 
 He did not file it. There was no column for it, and for the second time in his life he chose not to guess.
 

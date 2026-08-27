@@ -22,17 +22,19 @@ Arthur heard the word before the sense: *holding*, the same word, held a third t
 
 'One,' Vance said. 'The order has your name on it. Two. I am the one who holds it. Three. I can hold it long enough to say what I came down to say.' He paused a moment. He had already priced what came next. 'It isn't the order I came down to serve. It's the offer.'
 
-The corridor became a room. Far back at the seam a trooper shifted, and the sound did not carry; there were the two of them, and the dim black thing between the crawling man's arm and his chest, and the green, and nothing else that mattered. Vance gave the terms as he gave everything else: short sentences, in order, without amendment.
+The corridor became a room. Far back at the seam a trooper shifted, and the sound did not carry; there were the two of them, and the dim black thing between the crawling man's arm and his chest, and the green, and nothing else that mattered. Vance gave the terms as he gave everything else: short sentences, in order, without amendment. He had rehearsed the order of it coming down, and the rehearsal frayed once, at the flat.
 
 'The city offers you the following, through me. You surrender the anomaly. You submit to repair and cleansing.'
 
 'The record is amended: no contact, no fugitive, no level; a clerk who was away, and reconciled. The flat is yours. The archive is yours.'
 
+A gap opened at the end of the block, a beat no rehearsal had covered, and he filled it with the nearest warm thing in reach: 'The sill gets what's left of the sun.' He heard it land, and did not take it back, and the corridor did not supply a noise to cover it.
+
 'The cage that locked you is the same procedure that can stand you; the city built it, and the city keeps the key, and the key turns the other way. You walk out of the level, Arthur. You walk up the ramp, out of the dead levels, into the standing world.'
 
 'And none of it will hurt. No memory of any pain. Those are the terms.'
 
-Arthur was quiet a long time. Vance let the silence hold; a man who has priced a thing correctly can afford to wait, and Arthur put that at the back of the column too, where the unreadable things accumulate: the captain had priced him.
+Arthur was quiet a long time. The silence was not the corridor's kind; it was the small kind that opens at a counter when the pitch is over and the customer has not answered. It stretched until it was properly awkward, and Vance cleared his throat, once, with nothing to put after it, and let the silence hold; a man who has priced a thing correctly can afford to wait, and Arthur put that at the back of the column too, where the unreadable things accumulate: the captain had priced him.
 
 And the price was fair. He felt the offer the way he had felt the one second of feeling in his dead toe, a deposit on standing, and it was enormous, and his weighing of it was honest, because he had spent twenty years hoarding the word *stand* in the lowered drawer where he kept the things he did not let out.
 
@@ -52,7 +54,7 @@ Vance held still. 'The offer is not entered.'
 
 'It is the city's offer,' Vance said. 'I am the hand that delivers it.'
 
-'Then where's the serial?' Arthur said. 'The city signs everything, captain. Even the things it declines to do. An unnumbered offer is a rumor wearing rank.'
+'Then where's the serial?' Arthur said. 'The city signs everything, captain. Even the things it declines to do. An unnumbered offer is a rumor wearing rank.' The small, dry item in him spoke before the archivist could stop it: 'And the sill line wasn't in the terms, captain. You sold me my own windowsill.' It was beneath him, and he let it stand.
 
 Vance was silent for a moment. The severed keep a smooth quiet; this was the other silence, the one that reads a document twice and finds something the first reading missed. When he spoke, the words came without weight, a passage read many times over the years.
 

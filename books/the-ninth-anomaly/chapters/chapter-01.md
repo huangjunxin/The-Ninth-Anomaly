@@ -20,6 +20,8 @@ The hiss in his skull was the implant: thirty centimeters of locked code and a d
 
 The pack was a beige rectangle of calibrated texture and uniform temperature. It had no smell. Smell was a layer the city had removed from food, as it had removed birds from the sky.
 
+The empty pack he folded twice, into a neat square, and left on the desk, where it stayed all day, the only thing in the flat he ever left out. He did not know when the folding had become obligatory.
+
 He flexed his gratitude, because gratitude was work and he did it daily: at the pack, at the vent, at the doors that opened for his badge, at the ramps that remembered his wheels. The city was good to him. It had to be. It had taken so much of him that anything it gave back looked like a gift.
 
 He had a room, a job, a body that worked from the waist up, and arms strong enough to carry the rest of him. The only legs he was ever going to be introduced to.
@@ -60,7 +62,7 @@ He memorized the engineer's format deliberately, which was different from how he
 
 He was still carrying it when he came home.
 
-The route was fixed: out of the sub-basement, across the plaza where the sky was a color the city had decided on. The plaza held no birds; he had stopped looking up years ago, but the absence had a weight of its own, and tonight it sat in him like a missing tooth. On a bench, a man was stroking the air before him slowly, a remembered animal under his hand. Arthur looked away. Looking was a habit he had trained himself out of.
+The route was fixed: out of the sub-basement, across the plaza where the sky was a color the city had decided on. The plaza held no birds; he had stopped looking up years ago, but the absence had a weight of its own, and tonight it sat in him like a missing tooth. The sky did nothing. So did Arthur. On a bench, a man was stroking the air before him slowly, a remembered animal under his hand. The hand closed on nothing and came away full, and for one second Arthur hated the man, for the easiness of it. Arthur looked away. Looking was a habit he had trained himself out of.
 
 The evening was blue and even. The flat door opened for his badge. The sill was a sill.
 
@@ -72,7 +74,7 @@ He looked at it, and kept looking. Looking was what his species did wrong: it lo
 
 The thing on the sill met his look and held it, and he understood, with a cold, clear certainty, that he was being looked at, a look he had not manufactured, one that had been waiting a very long time to be received. People had glanced at it before. Their glances had gone through and come out the other side, like light through a broken pane. No one had ever actually seen it. No one had ever been an audience. And he, Arthur — marked, locked, irreparable — was the first.
 
-It understood before he did. He saw the understanding arrive in it, a small adjustment along its spine, a recomputation. It did not flinch; that would have conceded something. With perfect, unhurried insolence it raised one hind leg and began to wash its face, as if his arrival were the interruption.
+It understood before he did. He saw the understanding arrive in it, a small adjustment along its spine, a recomputation. It did not flinch; that would have conceded something. With perfect, unhurried insolence it raised one hind leg and began to wash its face, as if his arrival were the interruption. Mid-wash it stopped and looked past him at the folded square of the morning's pack on the desk, and inspected it from the sill: no smell, no heat, no give, a thing arranged for eating that nothing could want. The inspection visibly offended it, ears flat, nose drawn back as from a stain, and it returned to its washing, as if the interruption had been the pack's.
 
 It made no sound.
 

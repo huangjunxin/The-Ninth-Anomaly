@@ -68,6 +68,8 @@ He looked down. The right foot lay where it had lain for twenty years, inside th
 
 The first thing was temperature: twenty-one degrees, the only climate his life had had since the lock, arriving in a single toe like a letter that had finally got through. The second thing was texture: the weave of the sock against the nail, the hard flat of the footplate under it. The third was weight: the toe's own small gravity, the body's claim on the floor, the whole forgotten architecture of standing, compressed into the size of a coin. He counted, because counting was what he did, the first second of feeling he had had since he was eight — *one* — and filed it under the only heading large enough: *Evidence. One second. Verifiable.* Then it was gone.
 
+The toe was dead again. The evidence was not.
+
 The relay opened. The dead settled back down over the toe like water closing over a stone, and the room was 21.0 again, balanced, and he heard himself say, from a part of him that did not consult the rest: 'Again.'
 
 *"The sample is the sample."*
@@ -98,7 +100,19 @@ He should have asked what that meant. Later — much later — he would understa
 
 'Talk me through the whole deal,' he said. 'Slowly.'
 
-It did, and he listened, taking each clause, holding it up, checking it for weight: the vault, the escort, the signature, the lock. He had one question he did not ask, and it asked it for him, out of the middle of his own head, where it had been reading all along.
+*"One,"* the cat said, *"the carriage, which is you. Two, the vault. Three, the signature. Four, the lock, released at closing, with the house's compliments."* It paused, consulting nothing. *"Wait. Strike the compliments. I never do compliments; the bookkeeping goes strange. But as a first-time buyer: the next second of feeling, at half price. Half of nothing is nothing. It rounds my books."*
+
+'What do you eat?' he said.
+
+The cat went still, and it was not the professional stillness of the negotiation; this was the stillness of a sum that would not balance. Even the tail went still. Then the words came, so even they were almost gentle.
+
+*"I am the surplus,"* it said. *"The debt your building's books keep open. I have priced the whole history of your grid, and you ask me what I eat."*
+
+'It's a long road,' he said. 'Do I pack for two?'
+
+*"I eat the surplus,"* the cat said. *"The rounding your meters forgive. The dust the city never sweeps. The overcharge that dies unclosed in the ledger. When the road goes short, I eat the small errors your kind makes when it is afraid."* Then the broker's ease was back over it, whole, as if the interval had not happened. *"Yours is the first enrollment in my history to begin with the feed. I will note it in the margin."*
+
+The deal went on. He listened, taking each clause, holding it up, checking it for weight. He had one question he did not ask, and it asked it for him, out of the middle of his own head, where it had been reading all along.
 
 *"You want to know why I'm bothering with any of this,"* it said. *"A being that could give you your legs back tonight, and books a sale at the end of a road instead. That's the question you won't ask, because asking it would mean opening the box. So I'll ask it for you."*
 

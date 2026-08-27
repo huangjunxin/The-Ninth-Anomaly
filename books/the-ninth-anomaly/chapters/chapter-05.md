@@ -38,7 +38,9 @@ The smoothness came down like a tent coming down, all at once, and the smell cam
 
 *"Fifty metres of smoothness. The invoice is running. I'll present it at closing."*
 
-And it slept where it lay, down and wrong, like a thing unplugged. He counted the seconds of the descent as he had counted the eye's rest: still asleep at twenty, still at a hundred, its sides in a rhythm that owed nothing to anyone. Arthur bent over it and looked, and could not have sworn to it, and would not have had to: at the leading edge of one ear, in the old light, the fur went briefly thinner than air, the way a word goes thinner in a mouth deciding not to say it. He filed it without a category. It was the first entry he had ever made that he was not certain he had read correctly.
+And it slept where it lay, down and wrong, like a thing unplugged, forelegs splayed past the fold of the blanket, its lip snagged on a lower tooth, a sliver of fang showing to no one.
+
+He counted the seconds of the descent as he had counted the eye's rest: still asleep at twenty, still at a hundred, its sides in a rhythm that owed nothing to anyone. Arthur bent over it and looked, and could not have sworn to it, and would not have had to: at the leading edge of one ear, in the old light, the fur went briefly thinner than air, the way a word goes thinner in a mouth deciding not to say it. He filed it without a category. It was the first entry he had ever made that he was not certain he had read correctly.
 
 He pushed on. The old street gave onto a square, and the square onto a market hall whose roof had come down in one piece, a lid coming down on a box; the shopfronts stood in a row with their glass gone soft, and he read them one by one, the first catalogue of the dead city he had ever been allowed to open: a bakery whose sign showed a sheaf of something he had no word for except *grain*, a cobbler. The people of the warren passed the signs as you pass a shape you have no category for; one woman stood in a doorway pressing the haptic band into her forearm, the old soothing pattern, and got nothing she could name. Only Arthur read them.
 
@@ -60,7 +62,11 @@ Nadia Soren stood at the far end of the hall with a cloth bundle under one arm, 
 
 'Eli?' he said.
 
-She glanced behind her, and a boy came forward from the shadow of a pillar, small, six years old, in a coat that did not fit him, carrying something in his open hands, holding it up to the light like a thing you mean to see clearly: a scrap of dark fur, moth-eaten, its edges gone ragged, the cuff of some garment so old it had no other name; hidden, Arthur understood, as he kept his box: under a floor, in a tin, where the reconciliation could not count it.
+She glanced behind her, and a boy came forward from the shadow of a pillar, small, six years old, in a coat that did not fit him, carrying something in his open hands.
+
+He stopped a pace off and stared at the chair's wheels, and the stare outlasted politeness and then outlasted interest, and Nadia did not hurry him. 'Let him,' she said. 'First thing with wheels down here that goes where it's pointed.'
+
+Then the stare let go of him, and he turned back to what he had been carrying, holding it up to the light like a thing you mean to see clearly: a scrap of dark fur, moth-eaten, its edges gone ragged, the cuff of some garment so old it had no other name; hidden, Arthur understood, as he kept his box: under a floor, in a tin, where the reconciliation could not count it.
 
 The boy held it against his cheek and closed his eyes, and the gesture was so old, so unborrowed, that Arthur felt the latch again, and did not touch it. The scrap gave off no smell at all. Whatever had smelled that way was gone; the city did not make animals anymore.
 

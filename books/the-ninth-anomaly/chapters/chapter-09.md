@@ -52,6 +52,8 @@ He swung the arm, the seized collar giving with a sound like a broken seal, and 
 
 He read all eight before he let any of them land, because the taxonomy was the only way he could stand under it. SUBJECT 02. SUBJECT 03. Seven more across the years, each beginning with retained, each ending with terminated.
 
+For a half-second, in the middle of the grief, he hated them: the eight, for being dead, for failing, for leaving the whole of it to him, whatever it was. The hatred was small and ugly, and he did not recognize it at first, and then he did, and the shame closed over it, and he read on.
+
 Between the opening and the closing, the words he could not stop reading: *severance derived from recovered interface; technology turned on citizens.* The city had unbuilt their silence, the same verb the manifest had used for the sky, and fitted it to its own people.
 
 Arthur had set down the severance as the city's invention, a tool like any other. It was not the city's. It was not a tool. It was a murder, and the city had been running on it for twenty years — forty million severed minds, running on one long murder.
@@ -64,9 +66,13 @@ The ring's header named the program in the city's word for it, anomaly, and he r
 
 'The Ninth Anomaly.'
 
+Nothing came to meet them. The hum held its note, the green its depth, the stone its silence.
+
 He looked at the cat. The cat was looking at the empty ninth spoke, its ears full of green light, unblinking, and when it spoke there was no mockery in it, only the flat of a long-kept account:
 
 *"You have the numbering. Eight of my kind, Arthur, filed to their deaths. And one that was never retained, because the city could not hold on to it. I have made a very long career of being outstanding."*
+
+It let the word stand a moment too long. Then it looked down the length of its own body, slowly, the look of a creature admiring a coat it had decided to keep, and Arthur saw the small, awful pride sitting up in it, at the graves of its kind, and set it down.
 
 'How were the eight found?' he said. 'How were they caught?'
 

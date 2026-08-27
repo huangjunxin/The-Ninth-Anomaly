@@ -38,6 +38,8 @@ The animals came as attention, quiet, all at once. Eyes that priced nothing and 
 
 On a bench in the upper city, a man had been stroking the air before him, slowly, as you stroke a pet. His hand came down on the warm shape of the air and stopped, held there, and he looked at his palm as if it had grown a thing in it. In a warren doorway, a woman with a haptic band pressed to her forearm let the band grow cold in her hand, because the pattern had become noise, and the comfort it had never given stood in the air beside her, warm, breathing, unattached to anything she could name.
 
+On a transit stair, a man stood mouth open at the green, and the first whole thing the wave gave him was not the green. He said it to no one: eleven years of his neighbor's dog, the barking through the wall, and it was his, clean, and he said it again. A woman on the landing laughed, one note, wrong, hand up too late.
+
 And in the sealed block, the two who had been cut deepest felt the seam take the frequency first, as a scar takes blood first. The night came back into the younger one whole: the flat, the sill, the shape that would not resolve, the soundless yawn, the apology going back and forth between them like a coin. The earpiece was dead. He left it hanging; the whole night stood in the corridor with him, and he knew at last why his hand had gone up in the dark, and knew at last that the thing on the sill had not been a category error. It had been alive.
 
 His muzzle came down, gently, the way a man sets down something breakable.
@@ -65,6 +67,8 @@ The blanket's weight went next, the chain being the chain. It was the smallest t
 Then the sound rose under the word, and he did not let it go.
 
 He felt it come up under the last room, and he held it, as you hold the one thing you have given everything else not to give. The sound hung. The transmitter waited. Above, the wave stood still, like a held breath: in the sealed block the borrowed coat hung from one hand, and the whole city hung with it, mid-memory, mid-heat, mid-thaw, waiting on the last room of one clerk's head.
+
+His arm was cramping where it braced him on the floor. His throat was dry.
 
 The small engine on his chest knew. He felt it gather what it had left, and the head came up — a last true motion, the spine carrying it — and it pressed its forehead to his, where his own head had bowed to meet it.
 

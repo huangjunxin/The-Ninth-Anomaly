@@ -15,7 +15,7 @@ That was the whole of it, and it was everything. A forgotten thing left no edges
 
 Four. The record closed itself.
 
-*No anomaly present. Unit stood down. No record.* In a city that never stopped recording. The grid wrote states. The close-out read like a clerk's hand, and no clerk had been in that flat.
+*No anomaly present. Unit stood down. No record.* In a city that never stopped recording. The grid wrote states. The close-out read like a clerk's hand, and no clerk had been in that flat. Beneath the last line ran the boilerplate the grid set under every close-out, and inside it was a typo: *personel*, where the manual kept two n's. He read the typo twice before he read the anomaly twice. A wrong letter he could fix. The hole he could not.
 
 He called them in. They stood on the worn strip of floor before his desk, and he asked the same question twice, because that was the habit too.
 
@@ -36,6 +36,8 @@ The two men said nothing. They had been inside that flat for ten minutes and los
 'Yes,' Vance said. 'It does.'
 
 He dismissed them and watched them go: the borrowed coat, the flat-footed tread, two men walking out of his office with the same hole in each of them. The grid had a word for what it did to citizens. It had no word for what had been done to officers.
+
+His coffee had come out wrong again: one sugar where he took none. He drank it. He always drank it. The machine had been wrong for six years, and it would outlast the career.
 
 The log lived in the bottom drawer of his desk, under a lock that had never been wired to anything. It was a bound book, paper, the third of his tenure, and it was the only unamendable thing in the building.
 
@@ -71,6 +73,7 @@ He stayed. The report would not close, and neither would he. Near midnight he wr
 > 3-0712. Item: the retainer of the flat.
 > I knew the name before I opened the file.
 > Twenty years, and the book is still on the sill.
+> The room held 21.0 all day, and did not waver once.
 
 * * *
 
@@ -107,7 +110,7 @@ He reached the ramp's mouth at 02:57. The north arc's boots came past above him,
 03:00. The arc went empty.
 03:09. The camera's eye, high on its pole, went dark.
 
-He was already moving. The gate under the abutment was older than the cordon, older than the grid's memory of itself; its key was catalogued in the same dead grammar as a hundred other keys, and he fed it the digits one-handed while the other held the wheel, and the gate opened without sound. He pushed as he had pushed for twenty years, arms strong enough to carry the rest of him, and the ramp fell away down and across the boundary line, the wheels making their soft sound on the old tarmac; the far abutment came up and over him, and he stopped.
+He was already moving. The gate under the abutment was older than the cordon, older than the grid's memory of itself; its key was catalogued in the same dead grammar as a hundred other keys, and he fed it the digits one-handed while the other held the wheel, and the gate opened without sound. The chair caught on the gate's low sill, and he had to rock it, twice, small and graceless, before the wheels came over. He pushed as he had pushed for twenty years, arms strong enough to carry the rest of him. The blanket slipped a hand's width off his dead knees, and he tucked it back with the wheel hand, hating it for one clean second. Then the ramp fell away down and across the boundary line, the wheels making their soft sound on the old tarmac; the far abutment came up and over him, and he stopped.
 
 He had been under the camera's eye for six seconds. The eye came back. Nothing on the feed. The seam closed over him the way water closes over a coin.
 

@@ -28,6 +28,8 @@ The box at the back, the room he had spent twenty years not opening, stood open.
 
 There was a note in the morning, a bird's, that he did not open, and it had no date, only temperature, and it stayed where it had been put, the one thing in the morning he did not reach for.
 
+The empty pack his hands folded twice, into its neat square; there was no desk to leave it on, and the black thing watched from the floor and did not inspect it. The why of the fold was gone from him; the hands kept the shape without being asked to.
+
 Then he counted.
 
 One. Counting was what he did. It was the one whole thing left of a voice, and he did not remember whose; the voice had the shape of a room he had once stood in, and the room was gone, and the count remained, as a shape remains when the room goes out of it. Two. Three.

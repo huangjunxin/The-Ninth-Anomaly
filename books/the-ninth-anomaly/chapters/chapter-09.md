@@ -122,7 +122,7 @@ He read it with the triple he had carried: axis, ring, depth. And the last page 
 
 *The citizen network terminates here. Every mind the city runs ends in this room; what the city forgets is filed here; what is broadcast here is broadcast everywhere.*
 
-He looked up at the bulkhead, and the hum had a name now: not machinery, not the transit, but the net, held, forty million minds breathing in one stone room, and under the green light the wells went down where the eight had been.
+He looked up at the bulkhead, and the hum had a name now: not machinery, not the transit, but the net, held, forty million minds breathing in one stone room, and under the green light the well went down where the eight had been.
 
 It was not a place that stored memory. It was the memory of a city, and it had killed its guardians, and it was humming.
 

@@ -73,7 +73,7 @@ Four. It is the first order I ever gave myself.
 
 He walked out of the dispatch room with nothing at his hip, and the direction of his boots was down.
 
-The levels were unsealed. That was the first thing: the sealedness had gone out of them, as it had gone out of the doors, and the stair he had never once taken in daylight came up to meet him, thick with something that had no name left in the city and every name he remembered: what rain leaves. Water stood in the runnels of the old tiles, the first water the levels had carried in his lifetime, and the thaw was coming up out of the deep behind him. Ahead of him, filling the market hall from wall to wall, the crowd was coming with it.
+The levels were unsealed. That was the first thing: the sealedness had gone out of them, as it had gone out of the doors, and the stair he had never once taken in daylight came up to meet him, thick with something that had no name left in the city and every name he remembered: what rain leaves. Water stood in the runnels of the old tiles, the first water the levels had carried in his lifetime, and the thaw was coming up out of the deep. Ahead of him, filling the market hall from wall to wall, the crowd was coming with it.
 
 He walked into the crowd like a man stepping into weather.
 

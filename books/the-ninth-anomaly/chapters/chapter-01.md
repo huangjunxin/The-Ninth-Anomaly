@@ -26,7 +26,7 @@ He counted out his gratitude, because gratitude was work and he did it daily: at
 
 He had a room, a job, a body that worked from the waist up, and arms strong enough to carry the rest of him. The only legs he was ever going to be introduced to.
 
-At 07:40 the door opened for his badge, and he rolled out into the corridors of the Archive. The lights came up at his approach and dimmed behind him.
+At 07:40 the door opened for his badge, and he rolled out through the block, across the plaza, and down into the Archive. The lights came up at his approach and dimmed behind him.
 
 The Forbidden Archive was a sub-basement, and the whole of its architecture was in that: the city built downward to store what it could not burn. Failures of the screening did not die. They were shelved. A second death, cleaner than the first.
 

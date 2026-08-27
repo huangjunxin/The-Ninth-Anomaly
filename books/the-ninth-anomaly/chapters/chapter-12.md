@@ -1,6 +1,6 @@
 # Chapter 12: The Ledger, 1998
 
-He came back up the ramp at 00:10, and the men at the seam did not ask.
+He turned. He walked back along the corridor, past the soldiers, up the ramp. He came to the top at 00:10, and the men at the seam did not ask.
 
 That was the thing about the men who had served under him longest. Torelli had taught them, or they had taught each other: there were questions that cost more than the silence they covered. The EMP array stood where it had been staged, in the cold at the bottom of the ramp, and the trooper beside it came to attention, silent, and Vance walked past him, through the gate, up into the standing world, and the net closed behind him without comment.
 
@@ -65,7 +65,7 @@ He turned the leaf. The volume ended two entries after that. He had known the la
 
 The rest of the page was blank. Twenty years of blank page after the certainty.
 
-He sat with it. The building made its permitted noises and none of its real ones. The room was at its permitted temperature. Below, in the cold the city had sealed and forgotten how to count, a boy, a man now, twenty years of lock, twenty years of archive dust, was crawling toward a door that wanted a clean signature, and his was dirty, and there was exactly one clean signature left in the city, and Vance had spent the evening reading the only page that could make him use it as he was going to.
+He sat with it. The building made its permitted noises and none of its real ones. The room was at its permitted temperature. Below, in the cold the city had sealed and forgotten how to count, a boy, a man now, twenty years of lock, twenty years of archive dust, was crawling toward a door, and beyond it a door that wanted a clean signature, and his was dirty, and there was exactly one clean signature left in the city, and Vance had spent the evening reading the only page that could make him use it as he was going to.
 
 He opened the drawer and took out book three, the current volume, and wrote, because writing was the discipline, and the discipline was the only thing that had ever held:
 
@@ -97,7 +97,7 @@ Torelli was at the desk at the end of the hall, working the late close-out. Vanc
 
 The direction of his boots was down.
 
-He was going to the Seed Vault, where the boy was crawling toward the inner door, the one that wanted a clean signature. Three doors stood between them and the thing the vault was built to forget how to be: codes, signatures, and the last one, which had a category for exactly one kind of hand. Vance's was the only one left in the city that was clean. He had signed against the boy at twenty, in the heat, in the hand that was writing now beneath his heart. Tonight he was going down to sign *for* him.
+He was going to the Seed Vault, where the boy was crawling toward the first of the three doors, and the deepest of them, the inner door, was the one that wanted a clean signature. Three doors stood between them and the thing the vault was built to forget how to be: codes, signatures, and the last one, which had a category for exactly one kind of hand. Vance's was the only one left in the city that was clean. He had signed against the boy at twenty, in the heat, in the hand that was writing now beneath his heart. Tonight he was going down to sign *for* him.
 
 One. The book is under my coat.
 Two. The key is over my heart.

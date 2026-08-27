@@ -1,8 +1,8 @@
 # Chapter 17: Morning
 
-He woke because something was missing.
+Arthur woke because something was missing.
 
-The light had already reached the bottom of the deep, the first light of the world, come down the long bore of the ramp past three doors standing open, the color of no decision the city had ever made. He lay still and read the room by feel, item by item, slowly, as he had read every room of his life, and one item answered wrong. No. The item was absent.
+The light had already reached the bottom of the deep, the first light of the world, come down the long bore of the ramp and through the three doors standing open, the color of no decision the city had ever made. He lay still and read the room by feel, item by item, slowly, as he had read every room of his life, and one item answered wrong. No. The item was absent.
 
 The hiss was not there.
 
@@ -60,7 +60,7 @@ The room rearranged itself at standing height.
 
 Every room of his remembering had arrived at the height of his knees and stayed there, the whole world built at sitting height; this was the first room of his remembering that stood at its own height. The ring lay below him, a wide circle of warm ground. The eight pods around it were low now, their open hatches at the height of his hip. The ninth stood against him, the transmitter, its throat open and dark at the height of his chest, the green gone out of it.
 
-The bore of the ramp ran away past three open doors, and the full morning stood in it. The place where a man had stood was empty; the doorway held only the light.
+The bore of the ramp ran away through three open doors, and the full morning stood in it. The place where a man had stood was empty; the doorway held only the light.
 
 The light came level at this height, crossing the room with the settled air of a thing that has decided to stay, and he stood in it, and he was taller than everything in the room except the pod, the light, and the height of the world itself, which he had not known, in all his years of flat mornings, was a thing the world had. His hands hung at his sides, loose, at the height of the console, unemployed, for the first time in their working lives.
 

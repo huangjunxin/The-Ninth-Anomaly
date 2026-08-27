@@ -20,6 +20,8 @@ Above the archway there was a second script. Under the city's fresh white line, 
 
 No one else looked up. No one else could look up. The arrow pointed where the old line had run, toward the heart of the old city, and the heart of the old city was where the vault sat, on the bearing they had been keeping since the dead levels; the sign was only the first time the direction had been named in matter, and matter was the only paper the city could not rewrite.
 
+The dead levels had hidden him; they had never been the road. The old transit's mouth stood on the managed side of the seam, and the only way down to the vault ran up through the ramps first — deeper had to begin by rising.
+
 A woman went through the archway ahead of him, and he watched her as he watched everything, because watching was the closest he kept to asking. She carried a haptic band against her forearm, pressing the old soothing pattern into the skin, and the archway read her as she crossed its threshold: a beat of nothing, a tick in the air, and then one note, low and certain, the note that meant *valid*, and she walked on into the serviced level without breaking stride, and the note closed behind her like a door that had never opened.
 
 He knew the city's paper was all the same paper: the gate asked one question — *are you real* — and kept the answer, and let her go. It needed only to have read her. Reading was the whole of its product.
@@ -76,7 +78,7 @@ He did not file it. There was no column for it, and for the second time in his l
 
 Then he put his hands back on the wheels, and the spot on the back of his right hand kept its warmth, and he pushed on, and the arithmetic of the flight came due.
 
-He knew the number he now owed. He had known it before the gate, as you know a debt before the statement arrives; the gate had only wrung it out of him in writing. Checkpoint logs were synchronous; he knew that as he knew the dead grammar, because it had been in the engineer's files: the old gates, the kind he had slipped through in the boot seam during the six-second camera re-sync at 03:09, kept a small local hold between camera and ledger. Six seconds you could stand inside. The seam had been real, and he had used it.
+He knew the number he now owed. He had known it before the gate, as you know a debt before the statement arrives; the gate had only wrung it out of him in writing. Checkpoint logs were synchronous; he knew that as he knew the dead grammar, because it had been in the engineer's files: the old gates, the kind he had slipped through in the old boundary seam during the six-second camera re-sync at 03:09, kept a small local hold between camera and ledger. Six seconds you could stand inside. The seam had been real, and he had used it.
 
 This gate held nothing. It streamed, and it had been streaming all along; the log went out as the tick went in, one-way, to every ledger that mattered. He had spent the whole flight being careful, a name kept off the map, a signature gone quiet at a legacy gate, and the gate had just written the name next to the line, and the line had a bearing.
 

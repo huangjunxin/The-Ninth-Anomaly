@@ -106,7 +106,7 @@ He looked at the splinter of stone that had done it. It was a crumb. A crumb had
 
 His stomach growled, hungry exactly as the city had scheduled, and no one heard it but him.
 
-The cage had outlasted the burn. He had asked it, for the first time in his life, for movement, for the last finger of travel in a collar twenty feet away, and it had given him a spinning wheel and a snapped cable.
+The cage had outlasted the burn. He had asked it, for the first time in his life, for movement, for the last finger of travel in a collar ten feet away, and it had given him a spinning wheel and a snapped cable.
 
 He sat in the ruins of it, holding the crippled cat. Nothing held him now, nothing carried him. The man who had not walked in twenty years looked at the door that was one turn from opening and did the only thing left that was not in the city's books.
 

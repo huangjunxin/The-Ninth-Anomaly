@@ -12,4 +12,14 @@ const chapters = defineCollection({
 	schema: z.object({}),
 });
 
-export const collections = { chapters };
+// The Japanese translation (Murakami-style), shown when the site is viewed
+// with the Japanese UI. Same file naming, so slugs match the English chapters.
+const chaptersJa = defineCollection({
+	loader: glob({
+		pattern: 'chapter-*.md',
+		base: new URL('../../books/the-ninth-anomaly/ja/chapters/', import.meta.url),
+	}),
+	schema: z.object({}),
+});
+
+export const collections = { chapters, chaptersJa };

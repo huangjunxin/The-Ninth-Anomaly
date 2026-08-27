@@ -4,17 +4,18 @@
 正文原稿存放于仓库 `books/the-ninth-anomaly/`（内容层用 `glob` loader
 直接读取 `../books/...`，并不复制或改写任何原稿文件）。
 
-正文永远是**英文原稿**；i18n 只作用于界面文案（站点脚手架）。
+正文按界面语言分流：`en` / `zh` 界面读**英文原稿**（`books/.../chapters/`），
+`ja` 界面读**日译本**（`books/.../ja/chapters/`）；i18n 同时作用于界面文案。
 
 ## 页面与路由
 
 | 路由 | 说明 |
 | --- | --- |
-| `/` · `/zh/` | 首页：CSS 氛围 hero + 章节目录（含每章阅读时长，按英文 ~230 词/分钟估算） |
-| `/chapters/chapter-NN/` · `/zh/chapters/chapter-NN/` | 章节阅读页（1–18）：左侧章节侧栏、阅读进度条、上一章/下一章导航、亮暗双主题 |
+| `/` · `/zh/` · `/ja/` | 首页：CSS 氛围 hero + 章节目录（含每章阅读时长；英文按 ~230 词/分钟、日文按 ~500 字/分钟估算） |
+| `/chapters/chapter-NN/` · `/zh/chapters/chapter-NN/` · `/ja/chapters/chapter-NN/` | 章节阅读页（1–18）：左侧章节侧栏、阅读进度条、上一章/下一章导航、亮暗双主题 |
 
-- `en` 为默认语言且不加前缀（`/`、`/chapters/...`）；中文界面位于 `/zh/` 前缀下。
-- 共 38 个静态页面：英文 19（首页 + 18 章）+ 中文 19。
+- `en` 为默认语言且不加前缀（`/`、`/chapters/...`）；中文界面位于 `/zh/`，日语界面位于 `/ja/`。
+- 共 57 个静态页面：英 19 + 中 19 + 日 19（各首页 + 18 章）。
 
 ## 本地开发
 
@@ -31,16 +32,19 @@ npm run preview      # 本地预览构建产物（部署前检查用）
 
 ## i18n 与语言自动识别
 
-- 所有界面文案集中在 `src/i18n/ui.ts` 的字典（`ui.en` / `ui.zh`），组件通过
-  `t(locale, key, vars?)` 取文案，无散落硬编码。书名 "The Ninth Anomaly" 两
-  种界面都保留英文主标题；中文界面额外展示副标题「第九类异体」。
+- 所有界面文案集中在 `src/i18n/ui.ts` 的字典（`ui.en` / `ui.zh` / `ui.ja`），组件通过
+  `t(locale, key, vars?)` 取文案，无散落硬编码。书名 "The Ninth Anomaly" 三
+  种界面都保留英文主标题；中文界面额外展示副标题「第九类异体」，日语界面
+  额外展示副标题「第九の異常」及日文版 logline。
 - **语言自动识别**：`BaseLayout` 的 `<head>` 内联脚本在首屏渲染前执行——用户
   若从未手动选择过语言（localStorage `tna-lang` 无值），按 `navigator.language`
-  判断：`zh-*` 浏览器跳转到 `/zh/` 对应页面，其余留在 `/`；跳转会保留当前
-  路径（章节页对章节页）。用户一旦点击页眉「EN / 中文」切换按钮，
-  `tna-lang` 被写入，此后始终尊重手动选择、不再自动跳转。
-- 语言切换按钮位于页眉（主题按钮左侧），在当前页面两个语言版本间跳转
-  （`/` ↔ `/zh/`、`/chapters/chapter-01/` ↔ `/zh/chapters/chapter-01/`）。
+  判断：`zh-*` 浏览器跳转到 `/zh/`、`ja-*` 跳转到 `/ja/` 对应页面，其余留在
+  `/`；跳转会保留当前路径（章节页对章节页）。用户一旦点击页眉
+  「EN / 中文 / 日本語」切换按钮，`tna-lang` 被写入，此后始终尊重手动选择、
+  不再自动跳转。
+- 语言切换按钮位于页眉（主题按钮左侧），三个语言各自链接到当前页面的对应
+  版本（`/chapters/chapter-01/` ↔ `/zh/chapters/chapter-01/` ↔
+  `/ja/chapters/chapter-01/`）。
 - 主题：`data-theme` 记入 `tna-theme`，默认跟随 `prefers-color-scheme`，同样由
   页眉按钮控制、head 内联脚本防闪烁。
 
@@ -59,10 +63,10 @@ site/
 ├── netlify.toml            # Netlify 构建配置（base 目录 = site/ 时生效）
 ├── public/                 # favicon 等静态资源
 └── src/
-    ├── content.config.ts   # Content Layer：glob 读取 ../books/...（chapters）
-    ├── i18n/ui.ts          # 界面文案字典（en/zh）+ t() 取值与路径助手
+    ├── content.config.ts   # Content Layer：glob 读取 ../books/...（chapters 英文原稿 + chaptersJa 日译本）
+    ├── i18n/ui.ts          # 界面文案字典（en/zh/ja）+ t() 取值与路径助手
     ├── lib/
-    │   ├── book.ts                 # 章节解析 / 阅读时长 / 排序辅助
+    │   ├── book.ts                 # 章节解析（英/日两种标题格式）/ 阅读时长 / 排序辅助
     │   └── rehype-book-headings.ts # 移除章节正文首个 h1（标题由页面 chrome 渲染）
     ├── layouts/BaseLayout.astro    # 全局布局：页眉 / 语言+主题切换 / FOUC 防闪与语言识别脚本
     ├── components/
@@ -76,7 +80,9 @@ site/
     │   ├── index.astro             # en 首页（/）
     │   ├── chapters/[slug].astro   # en 章节页（/chapters/...，18 个静态路由）
     │   ├── zh/index.astro          # zh 首页（/zh/）
-    │   └── zh/chapters/[slug].astro# zh 章节页（/zh/chapters/...）
+    │   ├── zh/chapters/[slug].astro# zh 章节页（/zh/chapters/...，英文原稿）
+    │   ├── ja/index.astro          # ja 首页（/ja/）
+    │   └── ja/chapters/[slug].astro# ja 章节页（/ja/chapters/...，日译本）
     └── styles/global.css           # 亮/暗两套配色（CSS 自定义属性）+ 排印 + 侧栏
 ```
 
@@ -123,5 +129,5 @@ Vercel 的 monorepo 子目录需要手动指定根目录（Root Directory）：
 
 ```sh
 cd site && rm -rf .astro && npm run build
-# 期望：38 个页面（en / + 18 章，zh /zh/ + 18 章），无 /full
+# 期望：57 个页面（en / + 18 章，zh /zh/ + 18 章，ja /ja/ + 18 章），无 /full
 ```

@@ -191,6 +191,13 @@ a {
 
 .lang-switch .lang-opt {
 	color: var(--muted);
+	text-decoration: none;
+	border-radius: 4px;
+	transition: color 0.15s ease;
+}
+
+.lang-switch .lang-opt:hover {
+	color: var(--accent);
 }
 
 .lang-switch .lang-opt.cur {

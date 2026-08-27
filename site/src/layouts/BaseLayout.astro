@@ -6,7 +6,7 @@ import '@fontsource/source-serif-4/latin-600-italic.css';
 import '../styles/global.css';
 import ThemeToggle from '../components/ThemeToggle.astro';
 import SidebarToggle from '../components/SidebarToggle.astro';
-import { t, LOGLINE, localePath, otherLocaleHref, type Locale } from '../i18n/ui';
+import { t, LOGLINE, LOGLINE_JA, localePath, stripLocalePrefix, locales, type Locale } from '../i18n/ui';
 
 interface Props {
 	locale: Locale;
@@ -18,10 +18,10 @@ interface Props {
 	showSidebarToggle?: boolean;
 }
 
-const { locale, title, description = LOGLINE, showProgress = false, showSidebarToggle = false } =
+const { locale, title, description, showProgress = false, showSidebarToggle = false } =
 	Astro.props;
-const langTarget: Locale = locale === 'en' ? 'zh' : 'en';
-const switchHref = otherLocaleHref(locale, Astro.url.pathname);
+const metaDescription = description ?? (locale === 'ja' ? LOGLINE_JA : LOGLINE);
+const barePath = stripLocalePrefix(Astro.url.pathname);
 ---
 
 <!doctype html>
@@ -32,9 +32,9 @@ const switchHref = otherLocaleHref(locale, Astro.url.pathname);
 		<link rel="icon" type="image/svg+xml" href="/favicon.svg" />
 		<meta name="generator" content={Astro.generator} />
 		<title>{title}</title>
-		<meta name="description" content={description} />
+		<meta name="description" content={metaDescription} />
 		<meta property="og:title" content={title} />
-		<meta property="og:description" content={description} />
+		<meta property="og:description" content={metaDescription} />
 		<meta property="og:type" content="website" />
 		<script is:inline>
 			// Theme — apply the saved (or system-preferred) theme before first paint
@@ -53,9 +53,9 @@ const switchHref = otherLocaleHref(locale, Astro.url.pathname);
 			})();
 
 			// Language auto-selection — only for visitors who never chose manually.
-			// zh-* browsers land on /zh/, everyone else on /. Once the user has
-			// picked a language (via the switcher, stored in `tna-lang`), their
-			// choice wins and no further redirects happen.
+			// zh-* browsers land on /zh/, ja-* on /ja/, everyone else on /. Once
+			// the user has picked a language (via the switcher, stored in
+			// `tna-lang`), their choice wins and no further redirects happen.
 			(() => {
 				let choice = null;
 				try {
@@ -63,15 +63,16 @@ const switchHref = otherLocaleHref(locale, Astro.url.pathname);
 				} catch {
 					/* fall through to detection */
 				}
-				if (choice === 'en' || choice === 'zh') return;
-				const wantsZh = (navigator.language || '').toLowerCase().startsWith('zh');
+				if (choice === 'en' || choice === 'zh' || choice === 'ja') return;
+				const nav = (navigator.language || '').toLowerCase();
+				const target = nav.startsWith('zh') ? 'zh' : nav.startsWith('ja') ? 'ja' : 'en';
 				const { pathname } = window.location;
-				const isZhPage = pathname === '/zh' || pathname.startsWith('/zh/');
-				if (wantsZh && !isZhPage) {
-					window.location.replace(pathname === '/' ? '/zh/' : '/zh' + pathname);
-				} else if (!wantsZh && isZhPage) {
-					window.location.replace(pathname.slice(3));
-				}
+				const m = pathname.match(/^\/(zh|ja)(?=\/|$)/);
+				const current = m ? m[1] : 'en';
+				if (target === current) return;
+				const bare = m ? pathname.slice(m[1].length + 1) || '/' : pathname;
+				const href = target === 'en' ? bare : bare === '/' ? `/${target}/` : `/${target}${bare}`;
+				window.location.replace(href);
 			})();
 		</script>
 	</head>
@@ -85,21 +86,29 @@ const switchHref = otherLocaleHref(locale, Astro.url.pathname);
 					{locale === 'zh' && (
 						<span class="site-title-zh" lang="zh">{t(locale, 'siteTitleZh')}</span>
 					)}
+					{locale === 'ja' && (
+						<span class="site-title-zh" lang="ja">{t(locale, 'siteTitleJa')}</span>
+					)}
 				</a>
 			</div>
 			<div class="header-right">
-				<a
-					class="lang-switch"
-					href={switchHref}
-					aria-label={t(locale, langTarget === 'zh' ? 'langZh' : 'langEn')}
-					data-lang-target={langTarget}
-				>
-					<span class:list={['lang-opt', { cur: locale === 'en' }]}>{t(locale, 'langEn')}</span>
-					<span class="lang-slash">/</span>
-					<span class:list={['lang-opt', { cur: locale === 'zh' }]} lang="zh"
-						>{t(locale, 'langZh')}</span
-					>
-				</a>
+				<nav class="lang-switch" aria-label="Language">
+					{
+						locales.map((l, i) => (
+							<>
+								{i > 0 && <span class="lang-slash">/</span>}
+								<a
+									class:list={['lang-opt', { cur: locale === l }]}
+									href={localePath(l, barePath)}
+									data-lang-target={l}
+									aria-current={locale === l ? 'true' : undefined}
+								>
+									{t(locale, l === 'en' ? 'langEn' : l === 'zh' ? 'langZh' : 'langJa')}
+								</a>
+							</>
+						))
+					}
+				</nav>
 				<ThemeToggle label={t(locale, 'switchTheme')} />
 			</div>
 		</header>
@@ -110,7 +119,8 @@ const switchHref = otherLocaleHref(locale, Astro.url.pathname);
 
 		<footer class="site-footer">
 			{t(locale, 'siteTitle')}<span class="footer-divider">·</span
-			><span lang="zh">{t(locale, 'siteTitleZh')}</span>
+			><span lang="zh">{t(locale, 'siteTitleZh')}</span><span class="footer-divider">·</span
+			><span lang="ja">{t(locale, 'siteTitleJa')}</span>
 			<br />
 			<a href={localePath(locale, '/#toc')}>{t(locale, 'tocLink')}</a>
 		</footer>
@@ -118,16 +128,17 @@ const switchHref = otherLocaleHref(locale, Astro.url.pathname);
 		<script>
 			// Remember the manually chosen language when the switcher is used,
 			// so the auto-selection script never overrides the visitor again.
-			const langLink = document.querySelector('.lang-switch');
-			langLink?.addEventListener('click', () => {
-				const target = langLink.getAttribute('data-lang-target');
-				if (target) {
-					try {
-						localStorage.setItem('tna-lang', target);
-					} catch {
-						/* non-persistent context — navigation still happens */
+			document.querySelectorAll('.lang-switch .lang-opt').forEach((link) => {
+				link.addEventListener('click', () => {
+					const target = link.getAttribute('data-lang-target');
+					if (target) {
+						try {
+							localStorage.setItem('tna-lang', target);
+						} catch {
+							/* non-persistent context — navigation still happens */
+						}
 					}
-				}
+				});
 			});
 		</script>
 	</body>

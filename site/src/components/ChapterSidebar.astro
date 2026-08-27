@@ -19,7 +19,11 @@ const { metas, currentSlug, locale } = Astro.props;
 	<div class="sidebar-inner">
 		<a class="sidebar-brand" href={localePath(locale, '/')}>
 			<span class="sidebar-title">{t(locale, 'siteTitle')}</span>
-			<span class="sidebar-sub" lang="zh">{t(locale, 'siteTitleZh')}</span>
+			{locale === 'ja' ? (
+				<span class="sidebar-sub" lang="ja">{t(locale, 'siteTitleJa')}</span>
+			) : (
+				<span class="sidebar-sub" lang="zh">{t(locale, 'siteTitleZh')}</span>
+			)}
 		</a>
 		<p class="sidebar-label">{t(locale, 'sidebarTitle')}</p>
 		<nav>

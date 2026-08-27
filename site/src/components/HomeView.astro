@@ -1,18 +1,18 @@
 ---
-// Shared home page: hero + chapter list. Rendered for both locales
-// (page files pick the locale; the manuscript is always English).
+// Shared home page: hero + chapter list. Rendered for all locales —
+// en/zh show the English manuscript, ja shows the Japanese translation.
 import { getChapters, chapterMeta, readingMinutes } from '../lib/book';
-import { t, LOGLINE, localePath, type Locale } from '../i18n/ui';
+import { t, LOGLINE, LOGLINE_JA, localePath, type Locale } from '../i18n/ui';
 
 interface Props {
 	locale: Locale;
 }
 
 const { locale } = Astro.props;
-const chapters = await getChapters();
-const metas = chapters.map(chapterMeta);
+const chapters = await getChapters(locale);
+const metas = chapters.map((c) => chapterMeta(c, locale));
 const totalWords = metas.reduce((sum, m) => sum + m.words, 0);
-const totalMinutes = readingMinutes(totalWords);
+const totalMinutes = readingMinutes(totalWords, locale);
 const firstSlug = metas[0]?.slug;
 const readHref = firstSlug ? localePath(locale, `/chapters/${firstSlug}/`) : localePath(locale, '/');
 ---
@@ -24,7 +24,16 @@ const readHref = firstSlug ? localePath(locale, `/chapters/${firstSlug}/`) : loc
 		{locale === 'zh' && (
 			<p class="hero-subtitle" lang="zh">{t(locale, 'siteTitleZh')}</p>
 		)}
-		<p class="hero-logline" lang="en">{LOGLINE}</p>
+		{locale === 'ja' && (
+			<p class="hero-subtitle" lang="ja">{t(locale, 'siteTitleJa')}</p>
+		)}
+		{
+			locale === 'ja' ? (
+				<p class="hero-logline" lang="ja">{LOGLINE_JA}</p>
+			) : (
+				<p class="hero-logline" lang="en">{LOGLINE}</p>
+			)
+		}
 		<div class="hero-actions">
 			<a class="cta" href={readHref}>{t(locale, 'homeReadCta')}</a>
 		</div>

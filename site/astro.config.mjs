@@ -11,9 +11,9 @@ export default defineConfig({
 	},
 	i18n: {
 		defaultLocale: 'en',
-		locales: ['en', 'zh'],
+		locales: ['en', 'zh', 'ja'],
 		routing: {
-			prefixDefaultLocale: false, // en at `/`, zh at `/zh/`
+			prefixDefaultLocale: false, // en at `/`, zh at `/zh/`, ja at `/ja/`
 			redirectToDefaultLocale: false, // client-side auto-selection instead (BaseLayout head script)
 		},
 	},

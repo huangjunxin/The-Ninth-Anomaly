@@ -25,10 +25,10 @@
 - **The unreadable-entries running count** — ch.5 (first: the ear-edge, "the first entry he had ever made that he was not certain he had read correctly") → ch.7 (second: the face-press, "for the second time in his life he chose not to guess") → ch.11 (third: the cat's look, "the third unreadable entry of his life"). Internally consistent.
 - **Vance's wrong coffee** — ch.4 (one sugar where he takes none; six years; drank anyway) → ch.6 (Torelli's tin cup of the non-machine cup). Micro, paid.
 
-## Orphaned setups (no payoff in text — as of the 16-chapter revision)
+## Formerly orphaned setups (all resolved)
 
-- **The folded breakfast pack** — ch.1 (fold ritual — "He did not know when the folding had become obligatory"; the cat inspects it: "no smell, no heat, no give," and is offended) and ch.2 (unopened on the counter) — never revisited through ch.16. Still orphaned; cut or pay in a future pass.
-- **The painted cat (ochre-and-soot)** — ch.5 ("the only image in the city that could not be rewritten"), referenced ch.7; the ch.15 crowd scene revisits the FEATHER & FUR sign but not the mural. Semi-orphaned: thematically complete enough to survive, but it was framed as a promise.
+- **The folded breakfast pack** — ch.1 (fold ritual — "He did not know when the folding had become obligatory"; the cat inspects it: "no smell, no heat, no give," and is offended) and ch.2 (unopened on the counter). **Paid (ch.16):** after the burn, "The empty pack his hands folded twice, into its neat square… The why of the fold was gone from him; the hands kept the shape without being asked to." The ritual survives in the body — the theme's smallest proof.
+- **The painted cat (ochre-and-soot)** — ch.5 ("the only image in the city that could not be rewritten"), referenced ch.7. **Paid (ch.15):** in the remembering crowd, "Someone had begun a second beside it, in the same old paint. Half an arch. The hook coming back." The un-rewritable image has company.
 - **The "personel" typo / "Question: whose?"** — ch.4 (the typo, read twice; "The close-out is not in the grid's hand. Question: whose?"); ch.6 ("as the close-out had amended itself"). **Paid (ch.9):** the cat confesses it priced a human hand inside the system — "a clerk wrote that close-out in the small hours, and the misspelled word it left in the boilerplate was its own." The typo was the clerk's signature. Resolved.
 
 ## Memory burn-list seeding rule (critical)

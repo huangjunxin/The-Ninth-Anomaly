@@ -105,7 +105,7 @@ The first volume stayed closed. He put his hand on it as he had put his hand on 
 
 The complete file came up the way files came up: a chute, a life, an order. Cover: ARTHUR M. Retainer, marked. IRREPARABLE — the stamp the city used for the work it did not intend to finish, and had never amended in twenty years.
 
-The old leaves: the household flag, 1998; the raid authorization, in the city's older hand; the confiscation record — one picture book, graded high, grade his.
+The old leaves: the household flag, 2087; the raid authorization, in the city's older hand; the confiscation record — one picture book, graded high, grade his.
 
 The boy's voice behind the door. The record held nothing of it. No record had ever contained it.
 

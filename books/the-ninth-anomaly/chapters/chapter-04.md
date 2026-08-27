@@ -58,13 +58,13 @@ He read the name twice.
 
 Arthur.
 
-The name arrived as a temperature: heat through a window that should not have been open, thirty-one degrees in the afternoon, a summer the city no longer admitted it had had. A household, flagged. A case number carrying the old year, 1998, before the grid changed its numbering. A child's picture book, confiscated, graded high. The grade his. He had led the detail himself. That was the assignment he remembered best, and the one he remembered least, and both were true.
+The name arrived as a temperature: heat through a window that should not have been open, thirty-one degrees in the afternoon, a summer the city no longer admitted it had had. A household, flagged. A case number carrying the old year, 2087, before the grid changed its numbering. A child's picture book, confiscated, graded high. The grade his. He had led the detail himself. That was the assignment he remembered best, and the one he remembered least, and both were true.
 
 He remembered the heat. He remembered the book in his gloved hand, the weight of it, light, heavier than it had been in its owner's keeping, as confiscated things always are. And he remembered the child: the edge of the raid, small, behind a door that had stayed closed, because there was a voice.
 
 The boy's voice going on through the panels, reciting something, and his men standing with their backs to it, no orders covering it.
 
-The old volume was on the shelf behind his desk, the first volume, the one whose spine had gone soft. The night was in it, written in the hand he had had at twenty, in the summer of 1998. He put his hand on the spine, held it, and took it back. The page stayed where it was, and the night stayed in it, the old pressure still in the fiber.
+The old volume was on the shelf behind his desk, the first volume, the one whose spine had gone soft. The night was in it, written in the hand he had had at twenty, in the summer of 2087. He put his hand on the spine, held it, and took it back. The page stayed where it was, and the night stayed in it, the old pressure still in the fiber.
 
 He issued the envelope himself: the flat, watched. The retainer, held in place. No contact. He kept the thought off the terminal, because what he thought had no grid category: the city had sent two men into that flat and taken nothing out of it, and the men had come back out lighter by a cause they could not name, and the flat's file carried a stamp he had seen on exactly one other file in his life, and that one had been a child's, twenty years, unrevised.
 

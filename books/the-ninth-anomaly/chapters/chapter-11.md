@@ -1,6 +1,6 @@
 # Chapter 11: The Offer
 
-One set of boots. He heard them before the beams moved, before anything in the corridor changed — a single tread, heel first, unhurried, coming down from the seam, and behind it the sound of a sweep going quiet, the way a held gun goes quiet. Arthur stopped mid-pull, one hand flat on the cracked slab, the cat against his sternum, and did not move. A month of running had taught him the difference between boots that find you and boots that have already found you. These had already found him.
+One set of boots. He heard them before the beams moved, before anything in the corridor changed — a single tread, heel first, unhurried, coming down from the seam, and behind it the sound of a sweep going quiet, the way a held gun goes quiet. Arthur stopped mid-pull, one hand flat on the cracked slab, the cat against his sternum, and did not move. Days of running had taught him the difference between boots that find you and boots that have already found you. These had already found him.
 
 The tread stopped two arm's lengths from his hands. The searchlight that had been raking the rubble swung wide and stayed, holding the far wall, and a man walked into the reach of the beam, polished boots, a uniform bearing captain's bars, no helmet, no haste, and stood between Arthur and the door, the green of the collar burning at his back like a small sun, his shadow thrown across the slab toward the crawling man.
 
@@ -58,9 +58,9 @@ Vance held still. 'The offer is not entered.'
 
 Vance was silent for a moment. The severed keep a smooth quiet; this was the other silence, the one that turns a sheet over and finds the mark on its back. When he spoke, the words came without weight, a passage read many times over the years.
 
-'You were eight. Nineteen... ninety-eight. The raid on the flat. One picture book, confiscated, graded high. The child behind the door, reciting the page, over and over, while my men took the book. A boy who would not stop saying what he saw. I remember the voice. The grid has never been able to amend that out of me.' A beat, measured. 'I led that raid, Arthur. I signed the order that locked you.'
+'You were eight. Twenty... eighty-seven. The raid on the flat. One picture book, confiscated, graded high. The child behind the door, reciting the page, over and over, while my men took the book. A boy who would not stop saying what he saw. I remember the voice. The grid has never been able to amend that out of me.' A beat, measured. 'I led that raid, Arthur. I signed the order that locked you.'
 
-The words arrived, and Arthur filed them the way he had filed the rosette: whole. Year, 1998. Subject: minor, age eight. Grounds: retention, irreparable. Scope: permanent, irreversible. Signature: the hand that now stood over him in the light, offering to turn the key the other way.
+The words arrived, and Arthur filed them the way he had filed the rosette: whole. Year, 2087. Subject: minor, age eight. Grounds: retention, irreparable. Scope: permanent, irreversible. Signature: the hand that now stood over him in the light, offering to turn the key the other way.
 
 He checked the three things a clerk checks on any document: the date, which fit; the scope, which he had carried for twenty years in his own spine; the hand, which was in front of him, within reach, hanging empty at the man's side. All three reconciled. He had sat, he had lain, he had crawled under a piece of paper for twenty years, and the paper had had no face, and the face was the city's, and now the paper had a face, and the face was speaking to him reasonably, at the level of his crawling, because it had read his file twice.
 
@@ -78,7 +78,7 @@ He took it in silence and filed it with the rest: he had never once, in twenty y
 
 Vance looked at the cat; the first time, Arthur thought, the man had ever stood close enough to do it. The look was long, and Arthur left it unread, the third unreadable entry of his life, after the face pressed against his hand at the gate of signatures. The cat stayed still. The faint wrong pulse went on under Arthur's thumb, and the empty link where its voice had been gave back nothing.
 
-'Answer me, then,' Vance said. 'You're the only man in the city who can answer honestly. Twenty years in a cage for one page of a book. A month of running for a thing that cannot even reach you anymore, cannot shelter you, cannot speak to you, cannot price its own way out. It has one foot in static and the other in the dark, Arthur. Was it worth it?'
+'Answer me, then,' Vance said. 'You're the only man in the city who can answer honestly. Twenty years in a cage for one page of a book. Days of running for a thing that cannot even reach you anymore, cannot shelter you, cannot speak to you, cannot price its own way out. It has one foot in static and the other in the dark, Arthur. Was it worth it?'
 
 And Arthur, who could not lie, set the question down in front of himself and looked at it honestly. The honest answer rose up whole. It had been true since the raid, and it had been sleeping in the lowered drawer with the word *stand*, and the offer had woken it: he did not know. Of course he did not know; the offer was the city's proof of it, the whole force of the offer leaning on that unknowing, and he let it stand, and did not run from it, and said it.
 
@@ -98,7 +98,7 @@ The sidearm came up when he pulled. He heard it clear the holster, a sound he ha
 
 He could feel the barrel on his back like a glance, a pressure with a direction, following him for a reach and a half, and then the sound of the weapon being lowered, holstered, settled: the shot unspent, the order unserved, and nothing in the corridor to say why, except the man himself, who said nothing.
 
-He did not look back. He had learned, in a month of running, not to look at the thing that had not killed him; looking made it real, and real was a category he was running out of room for.
+He did not look back. He had learned, in days of running, not to look at the thing that had not killed him; looking made it real, and real was a category he was running out of room for.
 
 He reached the ring of green light at the collar, the door still sealed, the grammar of the turn waiting under his hand. The archived page had told him the vault kept three doors: codes, then signatures, and then a third, which the page had not named; documents stop where the deep begins, at the edge of the page. He had begun the turn when the captain spoke from behind him, measured, unhurried, once, a man saying a thing he had decided to say exactly once.
 

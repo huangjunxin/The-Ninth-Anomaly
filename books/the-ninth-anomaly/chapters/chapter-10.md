@@ -60,7 +60,7 @@ It had fallen. It lay at the foot of the chair on the cracked slab, legs splayed
 
 The translucency had lost its edges; the whole of it was dim, the burned parts the color of a screen gone to static, and it lay against the slab like matter that had stopped agreeing to be matter.
 
-He put his hand under its chest, carefully, as you handle something that has been burned, and it weighed almost nothing. It had been costing itself for a month, in the underlevels, the street, the windowsill before that; what was left was lighter than his memory of it.
+He put his hand under its chest, carefully, as you handle something that has been burned, and it weighed almost nothing. It had been costing itself for days, in the underlevels, the street, the windowsill before that; what was left was lighter than his memory of it.
 
 It was not dead. He filed that first, the most important filing of his life: not dead.
 

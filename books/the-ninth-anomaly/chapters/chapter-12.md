@@ -1,4 +1,4 @@
-# Chapter 12: The Ledger, 1998
+# Chapter 12: The Ledger, 2087
 
 He turned. He walked back along the corridor, past the soldiers, up the ramp. He came to the top at 00:10, and the men at the seam did not ask.
 
@@ -14,9 +14,9 @@ He took it down.
 
 It was lighter than the grid's records, heavier than its own pages, and it opened without a sound. The paper had yellowed to a color the city had stopped making, a color with no formula, because the color was time, and time was one of the things the city amended. The ink was his.
 
-He knew the hand before he read a word of it. The V, open like a door. The hand had underlined then — whole lines, double strokes, as if the page were a subordinate who might otherwise miss the point. He had underlined nothing since; somewhere he could not date he had stopped, and it was the one habit he had ever dropped without a memo. The letters carried over the line — a weight he had agreed to carry. The hand he had had at twenty, in the summer of 1998, at thirty-one degrees, in a flat whose window had been open without permission, the heat coming in off a street the city no longer admitted it had ever had. He turned the leaves past the early entries, the yard duty, the first requisition, the first signature he had been trusted to make whole, and came to the long entry of the raid, and read the page to the end, for the first time in twenty years.
+He knew the hand before he read a word of it. The V, open like a door. The hand had underlined then — whole lines, double strokes, as if the page were a subordinate who might otherwise miss the point. He had underlined nothing since; somewhere he could not date he had stopped, and it was the one habit he had ever dropped without a memo. The letters carried over the line — a weight he had agreed to carry. The hand he had had at twenty, in the summer of 2087, at thirty-one degrees, in a flat whose window had been open without permission, the heat coming in off a street the city no longer admitted it had ever had. He turned the leaves past the early entries, the yard duty, the first requisition, the first signature he had been trusted to make whole, and came to the long entry of the raid, and read the page to the end, for the first time in twenty years.
 
-> 1-0409. Time 17:40. July, 1998. The flag: household, surplus account, stock high. Detail: four men, myself, light arms, no force required. Item: one picture book, graded high, grade his, stock destined for destruction.
+> 1-0409. Time 17:40. July, 2087. The flag: household, surplus account, stock high. Detail: four men, myself, light arms, no force required. Item: one picture book, graded high, grade his, stock destined for destruction.
 > The heat today is unpermitted. Thirty-one at the walk; the window in the main room is open without authorization. The room has no official temperature. I record the fact because it is the kind of fact the grid will smooth, and someone should know the room was hot.
 > The book is light in the gloved hand. I record that it was heavier than it had been in its owner's keeping. I do not know why that is true, and I record it because it is true.
 > The child stayed behind a door that stayed closed. He did not come out when called. He recited — from behind the panels, while the book was in transit, four times, and did not stop when we stopped listening — a page of a child's rhyme about a cat. He could not have been reading it. He could not see the book. I wrote the page down as he said it, line by line, because the grid will not keep it and something should. It reads:
@@ -51,7 +51,7 @@ There was a difference between keeping a page and reading a page. He had done th
 
 The city called it a defect. He turned past the raid entry to the next, the shorter one, and read it whole, and it was all there, in the young hand's even lines: the retention test, run after the confiscation, which had proved what the raid had already shown — the child had kept the page after it had left his keeping. The memory did not slide or amend. It stayed, whole, in a city that ran on things not staying. That was the defect. That was the grounds. *IRREPARABLE*. The stamp for the work the city did not intend to finish, and had never amended in twenty years. And on the order, in the delegation line, his name, the V of it a doorway.
 
-> 1-0410. Time 21:05. August, 1998. Item: the lock order, signed by my hand today. Subject: the child of 1-0409. Scope: permanent, irreversible.
+> 1-0410. Time 21:05. August, 2087. Item: the lock order, signed by my hand today. Subject: the child of 1-0409. Scope: permanent, irreversible.
 > The test confirmed the grade. He held the page after the confiscation; the instruments measured it; the retention is genuine. The city will use him in the archive, the way the sighted are used, to bury what they see.
 > The book is in the grade-high stock. It will burn. I have the page in this volume and he has it in his head, and both of us signed today. I do not know which of the two the city will find it harder to amend.
 

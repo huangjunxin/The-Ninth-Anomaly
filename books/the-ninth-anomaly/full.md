@@ -430,13 +430,13 @@ He read the name twice.
 
 Arthur.
 
-The name arrived as a temperature: heat through a window that should not have been open, thirty-one degrees in the afternoon, a summer the city no longer admitted it had had. A household, flagged. A case number carrying the old year, 1998, before the grid changed its numbering. A child's picture book, confiscated, graded high. The grade his. He had led the detail himself. That was the assignment he remembered best, and the one he remembered least, and both were true.
+The name arrived as a temperature: heat through a window that should not have been open, thirty-one degrees in the afternoon, a summer the city no longer admitted it had had. A household, flagged. A case number carrying the old year, 2087, before the grid changed its numbering. A child's picture book, confiscated, graded high. The grade his. He had led the detail himself. That was the assignment he remembered best, and the one he remembered least, and both were true.
 
 He remembered the heat. He remembered the book in his gloved hand, the weight of it, light, heavier than it had been in its owner's keeping, as confiscated things always are. And he remembered the child: the edge of the raid, small, behind a door that had stayed closed, because there was a voice.
 
 The boy's voice going on through the panels, reciting something, and his men standing with their backs to it, no orders covering it.
 
-The old volume was on the shelf behind his desk, the first volume, the one whose spine had gone soft. The night was in it, written in the hand he had had at twenty, in the summer of 1998. He put his hand on the spine, held it, and took it back. The page stayed where it was, and the night stayed in it, the old pressure still in the fiber.
+The old volume was on the shelf behind his desk, the first volume, the one whose spine had gone soft. The night was in it, written in the hand he had had at twenty, in the summer of 2087. He put his hand on the spine, held it, and took it back. The page stayed where it was, and the night stayed in it, the old pressure still in the fiber.
 
 He issued the envelope himself: the flat, watched. The retainer, held in place. No contact. He kept the thought off the terminal, because what he thought had no grid category: the city had sent two men into that flat and taken nothing out of it, and the men had come back out lighter by a cause they could not name, and the flat's file carried a stamp he had seen on exactly one other file in his life, and that one had been a child's, twenty years, unrevised.
 
@@ -742,7 +742,7 @@ The first volume stayed closed. He put his hand on it as he had put his hand on 
 
 The complete file came up the way files came up: a chute, a life, an order. Cover: ARTHUR M. Retainer, marked. IRREPARABLE — the stamp the city used for the work it did not intend to finish, and had never amended in twenty years.
 
-The old leaves: the household flag, 1998; the raid authorization, in the city's older hand; the confiscation record — one picture book, graded high, grade his.
+The old leaves: the household flag, 2087; the raid authorization, in the city's older hand; the confiscation record — one picture book, graded high, grade his.
 
 The boy's voice behind the door. The record held nothing of it. No record had ever contained it.
 
@@ -1243,7 +1243,7 @@ It had fallen. It lay at the foot of the chair on the cracked slab, legs splayed
 
 The translucency had lost its edges; the whole of it was dim, the burned parts the color of a screen gone to static, and it lay against the slab like matter that had stopped agreeing to be matter.
 
-He put his hand under its chest, carefully, as you handle something that has been burned, and it weighed almost nothing. It had been costing itself for a month, in the underlevels, the street, the windowsill before that; what was left was lighter than his memory of it.
+He put his hand under its chest, carefully, as you handle something that has been burned, and it weighed almost nothing. It had been costing itself for days, in the underlevels, the street, the windowsill before that; what was left was lighter than his memory of it.
 
 It was not dead. He filed that first, the most important filing of his life: not dead.
 
@@ -1315,7 +1315,7 @@ Ten feet became nine, and nine became eight, and the man who could not walk, car
 
 # Chapter 11: The Offer
 
-One set of boots. He heard them before the beams moved, before anything in the corridor changed — a single tread, heel first, unhurried, coming down from the seam, and behind it the sound of a sweep going quiet, the way a held gun goes quiet. Arthur stopped mid-pull, one hand flat on the cracked slab, the cat against his sternum, and did not move. A month of running had taught him the difference between boots that find you and boots that have already found you. These had already found him.
+One set of boots. He heard them before the beams moved, before anything in the corridor changed — a single tread, heel first, unhurried, coming down from the seam, and behind it the sound of a sweep going quiet, the way a held gun goes quiet. Arthur stopped mid-pull, one hand flat on the cracked slab, the cat against his sternum, and did not move. Days of running had taught him the difference between boots that find you and boots that have already found you. These had already found him.
 
 The tread stopped two arm's lengths from his hands. The searchlight that had been raking the rubble swung wide and stayed, holding the far wall, and a man walked into the reach of the beam, polished boots, a uniform bearing captain's bars, no helmet, no haste, and stood between Arthur and the door, the green of the collar burning at his back like a small sun, his shadow thrown across the slab toward the crawling man.
 
@@ -1373,9 +1373,9 @@ Vance held still. 'The offer is not entered.'
 
 Vance was silent for a moment. The severed keep a smooth quiet; this was the other silence, the one that turns a sheet over and finds the mark on its back. When he spoke, the words came without weight, a passage read many times over the years.
 
-'You were eight. Nineteen... ninety-eight. The raid on the flat. One picture book, confiscated, graded high. The child behind the door, reciting the page, over and over, while my men took the book. A boy who would not stop saying what he saw. I remember the voice. The grid has never been able to amend that out of me.' A beat, measured. 'I led that raid, Arthur. I signed the order that locked you.'
+'You were eight. Twenty... eighty-seven. The raid on the flat. One picture book, confiscated, graded high. The child behind the door, reciting the page, over and over, while my men took the book. A boy who would not stop saying what he saw. I remember the voice. The grid has never been able to amend that out of me.' A beat, measured. 'I led that raid, Arthur. I signed the order that locked you.'
 
-The words arrived, and Arthur filed them the way he had filed the rosette: whole. Year, 1998. Subject: minor, age eight. Grounds: retention, irreparable. Scope: permanent, irreversible. Signature: the hand that now stood over him in the light, offering to turn the key the other way.
+The words arrived, and Arthur filed them the way he had filed the rosette: whole. Year, 2087. Subject: minor, age eight. Grounds: retention, irreparable. Scope: permanent, irreversible. Signature: the hand that now stood over him in the light, offering to turn the key the other way.
 
 He checked the three things a clerk checks on any document: the date, which fit; the scope, which he had carried for twenty years in his own spine; the hand, which was in front of him, within reach, hanging empty at the man's side. All three reconciled. He had sat, he had lain, he had crawled under a piece of paper for twenty years, and the paper had had no face, and the face was the city's, and now the paper had a face, and the face was speaking to him reasonably, at the level of his crawling, because it had read his file twice.
 
@@ -1393,7 +1393,7 @@ He took it in silence and filed it with the rest: he had never once, in twenty y
 
 Vance looked at the cat; the first time, Arthur thought, the man had ever stood close enough to do it. The look was long, and Arthur left it unread, the third unreadable entry of his life, after the face pressed against his hand at the gate of signatures. The cat stayed still. The faint wrong pulse went on under Arthur's thumb, and the empty link where its voice had been gave back nothing.
 
-'Answer me, then,' Vance said. 'You're the only man in the city who can answer honestly. Twenty years in a cage for one page of a book. A month of running for a thing that cannot even reach you anymore, cannot shelter you, cannot speak to you, cannot price its own way out. It has one foot in static and the other in the dark, Arthur. Was it worth it?'
+'Answer me, then,' Vance said. 'You're the only man in the city who can answer honestly. Twenty years in a cage for one page of a book. Days of running for a thing that cannot even reach you anymore, cannot shelter you, cannot speak to you, cannot price its own way out. It has one foot in static and the other in the dark, Arthur. Was it worth it?'
 
 And Arthur, who could not lie, set the question down in front of himself and looked at it honestly. The honest answer rose up whole. It had been true since the raid, and it had been sleeping in the lowered drawer with the word *stand*, and the offer had woken it: he did not know. Of course he did not know; the offer was the city's proof of it, the whole force of the offer leaning on that unknowing, and he let it stand, and did not run from it, and said it.
 
@@ -1413,7 +1413,7 @@ The sidearm came up when he pulled. He heard it clear the holster, a sound he ha
 
 He could feel the barrel on his back like a glance, a pressure with a direction, following him for a reach and a half, and then the sound of the weapon being lowered, holstered, settled: the shot unspent, the order unserved, and nothing in the corridor to say why, except the man himself, who said nothing.
 
-He did not look back. He had learned, in a month of running, not to look at the thing that had not killed him; looking made it real, and real was a category he was running out of room for.
+He did not look back. He had learned, in days of running, not to look at the thing that had not killed him; looking made it real, and real was a category he was running out of room for.
 
 He reached the ring of green light at the collar, the door still sealed, the grammar of the turn waiting under his hand. The archived page had told him the vault kept three doors: codes, then signatures, and then a third, which the page had not named; documents stop where the deep begins, at the edge of the page. He had begun the turn when the captain spoke from behind him, measured, unhurried, once, a man saying a thing he had decided to say exactly once.
 
@@ -1421,7 +1421,7 @@ And this time there was no number on it. No *one, two, three*. Just a sentence, 
 
 'The inner door wants a clean signature. Yours is dirty.'
 
-# Chapter 12: The Ledger, 1998
+# Chapter 12: The Ledger, 2087
 
 He turned. He walked back along the corridor, past the soldiers, up the ramp. He came to the top at 00:10, and the men at the seam did not ask.
 
@@ -1437,9 +1437,9 @@ He took it down.
 
 It was lighter than the grid's records, heavier than its own pages, and it opened without a sound. The paper had yellowed to a color the city had stopped making, a color with no formula, because the color was time, and time was one of the things the city amended. The ink was his.
 
-He knew the hand before he read a word of it. The V, open like a door. The hand had underlined then — whole lines, double strokes, as if the page were a subordinate who might otherwise miss the point. He had underlined nothing since; somewhere he could not date he had stopped, and it was the one habit he had ever dropped without a memo. The letters carried over the line — a weight he had agreed to carry. The hand he had had at twenty, in the summer of 1998, at thirty-one degrees, in a flat whose window had been open without permission, the heat coming in off a street the city no longer admitted it had ever had. He turned the leaves past the early entries, the yard duty, the first requisition, the first signature he had been trusted to make whole, and came to the long entry of the raid, and read the page to the end, for the first time in twenty years.
+He knew the hand before he read a word of it. The V, open like a door. The hand had underlined then — whole lines, double strokes, as if the page were a subordinate who might otherwise miss the point. He had underlined nothing since; somewhere he could not date he had stopped, and it was the one habit he had ever dropped without a memo. The letters carried over the line — a weight he had agreed to carry. The hand he had had at twenty, in the summer of 2087, at thirty-one degrees, in a flat whose window had been open without permission, the heat coming in off a street the city no longer admitted it had ever had. He turned the leaves past the early entries, the yard duty, the first requisition, the first signature he had been trusted to make whole, and came to the long entry of the raid, and read the page to the end, for the first time in twenty years.
 
-> 1-0409. Time 17:40. July, 1998. The flag: household, surplus account, stock high. Detail: four men, myself, light arms, no force required. Item: one picture book, graded high, grade his, stock destined for destruction.
+> 1-0409. Time 17:40. July, 2087. The flag: household, surplus account, stock high. Detail: four men, myself, light arms, no force required. Item: one picture book, graded high, grade his, stock destined for destruction.
 > The heat today is unpermitted. Thirty-one at the walk; the window in the main room is open without authorization. The room has no official temperature. I record the fact because it is the kind of fact the grid will smooth, and someone should know the room was hot.
 > The book is light in the gloved hand. I record that it was heavier than it had been in its owner's keeping. I do not know why that is true, and I record it because it is true.
 > The child stayed behind a door that stayed closed. He did not come out when called. He recited — from behind the panels, while the book was in transit, four times, and did not stop when we stopped listening — a page of a child's rhyme about a cat. He could not have been reading it. He could not see the book. I wrote the page down as he said it, line by line, because the grid will not keep it and something should. It reads:
@@ -1474,7 +1474,7 @@ There was a difference between keeping a page and reading a page. He had done th
 
 The city called it a defect. He turned past the raid entry to the next, the shorter one, and read it whole, and it was all there, in the young hand's even lines: the retention test, run after the confiscation, which had proved what the raid had already shown — the child had kept the page after it had left his keeping. The memory did not slide or amend. It stayed, whole, in a city that ran on things not staying. That was the defect. That was the grounds. *IRREPARABLE*. The stamp for the work the city did not intend to finish, and had never amended in twenty years. And on the order, in the delegation line, his name, the V of it a doorway.
 
-> 1-0410. Time 21:05. August, 1998. Item: the lock order, signed by my hand today. Subject: the child of 1-0409. Scope: permanent, irreversible.
+> 1-0410. Time 21:05. August, 2087. Item: the lock order, signed by my hand today. Subject: the child of 1-0409. Scope: permanent, irreversible.
 > The test confirmed the grade. He held the page after the confiscation; the instruments measured it; the retention is genuine. The city will use him in the archive, the way the sighted are used, to bury what they see.
 > The book is in the grade-high stock. It will burn. I have the page in this volume and he has it in his head, and both of us signed today. I do not know which of the two the city will find it harder to amend.
 
@@ -1532,7 +1532,7 @@ Five. The direction is down. The direction is the Seed Vault.
 
 The words followed him all the way to the collar — *the inner door wants a clean signature. Yours is dirty.* The sentence had been standing behind him since the captain spoke it, and Arthur put it in the drawer with the things he could not use yet, and took hold of the collar. The metal was warm from his own hands, warm as iron in a grip held half the night. The collar sat half-advanced, exactly where his grip had left it on the night the searchlights found them, when the chair went down under him. The first half of the turn had cost him a wheelchair and a night and everything a wheelchair had ever meant; the second half stood ready, waiting to be finished.
 
-His arms had been shaking since the ramp; the crawl had taken the night's worst out of them, and the collar asked for more than the night had left. He gave it what he had, his whole technique for a month: give what you have, pull, do not stop pulling. The green ring of light lay low around the collar, and the cat lay against his sternum, and the city lay somewhere above them both, amended, quiet.
+His arms had been shaking since the ramp; the crawl had taken the night's worst out of them, and the collar asked for more than the night had left. He gave it what he had, his whole technique for days: give what you have, pull, do not stop pulling. The green ring of light lay low around the collar, and the cat lay against his sternum, and the city lay somewhere above them both, amended, quiet.
 
 'Stay,' he said to the cat. Out of habit. The ceiling could have come down on it and the dim weight in the cradle of his arm would not have moved, could not have heard him if it could; the link where its voice had lived gave back nothing, and he knew the word was for him now, not for it, but it was the word it had left him with, and the word was his to keep.
 

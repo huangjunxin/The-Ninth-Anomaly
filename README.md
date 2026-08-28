@@ -1,6 +1,6 @@
-# The Ninth Anomaly · 第九类异体
+# The Ninth Anomaly · 第九異常
 
-A literary dystopian SF novella (~50,000 words, 18 chapters), together with the
+A literary dystopian SF novella (~48,000 words, 16 chapters), together with the
 static website built to publish it online.
 
 > In a city severed from the very concept of nature, the only man who can see
@@ -10,8 +10,11 @@ static website built to publish it online.
 
 ```
 books/the-ninth-anomaly/   The manuscript (English) — the source of truth
-├── chapters/              chapter-01.md … chapter-18.md
+├── chapters/              chapter-01.md … chapter-16.md
 ├── full.md                Single-file compilation of all chapters
+├── yue/                   Cantonese translation (HK written Chinese narration,
+│                          Cantonese dialogue), mirroring chapters/ + full.md,
+│                          plus TRANSLATION_BRIEF.md
 ├── ja/                    Japanese translation (Murakami-style), mirroring
 │                          chapters/ + full.md, plus TRANSLATION_BRIEF.md
 └── story/                 Working notes: outline, style guide, state tracking

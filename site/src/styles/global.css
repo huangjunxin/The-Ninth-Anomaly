@@ -815,6 +815,19 @@ html[data-theme='dark'] .hero::before {
 		padding-inline: 0.85rem;
 	}
 
+	.site-title {
+		min-width: 0;
+		font-size: 0.7rem;
+		letter-spacing: 0.14em;
+		overflow: hidden;
+		text-overflow: ellipsis;
+	}
+
+	.lang-switch,
+	.theme-toggle {
+		flex: none;
+	}
+
 	.site-title-zh {
 		display: none;
 	}
@@ -843,14 +856,6 @@ html[data-theme='dark'] .hero::before {
 @media (max-width: 420px) {
 	body {
 		font-size: 1.03rem;
-	}
-
-	.toc-num {
-		display: none;
-	}
-
-	.toc-link {
-		grid-template-columns: 1fr;
 	}
 }
 

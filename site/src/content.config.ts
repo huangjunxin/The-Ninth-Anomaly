@@ -22,4 +22,14 @@ const chaptersJa = defineCollection({
 	schema: z.object({}),
 });
 
-export const collections = { chapters, chaptersJa };
+// The Cantonese translation, shown when the site is viewed with the Cantonese
+// UI. Same file naming, so slugs match the English chapters.
+const chaptersYue = defineCollection({
+	loader: glob({
+		pattern: 'chapter-*.md',
+		base: new URL('../../books/the-ninth-anomaly/yue/chapters/', import.meta.url),
+	}),
+	schema: z.object({}),
+});
+
+export const collections = { chapters, chaptersJa, chaptersYue };

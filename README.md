@@ -24,9 +24,9 @@ The manuscript is plain Markdown and is never modified by the site build —
 
 ## The website
 
-- English UI at `/`, Chinese UI at `/zh/`, Japanese UI at `/ja/`
-  (browser-language auto-detect with a manual three-way switcher; en/zh read
-  the English original, ja reads the Japanese translation)
+- English UI at `/`, Cantonese UI at `/yue/`, Japanese UI at `/ja/`
+  (browser-language auto-detect with a manual three-way switcher; each UI
+  reads its matching manuscript: en / yue / ja)
 - mdBook-style chapter sidebar (sticky on desktop, drawer on mobile)
 - Light/dark dual theme, serif literary typography, per-chapter reading time
 

@@ -6,7 +6,7 @@ import '@fontsource/source-serif-4/latin-600-italic.css';
 import '../styles/global.css';
 import ThemeToggle from '../components/ThemeToggle.astro';
 import SidebarToggle from '../components/SidebarToggle.astro';
-import { t, LOGLINE, LOGLINE_JA, localePath, stripLocalePrefix, locales, type Locale } from '../i18n/ui';
+import { t, LOGLINE, LOGLINE_JA, LOGLINE_YUE, localePath, stripLocalePrefix, locales, type Locale } from '../i18n/ui';
 
 interface Props {
 	locale: Locale;
@@ -20,7 +20,8 @@ interface Props {
 
 const { locale, title, description, showProgress = false, showSidebarToggle = false } =
 	Astro.props;
-const metaDescription = description ?? (locale === 'ja' ? LOGLINE_JA : LOGLINE);
+const metaDescription =
+	description ?? (locale === 'ja' ? LOGLINE_JA : locale === 'yue' ? LOGLINE_YUE : LOGLINE);
 const barePath = stripLocalePrefix(Astro.url.pathname);
 ---
 
@@ -53,9 +54,10 @@ const barePath = stripLocalePrefix(Astro.url.pathname);
 			})();
 
 			// Language auto-selection — only for visitors who never chose manually.
-			// zh-* browsers land on /zh/, ja-* on /ja/, everyone else on /. Once
-			// the user has picked a language (via the switcher, stored in
-			// `tna-lang`), their choice wins and no further redirects happen.
+			// zh-* browsers (Cantonese readers) land on /yue/, ja-* on /ja/,
+			// everyone else on /. Once the user has picked a language (via the
+			// switcher, stored in `tna-lang`), their choice wins and no further
+			// redirects happen.
 			(() => {
 				let choice = null;
 				try {
@@ -63,11 +65,11 @@ const barePath = stripLocalePrefix(Astro.url.pathname);
 				} catch {
 					/* fall through to detection */
 				}
-				if (choice === 'en' || choice === 'zh' || choice === 'ja') return;
+				if (choice === 'en' || choice === 'yue' || choice === 'ja') return;
 				const nav = (navigator.language || '').toLowerCase();
-				const target = nav.startsWith('zh') ? 'zh' : nav.startsWith('ja') ? 'ja' : 'en';
+				const target = nav.startsWith('zh') ? 'yue' : nav.startsWith('ja') ? 'ja' : 'en';
 				const { pathname } = window.location;
-				const m = pathname.match(/^\/(zh|ja)(?=\/|$)/);
+				const m = pathname.match(/^\/(yue|ja)(?=\/|$)/);
 				const current = m ? m[1] : 'en';
 				if (target === current) return;
 				const bare = m ? pathname.slice(m[1].length + 1) || '/' : pathname;
@@ -83,8 +85,8 @@ const barePath = stripLocalePrefix(Astro.url.pathname);
 				{showSidebarToggle && <SidebarToggle label={t(locale, 'sidebarTitle')} />}
 				<a class="site-title" href={localePath(locale, '/')}>
 					{t(locale, 'siteTitle')}
-					{locale === 'zh' && (
-						<span class="site-title-zh" lang="zh">{t(locale, 'siteTitleZh')}</span>
+					{locale === 'yue' && (
+						<span class="site-title-zh" lang="yue">{t(locale, 'siteTitleYue')}</span>
 					)}
 					{locale === 'ja' && (
 						<span class="site-title-zh" lang="ja">{t(locale, 'siteTitleJa')}</span>
@@ -103,7 +105,7 @@ const barePath = stripLocalePrefix(Astro.url.pathname);
 									data-lang-target={l}
 									aria-current={locale === l ? 'true' : undefined}
 								>
-									{t(locale, l === 'en' ? 'langEn' : l === 'zh' ? 'langZh' : 'langJa')}
+									{t(locale, l === 'en' ? 'langEn' : l === 'yue' ? 'langYue' : 'langJa')}
 								</a>
 							</>
 						))
@@ -119,7 +121,7 @@ const barePath = stripLocalePrefix(Astro.url.pathname);
 
 		<footer class="site-footer">
 			{t(locale, 'siteTitle')}<span class="footer-divider">·</span
-			><span lang="zh">{t(locale, 'siteTitleZh')}</span><span class="footer-divider">·</span
+			><span lang="yue">{t(locale, 'siteTitleYue')}</span><span class="footer-divider">·</span
 			><span lang="ja">{t(locale, 'siteTitleJa')}</span>
 			<br />
 			<a href={localePath(locale, '/#toc')}>{t(locale, 'tocLink')}</a>

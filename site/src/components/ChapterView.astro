@@ -1,7 +1,8 @@
 ---
 // Shared chapter reading page: sidebar + article + prev/next nav.
-// en/zh render the English original; ja renders the Japanese translation
-// (`lang` is set accordingly for correct fonts and hyphenation).
+// en renders the English original; ja the Japanese translation; yue the
+// Cantonese translation (`lang` is set accordingly for correct fonts and
+// hyphenation).
 import { render } from 'astro:content';
 import ProgressBar from './ProgressBar.astro';
 import ChapterSidebar from './ChapterSidebar.astro';
@@ -20,7 +21,7 @@ const { chapter, meta, prev, next, locale } = Astro.props;
 const chapters = await getChapters(locale);
 const metas = chapters.map((c) => chapterMeta(c, locale));
 const { Content } = await render(chapter);
-const contentLang = locale === 'ja' ? 'ja' : 'en';
+const contentLang = locale === 'ja' ? 'ja' : locale === 'yue' ? 'yue' : 'en';
 ---
 
 <div class="chapter-layout">

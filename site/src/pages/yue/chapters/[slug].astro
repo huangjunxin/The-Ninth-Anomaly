@@ -3,7 +3,7 @@ import BaseLayout from '../../../layouts/BaseLayout.astro';
 import ChapterView from '../../../components/ChapterView.astro';
 import { getChapters, chapterMeta, type Chapter, type ChapterMeta, type ChapterNavLink } from '../../../lib/book';
 
-const locale = 'zh';
+const locale = 'yue';
 
 interface Props {
 	chapter: Chapter;
@@ -13,8 +13,8 @@ interface Props {
 }
 
 export async function getStaticPaths() {
-	const chapters = await getChapters();
-	const entries = chapters.map((chapter) => ({ chapter, meta: chapterMeta(chapter) }));
+	const chapters = await getChapters('yue');
+	const entries = chapters.map((chapter) => ({ chapter, meta: chapterMeta(chapter, 'yue') }));
 	return entries.map((entry, i) => ({
 		params: { slug: entry.chapter.id },
 		props: {
@@ -34,8 +34,8 @@ const { chapter, meta, prev, next } = Astro.props;
 
 <BaseLayout
 	locale={locale}
-	title={`${meta.title} · The Ninth Anomaly`}
-	description={`第 ${meta.number} 章 · The Ninth Anomaly。`}
+	title={`${meta.title} · 第九異常`}
+	description={`第九異常 第 ${meta.number} 章。`}
 	showProgress
 	showSidebarToggle
 >

@@ -1,8 +1,9 @@
 ---
 // Shared home page: hero + chapter list. Rendered for all locales —
-// en/zh show the English manuscript, ja shows the Japanese translation.
+// en shows the English manuscript, ja the Japanese translation, yue the
+// Cantonese translation.
 import { getChapters, chapterMeta, readingMinutes } from '../lib/book';
-import { t, LOGLINE, LOGLINE_JA, localePath, type Locale } from '../i18n/ui';
+import { t, LOGLINE, LOGLINE_JA, LOGLINE_YUE, localePath, type Locale } from '../i18n/ui';
 
 interface Props {
 	locale: Locale;
@@ -21,8 +22,8 @@ const readHref = firstSlug ? localePath(locale, `/chapters/${firstSlug}/`) : loc
 	<div class="hero-inner">
 		<p class="hero-kicker">{t(locale, 'homeKicker')}</p>
 		<h1 class="hero-title">{t(locale, 'siteTitle')}</h1>
-		{locale === 'zh' && (
-			<p class="hero-subtitle" lang="zh">{t(locale, 'siteTitleZh')}</p>
+		{locale === 'yue' && (
+			<p class="hero-subtitle" lang="yue">{t(locale, 'siteTitleYue')}</p>
 		)}
 		{locale === 'ja' && (
 			<p class="hero-subtitle" lang="ja">{t(locale, 'siteTitleJa')}</p>
@@ -30,6 +31,8 @@ const readHref = firstSlug ? localePath(locale, `/chapters/${firstSlug}/`) : loc
 		{
 			locale === 'ja' ? (
 				<p class="hero-logline" lang="ja">{LOGLINE_JA}</p>
+			) : locale === 'yue' ? (
+				<p class="hero-logline" lang="yue">{LOGLINE_YUE}</p>
 			) : (
 				<p class="hero-logline" lang="en">{LOGLINE}</p>
 			)

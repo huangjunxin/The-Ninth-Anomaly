@@ -2,12 +2,17 @@ import { getCollection } from 'astro:content';
 import type { CollectionEntry } from 'astro:content';
 import type { Locale } from '../i18n/ui';
 
-export type Chapter = CollectionEntry<'chapters'> | CollectionEntry<'chaptersJa'>;
+export type Chapter =
+	| CollectionEntry<'chapters'>
+	| CollectionEntry<'chaptersJa'>
+	| CollectionEntry<'chaptersYue'>;
 
 /** Reading speed used for the per-chapter time estimates (English prose). */
 export const WORDS_PER_MINUTE = 230;
 /** Reading speed for the Japanese translation (characters per minute). */
 export const JA_CHARS_PER_MINUTE = 500;
+/** Reading speed for the Cantonese translation (characters per minute). */
+export const YUE_CHARS_PER_MINUTE = 500;
 
 const ROMAN = [
 	'I', 'II', 'III', 'IV', 'V', 'VI', 'VII', 'VIII', 'IX', 'X',
@@ -33,18 +38,23 @@ export function parseChapterHeading(body: string): { number: number; title: stri
 
 /**
  * Text size used for the reading-time estimate. English prose counts
- * whitespace-separated words; Japanese has no spaces, so count CJK
- * characters (kanji + kana) instead.
+ * whitespace-separated words; the Japanese and Cantonese translations have
+ * no spaces, so count CJK characters (kanji + kana) instead.
  */
 export function textCount(body: string, locale: Locale = 'en'): number {
-	if (locale === 'ja') {
+	if (locale === 'ja' || locale === 'yue') {
 		return (body.match(/[぀-ヿ㐀-䶿一-鿿豈-﫿]/g) ?? []).length;
 	}
 	return body.trim().split(/\s+/).filter(Boolean).length;
 }
 
 export function readingMinutes(count: number, locale: Locale = 'en'): number {
-	const perMinute = locale === 'ja' ? JA_CHARS_PER_MINUTE : WORDS_PER_MINUTE;
+	const perMinute =
+		locale === 'ja'
+			? JA_CHARS_PER_MINUTE
+			: locale === 'yue'
+				? YUE_CHARS_PER_MINUTE
+				: WORDS_PER_MINUTE;
 	return Math.max(1, Math.round(count / perMinute));
 }
 
@@ -78,11 +88,13 @@ export interface ChapterNavLink {
 
 /**
  * All chapters, ordered by their declared chapter number. The 'ja' locale
- * reads the translated manuscript; 'en' and 'zh' both read the English
- * original (the zh UI localizes the chrome only).
+ * reads the Japanese translation, 'yue' the Cantonese translation, and 'en'
+ * the English original.
  */
 export async function getChapters(locale: Locale = 'en'): Promise<Chapter[]> {
-	const chapters = await getCollection(locale === 'ja' ? 'chaptersJa' : 'chapters');
+	const chapters = await getCollection(
+		locale === 'ja' ? 'chaptersJa' : locale === 'yue' ? 'chaptersYue' : 'chapters',
+	);
 	return chapters
 		.map((c) => ({ c, meta: chapterMeta(c, locale) }))
 		.sort((a, b) => a.meta.number - b.meta.number)
